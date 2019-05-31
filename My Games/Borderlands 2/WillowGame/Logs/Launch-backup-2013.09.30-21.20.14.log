@@ -1,0 +1,86 @@
+Log: Log file open, 09/30/13 21:00:32
+Log: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+Log: Version: 8629
+Log: Compiled (32-bit): Jun 26 2013 17:28:31
+Log: Changelist: 744907
+Log: Command line: 
+Log: Base directory: C:\f`\à;K0\Borderlands2\Binaries\Win32\
+[0002.83] Log: CPU Page size=4096, Processors=2
+[0003.09] Log: High frequency timer resolution =2.631875 MHz
+[0003.09] Log: Memory total: Physical=3.4GB Pagefile=6.8GB Virtual=4.0GB
+[0003.09] Log: STEAMWORKS initialized 1
+[0003.10] Log: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[0003.10] Log: Presizing GObjAvailable to 262144 slots (~1048576 bytes)
+[0003.11] Log: Object subsystem initialized
+[0003.11] Log:   Steamworks-provided language string: english
+[0007.68] Log: OS stats:
+[0007.68] Log: 	Windows 7 Service Pack 1
+[0007.68] Log: 	RemoteDesktop=0
+[0007.68] Log: Memory stats:
+[0007.68] Log: 	Physical: 3506MB
+[0007.68] Log: 	Virtual: 4095MB
+[0007.68] Log: 	PageFile: 7012MB
+[0007.68] Log: CPU stats:
+[0007.68] Log: 	MeasuredPerformanceTime: 407.098 (measured now)
+[0007.68] Log: 	Hyperthreaded: 1
+[0007.68] Log: 	NumProcessorsPerCPU: 1
+[0007.68] Log: 	NumLogicalProcessors: 2
+[0007.68] Log: 	NumPhysicalProcessors: 16386
+[0007.68] Log: 	MaxSpeed: 2700
+[0007.68] Log: 	CurrentSpeed: 1377
+[0007.68] Log: 	CoresPerProcessor: 16386
+[0007.68] Log: 	IsOnBattery: 0
+[0007.68] Log: 	BatteryLevel: 99
+[0007.68] Log: 	Manufacturer: AMD
+[0007.68] Log: 	CPUName: Unknown AMD CPU
+[0007.68] Log: 	L1CacheSize: 16
+[0007.68] Log: 	L2CacheSize: 1024
+[0007.68] Log: 	Architecture: x86
+[0007.68] Log: GPU stats:
+[0007.68] Log: 	VendorID: 00001002
+[0007.68] Log: 	DeviceID: 00009990
+[0007.68] Log: 	DriverVersion: 8.17.10.1116
+[0007.68] Log: 	DeviceName: AMD Radeon HD 7520G + 7470M Dual Graphics
+[0007.68] Log: 	DriverName: aticfx32.dll
+[0007.68] Log: 	PixelShaderVersion: 3
+[0007.68] Log: 	VertexShaderVersion: 3
+[0007.68] Log: 	VRAMQuantity: 1536
+[0007.68] Log: 	DedicatedVRAM: 1502
+[0007.68] Log: 	AdapterCount: 1
+[0007.68] Log: 	SupportsHardwareTnL: 1
+[0007.68] Log: 	IsLowMemoryXPMachine: 0
+[0007.69] Log: Machine  detected compatibility level: Composite: 4. CPU: 5. GPU: 4.
+[0007.69] Log: Previous detected compatibility level: Composite: 0. CPU: 0. GPU: 0.
+[0007.71] Log: Writing new compatibility level to ini. Composite: 4. CPU: 5. GPU: 4.
+[0007.85] Log: Shader platform (RHI): PC-D3D-SM3
+[0009.66] Log: PhysX GPU Support: DISABLED
+[0009.74] Log: Initializing FaceFX...
+[0009.77] Log: FaceFX 1.7.4 initialized.
+[0044.70] Log: Finished loading startup packages in 34.26 seconds
+[0044.76] Log: 154121 objects as part of root set at end of initial load.
+[0044.76] Log: Initializing Engine...
+[0044.86] Log: UEngine initialized
+[0046.09] Log: AK Audio Device initialized.
+[0046.39] Log: Client initialized
+[0051.68] Log: Initializing Steamworks
+[0054.52] Log: Primary PhysX scene will be in software.
+[0054.52] Log: Creating Primary PhysX Scene.
+[0055.46] Log: Bringing World menumap.TheWorld up for play (0) at 2013.09.30-21.01.25
+[0055.53] Log: Bringing up level for play took: 1.449298
+[0055.54] Log: First time reading profile.
+[0055.54] Log: Wrote profile (352 bytes) to disk.
+[0055.54] Log: TUPC: nd
+[0055.57] Log: Game engine initialized
+[0055.65] Log: Initializing Engine Completed
+[0063.09] Log: >>>>>>>>>>>>>> Initial startup: 63.09s <<<<<<<<<<<<<<<
+[0140.96] Log: Wrote profile (357 bytes) to disk.
+[0151.12] Log: Primary PhysX scene will be in software.
+[0151.12] Log: Creating Primary PhysX Scene.
+[0151.18] Log: Bringing World ExampleEntry.TheWorld up for play (0) at 2013.09.30-21.03.01
+[0151.18] Log: Bringing up level for play took: 0.078586
+[0151.71] Log: Primary PhysX scene will be in software.
+[0151.71] Log: Creating Primary PhysX Scene.
+[0151.76] Log: Bringing World Loader.TheWorld up for play (0) at 2013.09.30-21.03.01
+[0151.79] Log: Bringing up level for play took: 0.103432
+[0151.79] Log: Using cached profile data instead of reading
+[0151.79] Log: Using cached profile data instead of readin

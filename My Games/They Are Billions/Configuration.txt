@@ -1,0 +1,36 @@
+﻿<Complex name="Root" type="ZX.ZXGameConfiguration, TheyAreBillions">
+  <Properties>
+    <Simple name="GrassQuality" value="Medium" />
+    <Simple name="KeyboardLayout" value="Standard" />
+    <Simple name="VolumeGlobal" value="1" />
+    <Simple name="VolumeMusic" value="1" />
+    <Simple name="VolumeInterface" value="1" />
+    <Simple name="VolumeEffects" value="1" />
+    <Simple name="VolumeAmbient" value="1" />
+    <Simple name="VolumeUnitVoices" value="1" />
+    <Simple name="VolumeNotifications" value="1" />
+    <Simple name="SlimDXInstalled" value="False" />
+    <Simple name="SlimDXInstalledx64" value="True" />
+    <Complex name="LastRandomLevelParams">
+      <Properties>
+        <Simple name="Name" value="newman4" />
+        <Simple name="Seed" value="-1832905512" />
+        <Simple name="NCells" value="256" />
+        <Simple name="ThemeType" value="DS" />
+        <Simple name="FactorGameDuration" value="1" />
+        <Simple name="FactorZombiePopulation" value="1" />
+      </Properties>
+    </Complex>
+    <Simple name="VersionMajorShowed" value="0" />
+    <Simple name="VersionMinorShowed" value="3" />
+    <Simple name="Monitor" value="0" />
+    <Simple name="Resolution" type="System.Drawing.Size, System.Drawing" value="0;0" />
+    <Simple name="Frequency" value="60" />
+    <Simple name="VSync" value="True" />
+    <Simple name="LockMouseOnScreen" value="False" />
+    <Simple name="WindowMode" value="False" />
+    <Simple name="ShaderQuality" value="Medium" />
+    <Simple name="TextureQuality" value="MQ" />
+    <Simple name="Language" value="EN" />
+  </Properties>
+</Complex>

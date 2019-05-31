@@ -1,0 +1,528 @@
+[2018-01-04 07:27:56]	 Added art file 'Civ6: cb2f71b7-843e-4af3-9ca7-992acda9c195' to the ArtDefProvider.
+[2018-01-04 07:27:56]	 **** IssueAllLoads ****
+[2018-01-04 07:27:56]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Civilopedia.blp
+[2018-01-04 07:27:56]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Controls.blp
+[2018-01-04 07:27:56]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Diplomacy.blp
+[2018-01-04 07:27:56]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_EndGame.blp
+[2018-01-04 07:27:56]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Government.blp
+[2018-01-04 07:27:56]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_GreatWorksArt.blp
+[2018-01-04 07:27:56]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_HalfScreen.blp
+[2018-01-04 07:27:56]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp
+[2018-01-04 07:27:56]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Leaders.blp
+[2018-01-04 07:27:57]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI_LeaderScenes.blp
+[2018-01-04 07:27:57]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Religion.blp
+[2018-01-04 07:27:57]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Screens.blp
+[2018-01-04 07:27:57]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Shell.blp
+[2018-01-04 07:27:57]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Tree.blp
+[2018-01-04 07:27:57]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_TreeBG.blp
+[2018-01-04 07:27:57]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Tutorial.blp
+[2018-01-04 07:27:57]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/AdvisorTutorial.blp
+[2018-01-04 07:27:57]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/Icons.blp
+[2018-01-04 07:27:57]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/InWorld.blp
+[2018-01-04 07:27:57]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/Shell_Loading.blp
+[2018-01-04 07:27:57]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UITest.blp
+[2018-01-04 07:27:57]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Icons_Overflow.blp
+[2018-01-04 07:27:57]	 Loading library UITexture  took 536.71ms
+[2018-01-04 07:27:57]	 Consumer 'UI' configured in 0 ms!
+[2018-01-04 07:27:57]	 Notified all changed consumer listeners.
+[2018-01-04 07:28:04]	 Added art file 'DLC3: 9872e05b-8772-4e1f-a001-54b69e8d3648' to the ArtDefProvider.
+[2018-01-04 07:28:04]	 Added art file 'DLC6: 4fd22d21-5ec7-4ce9-aca6-8d8b623e5a82' to the ArtDefProvider.
+[2018-01-04 07:28:04]	 Added art file 'DLC4: d5642886-43d5-4ce9-9465-3a47b5c70096' to the ArtDefProvider.
+[2018-01-04 07:28:04]	 Added art file 'DLC5: 754001af-1b3f-43a5-8138-8fb13e2bf173' to the ArtDefProvider.
+[2018-01-04 07:28:04]	 Unable to resolve Package '.blp' from Project 'DLC5'
+[2018-01-04 07:28:04]	 Added art file 'DLC2: 3809975F-263F-40A2-A747-8BFB171D821A' to the ArtDefProvider.
+[2018-01-04 07:28:04]	 **** IssueAllLoads ****
+[2018-01-04 07:28:04]	 Consumer 'UI' has been marked because one of the libraries that it depends on has changed.
+[2018-01-04 07:28:04]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Civilopedia.blp (already loaded)
+[2018-01-04 07:28:04]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Controls.blp (already loaded)
+[2018-01-04 07:28:04]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Diplomacy.blp (already loaded)
+[2018-01-04 07:28:04]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_EndGame.blp (already loaded)
+[2018-01-04 07:28:04]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Government.blp (already loaded)
+[2018-01-04 07:28:04]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_GreatWorksArt.blp (already loaded)
+[2018-01-04 07:28:04]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_HalfScreen.blp (already loaded)
+[2018-01-04 07:28:04]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp (already loaded)
+[2018-01-04 07:28:04]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Leaders.blp (already loaded)
+[2018-01-04 07:28:04]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI_LeaderScenes.blp (already loaded)
+[2018-01-04 07:28:04]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Religion.blp (already loaded)
+[2018-01-04 07:28:04]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Screens.blp (already loaded)
+[2018-01-04 07:28:04]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Shell.blp (already loaded)
+[2018-01-04 07:28:04]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Tree.blp (already loaded)
+[2018-01-04 07:28:04]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_TreeBG.blp (already loaded)
+[2018-01-04 07:28:04]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Tutorial.blp (already loaded)
+[2018-01-04 07:28:04]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/AdvisorTutorial.blp (already loaded)
+[2018-01-04 07:28:04]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/Icons.blp (already loaded)
+[2018-01-04 07:28:04]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/InWorld.blp (already loaded)
+[2018-01-04 07:28:04]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/Shell_Loading.blp (already loaded)
+[2018-01-04 07:28:04]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UITest.blp (already loaded)
+[2018-01-04 07:28:04]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Icons_Overflow.blp (already loaded)
+[2018-01-04 07:28:04]	 Loading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/UI/UI_Government.blp
+[2018-01-04 07:28:04]	 Loading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/UI/UI_Leaders.blp
+[2018-01-04 07:28:04]	 Loading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/UI_LeaderScenes.blp
+[2018-01-04 07:28:04]	 Loading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/UI/Icons.blp
+[2018-01-04 07:28:04]	 Loading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/UI/Shell_Loading.blp
+[2018-01-04 07:28:04]	 Loading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/UI/UI_Leaders.blp
+[2018-01-04 07:28:04]	 Loading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/UI_LeaderScenes.blp
+[2018-01-04 07:28:04]	 Loading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/UI/Icons.blp
+[2018-01-04 07:28:04]	 Loading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/UI/Shell_Loading.blp
+[2018-01-04 07:28:04]	 Loading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/UI_LeaderScenes.blp
+[2018-01-04 07:28:04]	 Loading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/UI/UI_Shell.blp
+[2018-01-04 07:28:04]	 Loading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/UI/Icons.blp
+[2018-01-04 07:28:04]	 Loading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/UI/Shell_Loading.blp
+[2018-01-04 07:28:04]	 Loading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/UI/UILeaders.blp
+[2018-01-04 07:28:04]	 Loading Package: ../../../DLC/Nubia_Amanitore/Platforms/Windows/BLPs/UI/UI_Leaders.blp
+[2018-01-04 07:28:04]	 Loading Package: ../../../DLC/Nubia_Amanitore/Platforms/Windows/BLPs/UI_LeaderScenes.blp
+[2018-01-04 07:28:04]	 Loading Package: ../../../DLC/Nubia_Amanitore/Platforms/Windows/BLPs/UI/Icons.blp
+[2018-01-04 07:28:04]	 Loading Package: ../../../DLC/Nubia_Amanitore/Platforms/Windows/BLPs/UI/Shell_Loading.blp
+[2018-01-04 07:28:04]	 Loading Package: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/UI_Leaders.blp
+[2018-01-04 07:28:04]	 Loading Package: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI_LeaderScenes.blp
+[2018-01-04 07:28:04]	 Loading Package: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Icons.blp
+[2018-01-04 07:28:04]	 Loading Package: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Shell_Loading.blp
+[2018-01-04 07:28:04]	 Loading library UITexture  took 360.55ms
+[2018-01-04 07:28:04]	 Consumer 'UI' configured in 0 ms!
+[2018-01-04 07:28:04]	 Notified all changed consumer listeners.
+[2018-01-04 07:28:05]	 **** IssueAllLoads ****
+[2018-01-04 07:28:05]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/LeaderFallbackImages.blp
+[2018-01-04 07:28:05]	 Loading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/LeaderFallbackImages.blp
+[2018-01-04 07:28:05]	 Loading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/LeaderFallbackImages.blp
+[2018-01-04 07:28:05]	 Loading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/LeaderFallbackImages.blp
+[2018-01-04 07:28:05]	 Loading Package: ../../../DLC/Nubia_Amanitore/Platforms/Windows/BLPs/LeaderFallbackImages.blp
+[2018-01-04 07:28:05]	 Loading Package: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/LeaderFallbackImages.blp
+[2018-01-04 07:28:05]	 Loading library LeaderFallback  took 229.63ms
+[2018-01-04 07:28:05]	 Consumer 'LeaderFallback' configured in 55 ms!
+[2018-01-04 07:28:06]	 Consumer 'Audio' configured in 800 ms!
+[2018-01-04 07:28:06]	 Consumer 'Lenses' configured in 45 ms!
+[2018-01-04 07:28:06]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/landmarks/Walls.blp
+[2018-01-04 07:28:06]	 Loading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/landmarks/Walls.blp
+[2018-01-04 07:28:08]	 Loading library DynamicGeometry  took 1506.06ms
+[2018-01-04 07:28:08]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/route_doodads.blp
+[2018-01-04 07:28:08]	 Loading library RouteDoodad  took 173.61ms
+[2018-01-04 07:28:08]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/Wave.blp
+[2018-01-04 07:28:08]	 Loading library Wave  took 21.34ms
+[2018-01-04 07:28:08]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/SkyBox.blp
+[2018-01-04 07:28:08]	 Loading library SkyBoxTexture  took 19.31ms
+[2018-01-04 07:28:08]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/Water.blp
+[2018-01-04 07:28:08]	 Loading library Water  took 14.45ms
+[2018-01-04 07:28:08]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/lighting/default_lighting.blp
+[2018-01-04 07:28:08]	 Loading library GameLighting  took 33.91ms
+[2018-01-04 07:28:08]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/WonderMovie.blp
+[2018-01-04 07:28:08]	 Loading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/WonderMovie.blp
+[2018-01-04 07:28:08]	 Loading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/WonderMovie.blp
+[2018-01-04 07:28:08]	 Loading Package: ../../../DLC/Nubia_Amanitore/Platforms/Windows/BLPs/WonderMovie.blp
+[2018-01-04 07:28:20]	 Loading library WonderMovie  took 12320.47ms
+[2018-01-04 07:28:20]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/route_decal_materials.blp
+[2018-01-04 07:28:20]	 Loading library RouteDecalMaterial  took 94.38ms
+[2018-01-04 07:28:20]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/landmarks/city_buildings.blp
+[2018-01-04 07:28:20]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/landmarks/hero_buildings.blp
+[2018-01-04 07:28:20]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/landmarks/tilebases.blp
+[2018-01-04 07:28:20]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/NaturalWonderAttachments.blp
+[2018-01-04 07:28:20]	 Loading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/landmarks/tilebases.blp
+[2018-01-04 07:28:20]	 Loading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/NaturalWonderAttachments.blp
+[2018-01-04 07:28:20]	 Loading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/IMP_Outback_Station.blp
+[2018-01-04 07:28:20]	 Loading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/landmarks/hero_buildings.blp
+[2018-01-04 07:28:20]	 Loading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/landmarks/tilebases.blp
+[2018-01-04 07:28:21]	 Loading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/IMP_Khmer_StiltHouse.blp
+[2018-01-04 07:28:21]	 Loading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/landmarks/hero_buildings.blp
+[2018-01-04 07:28:21]	 Loading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/landmarks/tilebases.blp
+[2018-01-04 07:28:21]	 Loading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/IMP_Pairidaeza.blp
+[2018-01-04 07:28:21]	 Loading Package: ../../../DLC/Nubia_Amanitore/Platforms/Windows/BLPs/landmarks/tilebases.blp
+[2018-01-04 07:28:21]	 Loading Package: ../../../DLC/Nubia_Amanitore/Platforms/Windows/BLPs/IMP_Nubian_Pyramids.blp
+[2018-01-04 07:28:21]	 Loading Package: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/landmarks/city_buildings.blp
+[2018-01-04 07:28:21]	 Loading Package: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/landmarks/hero_buildings.blp
+[2018-01-04 07:28:21]	 Loading Package: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/landmarks/tilebases.blp
+[2018-01-04 07:28:41]	 Loading library CityBuildings TileBase  took 20577.36ms
+[2018-01-04 07:28:41]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/environment/clutter.blp
+[2018-01-04 07:28:42]	 Loading library Landmark  took 1455.88ms
+[2018-01-04 07:28:42]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/VFX.blp
+[2018-01-04 07:28:42]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/VFX_A.blp
+[2018-01-04 07:28:42]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/VFX_B.blp
+[2018-01-04 07:28:42]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/VFX_C.blp
+[2018-01-04 07:28:42]	 Loading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/VFX.blp
+[2018-01-04 07:28:42]	 Loading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/VFX.blp
+[2018-01-04 07:28:42]	 Loading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/VFX.blp
+[2018-01-04 07:28:42]	 Loading Package: ../../../DLC/Nubia_Amanitore/Platforms/Windows/BLPs/VFX.blp
+[2018-01-04 07:28:42]	 Loading Package: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/VFX.blp
+[2018-01-04 07:28:48]	 Loading library VFX  took 5140.14ms
+[2018-01-04 07:28:48]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/Light.blp
+[2018-01-04 07:28:48]	 Loading library Light  took 22.31ms
+[2018-01-04 07:28:48]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/FOWSprites.blp
+[2018-01-04 07:28:48]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/FOWTextures.blp
+[2018-01-04 07:28:48]	 Loading library FOWSprite FOWTexture  took 41.79ms
+[2018-01-04 07:28:48]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/Overlay.blp
+[2018-01-04 07:28:48]	 Loading library OverlayTexture  took 170.00ms
+[2018-01-04 07:28:48]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UILensAssets.blp
+[2018-01-04 07:28:50]	 Loading library UILensAsset  took 1994.27ms
+[2018-01-04 07:28:50]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_terraintypes.blp
+[2018-01-04 07:28:50]	 Loading library StrategicView_TerrainType  took 26.23ms
+[2018-01-04 07:28:50]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_terrainblendcorners.blp
+[2018-01-04 07:28:50]	 Loading library StrategicView_TerrainBlendCorners  took 22.92ms
+[2018-01-04 07:28:50]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_directedassets.blp
+[2018-01-04 07:28:50]	 Loading library StrategicView_DirectedAsset  took 77.33ms
+[2018-01-04 07:28:50]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_routes.blp
+[2018-01-04 07:28:50]	 Loading library StrategicView_Route  took 70.48ms
+[2018-01-04 07:28:50]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/units/units.blp
+[2018-01-04 07:28:50]	 Loading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/units/units.blp
+[2018-01-04 07:28:50]	 Loading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/units/units.blp
+[2018-01-04 07:28:50]	 Loading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/units/units.blp
+[2018-01-04 07:28:50]	 Loading Package: ../../../DLC/Nubia_Amanitore/Platforms/Windows/BLPs/units/units.blp
+[2018-01-04 07:28:50]	 Loading Package: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/units/units.blp
+[2018-01-04 07:29:24]	 Loading library Unit  took 33967.55ms
+[2018-01-04 07:29:24]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_buildings.blp
+[2018-01-04 07:29:24]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_cities.blp
+[2018-01-04 07:29:24]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_districts.blp
+[2018-01-04 07:29:24]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_effects.blp
+[2018-01-04 07:29:24]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_parks.blp
+[2018-01-04 07:29:24]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_features.blp
+[2018-01-04 07:29:24]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_improvements.blp
+[2018-01-04 07:29:24]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_terrainsprites.blp
+[2018-01-04 07:29:24]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_uilenses.blp
+[2018-01-04 07:29:24]	 Loading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/strategicview/strategicview_features.blp
+[2018-01-04 07:29:24]	 Loading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/strategicview/strategicview_improvements.blp
+[2018-01-04 07:29:24]	 Loading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/strategicview/strategicview_buildings.blp
+[2018-01-04 07:29:24]	 Loading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/strategicview/strategicview_features.blp
+[2018-01-04 07:29:24]	 Loading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/strategicview/strategicview_improvements.blp
+[2018-01-04 07:29:24]	 Loading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/strategicview/strategicview_buildings.blp
+[2018-01-04 07:29:24]	 Loading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/strategicview/strategicview_improvements.blp
+[2018-01-04 07:29:24]	 Loading Package: ../../../DLC/Nubia_Amanitore/Platforms/Windows/BLPs/strategicview/strategicview_buildings.blp
+[2018-01-04 07:29:24]	 Loading Package: ../../../DLC/Nubia_Amanitore/Platforms/Windows/BLPs/strategicview/strategicview_improvements.blp
+[2018-01-04 07:29:24]	 Loading Package: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/strategicview/strategicview_buildings.blp
+[2018-01-04 07:29:26]	 Loading library StrategicView_Sprite  took 1554.99ms
+[2018-01-04 07:29:26]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/CameraAnimation.blp
+[2018-01-04 07:29:26]	 Loading library CameraAnimation  took 5.41ms
+[2018-01-04 07:29:26]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/ColorKeys.blp
+[2018-01-04 07:29:26]	 Loading library ColorKey  took 17.20ms
+[2018-01-04 07:29:26]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_terrainblends.blp
+[2018-01-04 07:29:26]	 Loading library StrategicView_TerrainBlend  took 210.71ms
+[2018-01-04 07:29:26]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/terrain/TerrainMaterialSet_Base.blp
+[2018-01-04 07:29:26]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/terrain/TerrainAssetSet_Base.blp
+[2018-01-04 07:29:26]	 Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/terrain/TerrainElementSet_Base.blp
+[2018-01-04 07:29:26]	 Loading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/terrain/TerrainMaterialSet_Base.blp
+[2018-01-04 07:29:26]	 Loading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/terrain/TerrainAssetSet_Base.blp
+[2018-01-04 07:29:26]	 Loading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/terrain/TerrainElementSet_Base.blp
+[2018-01-04 07:29:26]	 Loading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/terrain/TerrainAssetSet_Base.blp
+[2018-01-04 07:29:26]	 Loading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/terrain/TerrainMaterialSet_Base.blp
+[2018-01-04 07:29:26]	 Loading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/terrain/TerrainAssetSet_Base.blp
+[2018-01-04 07:29:26]	 Loading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/terrain/TerrainElementSet_Base.blp
+[2018-01-04 07:29:27]	 Loading library TerrainMaterial TerrainAsset TerrainElement  took 825.65ms
+[2018-01-04 07:29:27]	 Consumer 'SkyBox' configured in 77 ms!
+[2018-01-04 07:29:27]	 Consumer 'FOW' configured in 405 ms!
+[2018-01-04 07:29:27]	 Consumer 'FOW' configured in 0 ms!
+[2018-01-04 07:29:27]	 Consumer 'Camera' configured in 16 ms!
+[2018-01-04 07:29:27]	 Consumer 'UIPreview' configured in 16 ms!
+[2018-01-04 07:29:27]	 Consumer 'GenericObject' configured in 0 ms!
+[2018-01-04 07:29:27]	 Consumer 'AOSystem' configured in 1 ms!
+[2018-01-04 07:29:27]	 Consumer 'RangeArrows' configured in 23 ms!
+[2018-01-04 07:29:27]	 Consumer 'DynamicGeometry' configured in 2 ms!
+[2018-01-04 07:29:27]	 Consumer 'WorldViewRoutes' configured in 67 ms!
+[2018-01-04 07:29:27]	 Consumer 'VFX' configured in 101 ms!
+[2018-01-04 07:29:27]	 Consumer 'UILensAsset' configured in 5 ms!
+[2018-01-04 07:29:27]	 Consumer 'Overlay' configured in 6 ms!
+[2018-01-04 07:29:27]	 Consumer 'GameLighting' configured in 11 ms!
+[2018-01-04 07:29:27]	 Consumer 'Wave' configured in 97 ms!
+[2018-01-04 07:29:27]	 Consumer 'Water' configured in 14 ms!
+[2018-01-04 07:29:28]	 Consumer 'Terrain' configured in 135 ms!
+[2018-01-04 07:29:28]	 Consumer 'WonderMovie' configured in 81 ms!
+[2018-01-04 07:29:28]	 Consumer 'Farms' configured in 127 ms!
+[2018-01-04 07:29:28]	 Consumer 'Landmarks' configured in 150 ms!
+[2018-01-04 07:29:28]	 Consumer 'Clutter' configured in 16 ms!
+[2018-01-04 07:29:28]	 Consumer 'Units' configured in 405 ms!
+[2018-01-04 07:29:29]	 Consumer 'Units' configured in 295 ms!
+[2018-01-04 07:29:29]	 Consumer 'UnitSimulation' configured in 88 ms!
+[2018-01-04 07:29:29]	 Consumer 'Cultures' configured in 5 ms!
+[2018-01-04 07:29:29]	 Consumer 'Minimap' configured in 16 ms!
+[2018-01-04 07:29:29]	 Consumer 'Overlay' configured in 6 ms!
+[2018-01-04 07:29:29]	 Consumer 'StrategicView_Translate' configured in 116 ms!
+[2018-01-04 07:29:29]	 Consumer 'StrategicView_TerrainBlend' configured in 63 ms!
+[2018-01-04 07:29:29]	 Consumer 'StrategicView_TerrainBlendCorners' configured in 62 ms!
+[2018-01-04 07:29:29]	 Consumer 'StrategicView_TerrainType' configured in 62 ms!
+[2018-01-04 07:29:29]	 Consumer 'StrategicView_Route' configured in 69 ms!
+[2018-01-04 07:29:29]	 Consumer 'StrategicView_Sprite' configured in 65 ms!
+[2018-01-04 07:29:29]	 Consumer 'StrategicView_Properties' configured in 59 ms!
+[2018-01-04 07:29:29]	 Consumer 'ColorKeys' configured in 107 ms!
+[2018-01-04 07:29:29]	 Notified all changed consumer listeners.
+[2018-01-04 07:29:29]	 Time spent loading libraries: 81490.62 ms.  Time spent configuring consumers: 2768 ms.
+[2018-01-04 07:29:29]	 Time spent loading : 84355 ms.  Time saved: -97 ms.
+[2018-01-04 07:29:29]	 Little data footprint: 44.58MB
+[2018-01-04 07:29:31]	 Removed art file 'DLC3: 9872e05b-8772-4e1f-a001-54b69e8d3648' from the ArtDefProvider.
+[2018-01-04 07:29:31]	 Removed art file 'DLC6: 4fd22d21-5ec7-4ce9-aca6-8d8b623e5a82' from the ArtDefProvider.
+[2018-01-04 07:29:31]	 Removed art file 'DLC4: d5642886-43d5-4ce9-9465-3a47b5c70096' from the ArtDefProvider.
+[2018-01-04 07:29:31]	 Removed art file 'DLC5: 754001af-1b3f-43a5-8138-8fb13e2bf173' from the ArtDefProvider.
+[2018-01-04 07:29:31]	 Removed art file 'DLC2: 3809975F-263F-40A2-A747-8BFB171D821A' from the ArtDefProvider.
+[2018-01-04 07:29:31]	 Consumer 'LeaderFallback' has been marked because one of the libraries that it depends on has changed.
+[2018-01-04 07:29:31]	 Library 'LeaderFallback' has been marked for a full reload due to one or more BLP changes.
+[2018-01-04 07:29:31]	 Consumer 'UI' has been marked because one of the libraries that it depends on has changed.
+[2018-01-04 07:29:31]	 Library 'UITexture' has been marked for a full reload due to one or more BLP changes.
+[2018-01-04 07:29:31]	 Consumer 'Terrain' has been marked because one of the libraries that it depends on has changed.
+[2018-01-04 07:29:31]	 Consumer 'Terrain' has been marked because one of the libraries that it depends on has changed.
+[2018-01-04 07:29:31]	 Consumer 'Terrain' has been marked because one of the libraries that it depends on has changed.
+[2018-01-04 07:29:31]	 Library 'TerrainMaterial' has been marked for a full reload due to one or more BLP changes.
+[2018-01-04 07:29:31]	 Library 'TerrainAsset' has been marked for a full reload due to one or more BLP changes.
+[2018-01-04 07:29:31]	 Library 'TerrainElement' has been marked for a full reload due to one or more BLP changes.
+[2018-01-04 07:29:31]	 Library 'TerrainMaterial' has been marked for a full reload due to one or more BLP changes.
+[2018-01-04 07:29:31]	 Library 'TerrainAsset' has been marked for a full reload due to one or more BLP changes.
+[2018-01-04 07:29:31]	 Library 'TerrainElement' has been marked for a full reload due to one or more BLP changes.
+[2018-01-04 07:29:31]	 Consumer 'StrategicView_Sprite' has been marked because one of the libraries that it depends on has changed.
+[2018-01-04 07:29:31]	 Library 'StrategicView_Sprite' has been marked for a full reload due to one or more BLP changes.
+[2018-01-04 07:29:31]	 Consumer 'Units' has been marked because one of the libraries that it depends on has changed.
+[2018-01-04 07:29:31]	 Consumer 'Units' has been marked because one of the libraries that it depends on has changed.
+[2018-01-04 07:29:31]	 Library 'Unit' has been marked for a full reload due to one or more BLP changes.
+[2018-01-04 07:29:31]	 Consumer 'Units' has been marked because one of the libraries that it depends on has changed.
+[2018-01-04 07:29:31]	 Consumer 'Units' has been marked because one of the libraries that it depends on has changed.
+[2018-01-04 07:29:31]	 Consumer 'VFX' has been marked because one of the libraries that it depends on has changed.
+[2018-01-04 07:29:31]	 Library 'VFX' has been marked for a full reload due to one or more BLP changes.
+[2018-01-04 07:29:31]	 Consumer 'Landmarks' has been marked because one of the libraries that it depends on has changed.
+[2018-01-04 07:29:31]	 Consumer 'Farms' has been marked because one of the libraries that it depends on has changed.
+[2018-01-04 07:29:31]	 Consumer 'Landmarks' has been marked because one of the libraries that it depends on has changed.
+[2018-01-04 07:29:31]	 Consumer 'Farms' has been marked because one of the libraries that it depends on has changed.
+[2018-01-04 07:29:31]	 Consumer 'WonderMovie' has been marked because one of the libraries that it depends on has changed.
+[2018-01-04 07:29:31]	 Library 'CityBuildings' has been marked for a full reload due to one or more BLP changes.
+[2018-01-04 07:29:31]	 Library 'TileBase' has been marked for a full reload due to one or more BLP changes.
+[2018-01-04 07:29:31]	 Library 'CityBuildings' has been marked for a full reload due to one or more BLP changes.
+[2018-01-04 07:29:31]	 Library 'TileBase' has been marked for a full reload due to one or more BLP changes.
+[2018-01-04 07:29:31]	 Consumer 'WonderMovie' has been marked because one of the libraries that it depends on has changed.
+[2018-01-04 07:29:31]	 Library 'WonderMovie' has been marked for a full reload due to one or more BLP changes.
+[2018-01-04 07:29:31]	 Library 'TerrainMaterial' has been marked for a full reload due to one or more BLP changes.
+[2018-01-04 07:29:31]	 Library 'TerrainAsset' has been marked for a full reload due to one or more BLP changes.
+[2018-01-04 07:29:31]	 Library 'TerrainElement' has been marked for a full reload due to one or more BLP changes.
+[2018-01-04 07:29:31]	 Consumer 'DynamicGeometry' has been marked because one of the libraries that it depends on has changed.
+[2018-01-04 07:29:31]	 Library 'DynamicGeometry' has been marked for a full reload due to one or more BLP changes.
+[2018-01-04 07:29:31]	 **** IssueAllLoads ****
+[2018-01-04 07:29:31]	 Unloading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/UI/UI_Government.blp
+[2018-01-04 07:29:31]	 Unloading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/UI/UI_Leaders.blp
+[2018-01-04 07:29:31]	 Unloading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/UI_LeaderScenes.blp
+[2018-01-04 07:29:31]	 Unloading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/UI/Icons.blp
+[2018-01-04 07:29:31]	 Unloading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/UI/Shell_Loading.blp
+[2018-01-04 07:29:31]	 Unloading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/UI/UI_Leaders.blp
+[2018-01-04 07:29:31]	 Unloading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/UI_LeaderScenes.blp
+[2018-01-04 07:29:31]	 Unloading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/UI/Icons.blp
+[2018-01-04 07:29:31]	 Unloading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/UI/Shell_Loading.blp
+[2018-01-04 07:29:31]	 Unloading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/UI_LeaderScenes.blp
+[2018-01-04 07:29:31]	 Unloading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/UI/UI_Shell.blp
+[2018-01-04 07:29:31]	 Unloading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/UI/Icons.blp
+[2018-01-04 07:29:31]	 Unloading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/UI/Shell_Loading.blp
+[2018-01-04 07:29:31]	 Unloading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/UI/UILeaders.blp
+[2018-01-04 07:29:31]	 Unloading Package: ../../../DLC/Nubia_Amanitore/Platforms/Windows/BLPs/UI/UI_Leaders.blp
+[2018-01-04 07:29:31]	 Unloading Package: ../../../DLC/Nubia_Amanitore/Platforms/Windows/BLPs/UI_LeaderScenes.blp
+[2018-01-04 07:29:31]	 Unloading Package: ../../../DLC/Nubia_Amanitore/Platforms/Windows/BLPs/UI/Icons.blp
+[2018-01-04 07:29:31]	 Unloading Package: ../../../DLC/Nubia_Amanitore/Platforms/Windows/BLPs/UI/Shell_Loading.blp
+[2018-01-04 07:29:31]	 Unloading Package: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/UI_Leaders.blp
+[2018-01-04 07:29:31]	 Unloading Package: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI_LeaderScenes.blp
+[2018-01-04 07:29:31]	 Unloading Package: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Icons.blp
+[2018-01-04 07:29:31]	 Unloading Package: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Shell_Loading.blp
+[2018-01-04 07:29:31]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Civilopedia.blp (already loaded)
+[2018-01-04 07:29:31]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Controls.blp (already loaded)
+[2018-01-04 07:29:31]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Diplomacy.blp (already loaded)
+[2018-01-04 07:29:31]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_EndGame.blp (already loaded)
+[2018-01-04 07:29:31]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Government.blp (already loaded)
+[2018-01-04 07:29:31]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_GreatWorksArt.blp (already loaded)
+[2018-01-04 07:29:31]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_HalfScreen.blp (already loaded)
+[2018-01-04 07:29:31]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp (already loaded)
+[2018-01-04 07:29:31]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Leaders.blp (already loaded)
+[2018-01-04 07:29:31]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI_LeaderScenes.blp (already loaded)
+[2018-01-04 07:29:31]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Religion.blp (already loaded)
+[2018-01-04 07:29:31]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Screens.blp (already loaded)
+[2018-01-04 07:29:31]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Shell.blp (already loaded)
+[2018-01-04 07:29:31]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Tree.blp (already loaded)
+[2018-01-04 07:29:31]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_TreeBG.blp (already loaded)
+[2018-01-04 07:29:31]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Tutorial.blp (already loaded)
+[2018-01-04 07:29:31]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/AdvisorTutorial.blp (already loaded)
+[2018-01-04 07:29:31]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/Icons.blp (already loaded)
+[2018-01-04 07:29:31]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/InWorld.blp (already loaded)
+[2018-01-04 07:29:31]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/Shell_Loading.blp (already loaded)
+[2018-01-04 07:29:31]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UITest.blp (already loaded)
+[2018-01-04 07:29:31]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Icons_Overflow.blp (already loaded)
+[2018-01-04 07:29:31]	 Loading library UITexture  took 3.27ms
+[2018-01-04 07:29:31]	 Unloading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/LeaderFallbackImages.blp
+[2018-01-04 07:29:31]	 Unloading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/LeaderFallbackImages.blp
+[2018-01-04 07:29:31]	 Unloading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/LeaderFallbackImages.blp
+[2018-01-04 07:29:31]	 Unloading Package: ../../../DLC/Nubia_Amanitore/Platforms/Windows/BLPs/LeaderFallbackImages.blp
+[2018-01-04 07:29:31]	 Unloading Package: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/LeaderFallbackImages.blp
+[2018-01-04 07:29:31]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/LeaderFallbackImages.blp (already loaded)
+[2018-01-04 07:29:31]	 Loading library LeaderFallback  took 0.13ms
+[2018-01-04 07:29:31]	 Consumer 'LeaderFallback' configured in 0 ms!
+[2018-01-04 07:29:31]	 Consumer 'UI' configured in 0 ms!
+[2018-01-04 07:29:31]	 Consumer 'Audio' configured in 121 ms!
+[2018-01-04 07:29:31]	 Notified all changed consumer listeners.
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/landmarks/Walls.blp
+[2018-01-04 07:29:43]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/landmarks/Walls.blp (already loaded)
+[2018-01-04 07:29:43]	 Loading library DynamicGeometry  took 1.72ms
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/WonderMovie.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/WonderMovie.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Nubia_Amanitore/Platforms/Windows/BLPs/WonderMovie.blp
+[2018-01-04 07:29:43]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/WonderMovie.blp (already loaded)
+[2018-01-04 07:29:43]	 Loading library WonderMovie  took 69.24ms
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/landmarks/tilebases.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/NaturalWonderAttachments.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/IMP_Outback_Station.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/landmarks/hero_buildings.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/landmarks/tilebases.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/IMP_Khmer_StiltHouse.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/landmarks/hero_buildings.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/landmarks/tilebases.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/IMP_Pairidaeza.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Nubia_Amanitore/Platforms/Windows/BLPs/landmarks/tilebases.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Nubia_Amanitore/Platforms/Windows/BLPs/IMP_Nubian_Pyramids.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/landmarks/city_buildings.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/landmarks/hero_buildings.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/landmarks/tilebases.blp
+[2018-01-04 07:29:43]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/landmarks/city_buildings.blp (already loaded)
+[2018-01-04 07:29:43]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/landmarks/hero_buildings.blp (already loaded)
+[2018-01-04 07:29:43]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/landmarks/tilebases.blp (already loaded)
+[2018-01-04 07:29:43]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/NaturalWonderAttachments.blp (already loaded)
+[2018-01-04 07:29:43]	 Loading library CityBuildings TileBase  took 35.09ms
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/VFX.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/VFX.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/VFX.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Nubia_Amanitore/Platforms/Windows/BLPs/VFX.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/VFX.blp
+[2018-01-04 07:29:43]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/VFX.blp (already loaded)
+[2018-01-04 07:29:43]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/VFX_A.blp (already loaded)
+[2018-01-04 07:29:43]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/VFX_B.blp (already loaded)
+[2018-01-04 07:29:43]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/VFX_C.blp (already loaded)
+[2018-01-04 07:29:43]	 Loading library VFX  took 16.60ms
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/units/units.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/units/units.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/units/units.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Nubia_Amanitore/Platforms/Windows/BLPs/units/units.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/units/units.blp
+[2018-01-04 07:29:43]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/units/units.blp (already loaded)
+[2018-01-04 07:29:43]	 Loading library Unit  took 43.88ms
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/strategicview/strategicview_features.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/strategicview/strategicview_improvements.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/strategicview/strategicview_buildings.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/strategicview/strategicview_features.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/strategicview/strategicview_improvements.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/strategicview/strategicview_buildings.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/strategicview/strategicview_improvements.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Nubia_Amanitore/Platforms/Windows/BLPs/strategicview/strategicview_buildings.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Nubia_Amanitore/Platforms/Windows/BLPs/strategicview/strategicview_improvements.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/strategicview/strategicview_buildings.blp
+[2018-01-04 07:29:43]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_buildings.blp (already loaded)
+[2018-01-04 07:29:43]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_cities.blp (already loaded)
+[2018-01-04 07:29:43]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_districts.blp (already loaded)
+[2018-01-04 07:29:43]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_effects.blp (already loaded)
+[2018-01-04 07:29:43]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_parks.blp (already loaded)
+[2018-01-04 07:29:43]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_features.blp (already loaded)
+[2018-01-04 07:29:43]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_improvements.blp (already loaded)
+[2018-01-04 07:29:43]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_terrainsprites.blp (already loaded)
+[2018-01-04 07:29:43]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_uilenses.blp (already loaded)
+[2018-01-04 07:29:43]	 Loading library StrategicView_Sprite  took 194.97ms
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/terrain/TerrainMaterialSet_Base.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/terrain/TerrainAssetSet_Base.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Australia/Platforms/Windows/BLPs/terrain/TerrainElementSet_Base.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Indonesia_Khmer/Platforms/Windows/BLPs/terrain/TerrainAssetSet_Base.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/terrain/TerrainMaterialSet_Base.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/terrain/TerrainAssetSet_Base.blp
+[2018-01-04 07:29:43]	 Unloading Package: ../../../DLC/Macedonia_Persia/Platforms/Windows/BLPs/terrain/TerrainElementSet_Base.blp
+[2018-01-04 07:29:43]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/terrain/TerrainMaterialSet_Base.blp (already loaded)
+[2018-01-04 07:29:43]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/terrain/TerrainAssetSet_Base.blp (already loaded)
+[2018-01-04 07:29:43]	 Skipped Loading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/terrain/TerrainElementSet_Base.blp (already loaded)
+[2018-01-04 07:29:43]	 Loading library TerrainMaterial TerrainAsset TerrainElement  took 2.78ms
+[2018-01-04 07:29:43]	 Consumer 'DynamicGeometry' configured in 2 ms!
+[2018-01-04 07:29:43]	 Consumer 'VFX' configured in 71 ms!
+[2018-01-04 07:29:43]	 Consumer 'Terrain' configured in 64 ms!
+[2018-01-04 07:29:43]	 Consumer 'WonderMovie' configured in 21 ms!
+[2018-01-04 07:29:43]	 Consumer 'Farms' configured in 78 ms!
+[2018-01-04 07:29:43]	 Consumer 'Landmarks' configured in 121 ms!
+[2018-01-04 07:29:43]	 Consumer 'Clutter' configured in 16 ms!
+[2018-01-04 07:29:43]	 Consumer 'Units' configured in 171 ms!
+[2018-01-04 07:29:44]	 Consumer 'Units' configured in 154 ms!
+[2018-01-04 07:29:44]	 Consumer 'UnitSimulation' configured in 41 ms!
+[2018-01-04 07:29:44]	 Consumer 'Cultures' configured in 3 ms!
+[2018-01-04 07:29:44]	 Consumer 'StrategicView_Translate' configured in 61 ms!
+[2018-01-04 07:29:44]	 Consumer 'StrategicView_TerrainBlend' configured in 46 ms!
+[2018-01-04 07:29:44]	 Consumer 'StrategicView_TerrainBlendCorners' configured in 41 ms!
+[2018-01-04 07:29:44]	 Consumer 'StrategicView_TerrainType' configured in 43 ms!
+[2018-01-04 07:29:44]	 Consumer 'StrategicView_Route' configured in 44 ms!
+[2018-01-04 07:29:44]	 Consumer 'StrategicView_Sprite' configured in 44 ms!
+[2018-01-04 07:29:44]	 Consumer 'StrategicView_Properties' configured in 38 ms!
+[2018-01-04 07:29:44]	 Notified all changed consumer listeners.
+[2018-01-04 07:29:44]	 Time spent loading libraries: 367.68 ms.  Time spent configuring consumers: 1059 ms.
+[2018-01-04 07:29:44]	 Time spent loading : 12725 ms.  Time saved: -11299 ms.
+[2018-01-04 07:29:44]	 Little data footprint: 39.37MB
+[2018-01-04 07:29:44]	 **** IssueAllLoads ****
+[2018-01-04 07:29:44]	 Consumer 'WorldView_Translate' configured in 61 ms!
+[2018-01-04 07:29:44]	 Consumer 'IndirectGrid' configured in 60 ms!
+[2018-01-04 07:29:44]	 Notified all changed consumer listeners.
+[2018-01-04 07:29:44]	 Time spent loading libraries: 0.00 ms.  Time spent configuring consumers: 121 ms.
+[2018-01-04 07:29:44]	 Time spent loading : 126 ms.  Time saved: -5 ms.
+[2018-01-04 07:29:44]	 Little data footprint: 39.37MB
+[2018-01-04 07:48:47]	 **** IssueAllLoads ****
+[2018-01-04 07:48:47]	 Consumer 'WorldView_Translate' configured in 358 ms!
+[2018-01-04 07:48:47]	 Consumer 'IndirectGrid' configured in 76 ms!
+[2018-01-04 07:48:47]	 Notified all changed consumer listeners.
+[2018-01-04 07:48:47]	 Time spent loading libraries: 0.00 ms.  Time spent configuring consumers: 434 ms.
+[2018-01-04 07:48:47]	 Time spent loading : 440 ms.  Time saved: -6 ms.
+[2018-01-04 07:48:47]	 Little data footprint: 39.37MB
+[2018-01-04 11:04:19]	 **** IssueAllLoads ****
+[2018-01-04 11:04:19]	 Consumer 'WorldView_Translate' configured in 65 ms!
+[2018-01-04 11:04:19]	 Consumer 'IndirectGrid' configured in 61 ms!
+[2018-01-04 11:04:19]	 Notified all changed consumer listeners.
+[2018-01-04 11:04:19]	 Time spent loading libraries: 0.00 ms.  Time spent configuring consumers: 126 ms.
+[2018-01-04 11:04:19]	 Time spent loading : 131 ms.  Time saved: -5 ms.
+[2018-01-04 11:04:19]	 Little data footprint: 39.37MB
+[2018-01-04 11:33:02]	 **** Shutdown ****
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Civilopedia.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Controls.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Diplomacy.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_EndGame.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Government.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_GreatWorksArt.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_HalfScreen.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Leaders.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI_LeaderScenes.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Religion.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Screens.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Shell.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Tree.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_TreeBG.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Tutorial.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/AdvisorTutorial.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/Icons.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/InWorld.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/Shell_Loading.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UITest.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UI/UI_Icons_Overflow.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/LeaderFallbackImages.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/landmarks/Walls.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/route_doodads.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/Wave.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/SkyBox.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/Water.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/lighting/default_lighting.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/WonderMovie.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/route_decal_materials.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/landmarks/city_buildings.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/landmarks/hero_buildings.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/landmarks/tilebases.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/NaturalWonderAttachments.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/environment/clutter.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/VFX.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/VFX_A.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/VFX_B.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/VFX_C.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/Light.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/FOWSprites.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/FOWTextures.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/Overlay.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/UILensAssets.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_terraintypes.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_terrainblendcorners.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_directedassets.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_routes.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/units/units.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_buildings.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_cities.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_districts.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_effects.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_parks.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_features.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_improvements.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_terrainsprites.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_uilenses.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/CameraAnimation.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/ColorKeys.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/strategicview/strategicview_terrainblends.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/terrain/TerrainMaterialSet_Base.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/terrain/TerrainAssetSet_Base.blp
+[2018-01-04 11:33:02]	 Unloading Package: C:/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Platforms/Windows/BLPs/terrain/TerrainElementSet_Base.blp

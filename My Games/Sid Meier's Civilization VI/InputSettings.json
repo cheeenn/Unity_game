@@ -1,0 +1,289 @@
+{
+    "ToggleTechTree": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_T"
+        },
+        {}
+    ],
+    "ToggleCivicsTree": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_C"
+        },
+        {}
+    ],
+    "ToggleGovernment": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_F7"
+        },
+        {}
+    ],
+    "ToggleReligion": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_L"
+        },
+        {}
+    ],
+    "ToggleGreatPeople": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_O"
+        },
+        {}
+    ],
+    "ToggleGreatWorks": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_W"
+        },
+        {}
+    ],
+    "ToggleRankings": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_F1"
+        },
+        {}
+    ],
+    "ToggleCityStates": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_F2"
+        },
+        {}
+    ],
+    "ToggleEspionage": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_F3"
+        },
+        {}
+    ],
+    "ToggleTradeRoutes": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_F4"
+        },
+        {}
+    ],
+    "OpenCivilopedia": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_F9"
+        },
+        {}
+    ],
+    "FoundCity": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_B"
+        },
+        {}
+    ],
+    "MoveTo": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_M"
+        },
+        {}
+    ],
+    "Fortify": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_F"
+        },
+        {}
+    ],
+    "DeleteUnit": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_DELETE"
+        },
+        {}
+    ],
+    "Attack": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_A"
+        },
+        {}
+    ],
+    "RangedAttack": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_R"
+        },
+        {}
+    ],
+    "AutoExplore": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_E"
+        },
+        {}
+    ],
+    "SkipTurn": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_SPACE"
+        },
+        {}
+    ],
+    "Sleep": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_Z"
+        },
+        {}
+    ],
+    "Alert": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_V"
+        },
+        {}
+    ],
+    "EndTurn": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_RETURN"
+        },
+        {}
+    ],
+    "ToggleGrid": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_G"
+        },
+        {}
+    ],
+    "PauseMenu": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_HOME"
+        },
+        {}
+    ],
+    "QuickSave": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_F5"
+        },
+        {}
+    ],
+    "QuickLoad": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_F6"
+        },
+        {}
+    ],
+    "ToggleYield": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_Y"
+        },
+        {}
+    ],
+    "PrevUnit": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_COMMA"
+        },
+        {}
+    ],
+    "NextUnit": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_PERIOD"
+        },
+        {}
+    ],
+    "PrevCity": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_LBRACKET"
+        },
+        {}
+    ],
+    "NextCity": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_RBRACKET"
+        },
+        {}
+    ],
+    "ToggleResources": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_Q"
+        },
+        {}
+    ],
+    "Toggle2DView": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_PLUS"
+        },
+        {}
+    ],
+    "OnlinePause": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_P"
+        },
+        {}
+    ],
+    "LensReligion": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_1"
+        },
+        {}
+    ],
+    "LensContinent": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_2"
+        },
+        {}
+    ],
+    "LensAppeal": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_3"
+        },
+        {}
+    ],
+    "LensSettler": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_4"
+        },
+        {}
+    ],
+    "LensGovernment": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_5"
+        },
+        {}
+    ],
+    "LensPolitical": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_6"
+        },
+        {}
+    ],
+    "LensTourism": [
+        {
+            "type": "KBMouse",
+            "data": "LOC_OPTIONS_KEY_7"
+        },
+        {}
+    ]
+}

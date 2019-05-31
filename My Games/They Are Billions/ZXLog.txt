@@ -1,0 +1,202 @@
+
+12:44 AM - Log Start
+12:44 AM - Main - Log Start
+12:44 AM - Main - Start
+12:44 AM - Is Steam: True
+12:44 AM - Steam Validation: OK
+12:44 AM - Run - Start
+12:44 AM - Run - Platform Run
+12:44 AM - DXSlim - InitRenderer
+12:44 AM - DXSlim : BuildParams
+12:44 AM - DXSlim : OnResetDevice
+12:44 AM - Run - Start
+12:44 AM - Run - Init
+12:44 AM - Run - Load
+12:44 AM - OnLoad - Start
+12:44 AM - Tables Excel Read: Start
+12:44 AM - Tables Excel Read: OK
+12:44 AM - ZXGame - ShowStartScreen
+12:44 AM - ZXGame - ChangeScene - Init
+12:44 AM - ZXGame - ChangeScene - Paused
+12:44 AM - ZXGame - Fade - True With onFinish
+12:44 AM - ZXGame - Fade - End
+12:44 AM - DXGame - Show
+12:44 AM - Window - ShowDialog
+12:44 AM - DXGame - OnRender
+12:44 AM - DXGame - OnStartFrame
+12:44 AM - DXGame - PostMethods_OnStartFrame
+12:44 AM - DXGame - RenderFrame
+12:44 AM - DXSlim - ScreenParametersChanged
+12:44 AM - DXSlim : OnResetDevice
+12:44 AM - DXSlim - FinishRenderer
+12:44 AM - DXSlim - InitRenderer
+12:44 AM - DXSlim : BuildParams
+12:44 AM - DXSlim : OnResetDevice
+12:44 AM - DXGame - FinishFrame
+12:44 AM - DXGame - PostMethods_OnFinishFrame
+12:44 AM - ZXGame - Fade - onFinish
+12:44 AM - ZXGame - ChangeScene - Fade Action 1
+12:44 AM - ZXGame - ShowLoadScreen
+12:44 AM - ZXGame - ShowLoadScreen - End
+12:44 AM - ZXGame - Fade - False With onFinish
+12:44 AM - ZXGame - Fade - End
+12:44 AM - ZXGame - Fade - onFinish
+12:44 AM - ZXGame - ChangeScene - Fade Action 2
+12:44 AM - ZXGame - ChangeScene - loadScene
+12:44 AM - ZXGame - ChangeScene - Load Scene
+12:44 AM - ZXSystem_StartScreen - Load
+12:44 AM - ZXGame - ChangeScene - pre-Invoke
+12:44 AM - ZXGame - ChangeScene - Invoke
+12:44 AM - ZXGame - Fade - True With onFinish
+12:44 AM - ZXGame - Fade - End
+12:44 AM - ZXGame - Fade - onFinish
+12:44 AM - ZXGame - ChangeScene - showScene
+12:44 AM - ZXGame - ChangeScene - Show Scene
+12:44 AM - ZXSystem_StartScreen - ShowScene
+12:44 AM - ZXGame - Fade - False With onFinish
+12:44 AM - ZXGame - Fade - End
+12:44 AM - ZXGame - Fade - onFinish
+12:44 AM - ZXGame - ChangeScene -End
+12:45 AM - ZXGame - ChangeScene - Init
+12:45 AM - ZXGame - ChangeScene - Paused
+12:45 AM - ZXGame - Fade - True With onFinish
+12:45 AM - ZXGame - Fade - End
+12:45 AM - ZXGame - Fade - onFinish
+12:45 AM - ZXGame - ChangeScene - Fade Action 1
+12:45 AM - ZXGame - ShowLoadScreen
+12:45 AM - ZXGame - ShowLoadScreen - End
+12:45 AM - ZXGame - Fade - False With onFinish
+12:45 AM - ZXGame - Fade - End
+12:45 AM - ZXGame - Fade - onFinish
+12:45 AM - ZXGame - ChangeScene - Fade Action 2
+12:45 AM - ZXGame - ChangeScene - loadScene
+12:45 AM - 种子随机地图创建：-1832905512
+12:45 AM - 种子随机地图创建：-1832905511
+12:45 AM - ZXSystem_GameLevel - LoadLevel - Begin
+12:45 AM - ZXSystem_GameLevel - GetMiniMapImage - Begin
+12:45 AM - ZXSystem_GameLevel - GetMiniMapImage - End
+12:45 AM - ZXSystem_GameLevel - LoadLevel - End
+12:45 AM - ZXGame - ChangeScene - pre-Invoke
+12:45 AM - ZXGame - ChangeScene - Invoke
+12:45 AM - ZXGame - Fade - True With onFinish
+12:45 AM - ZXGame - Fade - End
+12:45 AM - ZXGame - Fade - onFinish
+12:45 AM - ZXGame - ChangeScene - showScene
+12:45 AM - GameLevel.ShowScene - Start
+12:45 AM - ZXGame - Fade - False With onFinish
+12:45 AM - ZXGame - Fade - End
+12:45 AM - ZXGame - Fade - onFinish
+12:45 AM - ZXGame - ChangeScene -End
+1:25 AM - ZXGame - ChangeScene - Init
+1:25 AM - ZXGame - ChangeScene - Paused
+1:25 AM - ZXGame - Fade - True With onFinish
+1:25 AM - ZXGame - Fade - End
+1:25 AM - ZXGame - Fade - onFinish
+1:25 AM - ZXGame - ChangeScene - Fade Action 1
+1:25 AM - ZXGame - ShowLoadScreen
+1:25 AM - ZXGame - ShowLoadScreen - End
+1:25 AM - ZXGame - Fade - False With onFinish
+1:25 AM - ZXGame - Fade - End
+1:25 AM - ZXGame - Fade - onFinish
+1:25 AM - ZXGame - ChangeScene - Fade Action 2
+1:25 AM - ZXGame - ChangeScene - loadScene
+1:25 AM - ZXGame - ChangeScene - Load Scene
+1:25 AM - ZXSystem_StartScreen - Load
+1:25 AM - ZXGame - ChangeScene - pre-Invoke
+1:25 AM - ZXGame - ChangeScene - Invoke
+1:25 AM - ZXGame - Fade - True With onFinish
+1:25 AM - ZXGame - Fade - End
+1:25 AM - ZXGame - Fade - onFinish
+1:25 AM - ZXGame - ChangeScene - showScene
+1:25 AM - ZXGame - ChangeScene - Show Scene
+1:25 AM - ZXSystem_StartScreen - ShowScene
+1:25 AM - ZXGame - Fade - False With onFinish
+1:25 AM - ZXGame - Fade - End
+1:25 AM - ZXGame - Fade - onFinish
+1:25 AM - ZXGame - ChangeScene -End
+1:25 AM - DXSlim:FinishScene: Exception:D3DERR_DEVICELOST: Device lost (-2005530520)
+1:25 AM - DXSlim - FinishRenderer
+1:25 AM - DXSlim - InitRenderer
+1:25 AM - DXSlim : BuildParams
+1:25 AM - DXSlim : OnResetDevice
+1:25 AM - DXSlim:FinishScene: Exception:D3DERR_DEVICELOST: Device lost (-2005530520)
+1:25 AM - DXSlim - FinishRenderer
+1:25 AM - DXSlim - InitRenderer
+1:25 AM - DXSlim : BuildParams
+1:25 AM - DXSlim : OnResetDevice
+1:25 AM - DXSlim:FinishScene: Exception:D3DERR_DEVICELOST: Device lost (-2005530520)
+1:25 AM - DXSlim - FinishRenderer
+1:25 AM - DXSlim - InitRenderer
+1:25 AM - DXSlim : BuildParams
+1:25 AM - DXSlim : OnResetDevice
+1:25 AM - DXSlim:FinishScene: Exception:D3DERR_DEVICELOST: Device lost (-2005530520)
+1:25 AM - DXSlim - FinishRenderer
+1:25 AM - DXSlim - InitRenderer
+1:25 AM - DXSlim : BuildParams
+1:25 AM - DXSlim : OnResetDevice
+1:26 AM - DXSlim:FinishScene: Exception:D3DERR_DEVICELOST: Device lost (-2005530520)
+1:26 AM - DXSlim - FinishRenderer
+1:26 AM - DXSlim - InitRenderer
+1:26 AM - DXSlim : BuildParams
+1:26 AM - DXSlim : OnResetDevice
+1:26 AM - DXSlim:FinishScene: Exception:D3DERR_DEVICELOST: Device lost (-2005530520)
+1:26 AM - DXSlim - FinishRenderer
+1:26 AM - DXSlim - InitRenderer
+1:26 AM - DXSlim : BuildParams
+1:26 AM - DXSlim : OnResetDevice
+1:26 AM - ZXGame - ChangeScene - Init
+1:26 AM - ZXGame - ChangeScene - Paused
+1:26 AM - ZXGame - Fade - True With onFinish
+1:26 AM - ZXGame - Fade - End
+1:26 AM - ZXGame - Fade - onFinish
+1:26 AM - ZXGame - ChangeScene - Fade Action 1
+1:26 AM - ZXGame - ShowLoadScreen
+1:26 AM - ZXGame - ShowLoadScreen - End
+1:26 AM - ZXGame - Fade - False With onFinish
+1:26 AM - ZXGame - Fade - End
+1:26 AM - ZXGame - Fade - onFinish
+1:26 AM - ZXGame - ChangeScene - Fade Action 2
+1:26 AM - ZXGame - ChangeScene - loadScene
+1:26 AM - ZXSystem_GameLevel - LoadLevel - Begin
+1:26 AM - ZXSystem_GameLevel - GetMiniMapImage - Begin
+1:26 AM - ZXSystem_GameLevel - GetMiniMapImage - End
+1:26 AM - ZXSystem_GameLevel - LoadLevel - End
+1:26 AM - ZXGame - ChangeScene - pre-Invoke
+1:26 AM - ZXGame - ChangeScene - Invoke
+1:26 AM - ZXGame - Fade - True With onFinish
+1:26 AM - ZXGame - Fade - End
+1:26 AM - ZXGame - Fade - onFinish
+1:26 AM - ZXGame - ChangeScene - showScene
+1:26 AM - GameLevel.ShowScene - Start
+1:26 AM - ZXGame - Fade - False With onFinish
+1:26 AM - ZXGame - Fade - End
+1:26 AM - ZXGame - Fade - onFinish
+1:26 AM - ZXGame - ChangeScene -End
+2:20 AM - ZXGame - ChangeScene - Init
+2:20 AM - ZXGame - ChangeScene - Paused
+2:20 AM - ZXGame - Fade - True With onFinish
+2:20 AM - ZXGame - Fade - End
+2:20 AM - ZXGame - Fade - onFinish
+2:20 AM - ZXGame - ChangeScene - Fade Action 1
+2:20 AM - ZXGame - ShowLoadScreen
+2:20 AM - ZXGame - ShowLoadScreen - End
+2:20 AM - ZXGame - Fade - False With onFinish
+2:20 AM - ZXGame - Fade - End
+2:20 AM - ZXGame - Fade - onFinish
+2:20 AM - ZXGame - ChangeScene - Fade Action 2
+2:20 AM - ZXGame - ChangeScene - loadScene
+2:20 AM - ZXGame - ChangeScene - Load Scene
+2:20 AM - ZXSystem_StartScreen - Load
+2:20 AM - ZXGame - ChangeScene - pre-Invoke
+2:20 AM - ZXGame - ChangeScene - Invoke
+2:20 AM - ZXGame - Fade - True With onFinish
+2:20 AM - ZXGame - Fade - End
+2:20 AM - ZXGame - Fade - onFinish
+2:20 AM - ZXGame - ChangeScene - showScene
+2:20 AM - ZXGame - ChangeScene - Show Scene
+2:20 AM - ZXSystem_StartScreen - ShowScene
+2:20 AM - ZXGame - Fade - False With onFinish
+2:20 AM - ZXGame - Fade - End
+2:20 AM - ZXGame - Fade - onFinish
+2:20 AM - ZXGame - ChangeScene -End
+2:20 AM - DXSlim - FinishRenderer

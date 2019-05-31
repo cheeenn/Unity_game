@@ -1,0 +1,135 @@
+Log: Log file open, 10/12/13 12:13:08
+Log: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+Log: Version: 8629
+Log: Compiled (32-bit): Jun 26 2013 17:28:31
+Log: Changelist: 744907
+Log: Command line: 
+Log: Base directory: C:\f`\à;K0\Borderlands2\Binaries\Win32\
+[0003.28] Log: CPU Page size=4096, Processors=2
+[0003.29] Log: High frequency timer resolution =2.631884 MHz
+[0003.29] Log: Memory total: Physical=3.4GB Pagefile=6.8GB Virtual=4.0GB
+[0003.31] Log: STEAMWORKS initialized 1
+[0003.33] Log: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[0003.33] Log: Presizing GObjAvailable to 262144 slots (~1048576 bytes)
+[0003.83] Log: Object subsystem initialized
+[0003.85] Log:   Steamworks-provided language string: english
+[0005.45] Log: OS stats:
+[0005.45] Log: 	Windows 7 Service Pack 1
+[0005.45] Log: 	RemoteDesktop=0
+[0005.45] Log: Memory stats:
+[0005.45] Log: 	Physical: 3506MB
+[0005.45] Log: 	Virtual: 4095MB
+[0005.45] Log: 	PageFile: 7012MB
+[0005.45] Log: CPU stats:
+[0005.45] Log: 	MeasuredPerformanceTime: 407.098 (stored result)
+[0005.45] Log: 	Hyperthreaded: 1
+[0005.45] Log: 	NumProcessorsPerCPU: 1
+[0005.45] Log: 	NumLogicalProcessors: 2
+[0005.45] Log: 	NumPhysicalProcessors: 16386
+[0005.45] Log: 	MaxSpeed: 2700
+[0005.45] Log: 	CurrentSpeed: 2700
+[0005.45] Log: 	CoresPerProcessor: 16386
+[0005.45] Log: 	IsOnBattery: 0
+[0005.45] Log: 	BatteryLevel: 100
+[0005.45] Log: 	Manufacturer: AMD
+[0005.45] Log: 	CPUName: Unknown AMD CPU
+[0005.45] Log: 	L1CacheSize: 16
+[0005.45] Log: 	L2CacheSize: 1024
+[0005.45] Log: 	Architecture: x86
+[0005.45] Log: GPU stats:
+[0005.45] Log: 	VendorID: 00001002
+[0005.45] Log: 	DeviceID: 00009990
+[0005.45] Log: 	DriverVersion: 8.17.10.1116
+[0005.45] Log: 	DeviceName: AMD Radeon HD 7520G + 7470M Dual Graphics
+[0005.45] Log: 	DriverName: aticfx32.dll
+[0005.45] Log: 	PixelShaderVersion: 3
+[0005.45] Log: 	VertexShaderVersion: 3
+[0005.45] Log: 	VRAMQuantity: 1536
+[0005.45] Log: 	DedicatedVRAM: 1502
+[0005.45] Log: 	AdapterCount: 1
+[0005.45] Log: 	SupportsHardwareTnL: 1
+[0005.45] Log: 	IsLowMemoryXPMachine: 0
+[0005.45] Log: Machine  detected compatibility level: Composite: 4. CPU: 5. GPU: 4.
+[0005.45] Log: Previous detected compatibility level: Composite: 4. CPU: 5. GPU: 4.
+[0005.59] Log: Shader platform (RHI): PC-D3D-SM3
+[0009.79] Log: PhysX GPU Support: DISABLED
+[0009.96] Log: Initializing FaceFX...
+[0009.99] Log: FaceFX 1.7.4 initialized.
+[0019.82] Log: Finished loading startup packages in 9.44 seconds
+[0019.84] Log: 154121 objects as part of root set at end of initial load.
+[0019.84] Log: Initializing Engine...
+[0019.93] Log: UEngine initialized
+[0020.87] Log: AK Audio Device initialized.
+[0021.04] Log: Client initialized
+[0023.72] Log: Initializing Steamworks
+[0025.15] Log: Primary PhysX scene will be in software.
+[0025.15] Log: Creating Primary PhysX Scene.
+[0025.27] Log: Bringing World menumap.TheWorld up for play (0) at 2013.10.12-12.13.30
+[0025.42] Log: Bringing up level for play took: 0.371169
+[0025.51] Log: Game engine initialized
+[0025.58] Log: Initializing Engine Completed
+[0041.00] Log: >>>>>>>>>>>>>> Initial startup: 41.00s <<<<<<<<<<<<<<<
+[0136.35] Log: Primary PhysX scene will be in software.
+[0136.35] Log: Creating Primary PhysX Scene.
+[0136.37] Log: Bringing World menumap.TheWorld up for play (90) at 2013.10.12-12.15.21
+[0136.37] Log: Bringing up level for play took: 0.055425
+[0136.44] Log: Using cached profile data instead of reading
+[0136.44] Log: Using cached profile data instead of reading
+[0150.85] Log: Primary PhysX scene will be in software.
+[0150.85] Log: Creating Primary PhysX Scene.
+[0150.87] Log: Bringing World ExampleEntry.TheWorld up for play (90) at 2013.10.12-12.15.36
+[0150.87] Log: Bringing up level for play took: 0.030182
+[0151.20] Log: Primary PhysX scene will be in software.
+[0151.20] Log: Creating Primary PhysX Scene.
+[0151.21] Log: Bringing World Loader.TheWorld up for play (90) at 2013.10.12-12.15.36
+[0151.21] Log: Bringing up level for play took: 0.029604
+[0151.58] Log: Using cached profile data instead of reading
+[0151.59] Log: Using cached profile data instead of reading
+[0294.85] Log: Primary PhysX scene will be in software.
+[0294.85] Log: Creating Primary PhysX Scene.
+[0344.81] Log: Primary PhysX scene will be in software.
+[0344.81] Log: Creating Primary PhysX Scene.
+[1107.15] Log: Wrote profile (532 bytes) to disk.
+[1136.15] Log: Primary PhysX scene will be in software.
+[1136.15] Log: Creating Primary PhysX Scene.
+[1221.98] Log: Primary PhysX scene will be in software.
+[1221.98] Log: Creating Primary PhysX Scene.
+[1375.96] Log: Wrote profile (532 bytes) to disk.
+[1614.77] Log: Wrote profile (532 bytes) to disk.
+[1924.12] Log: Wrote profile (532 bytes) to disk.
+[2123.54] Log: Wrote profile (532 bytes) to disk.
+[2151.37] Log: Primary PhysX scene will be in software.
+[2151.37] Log: Creating Primary PhysX Scene.
+[2243.87] Log: Primary PhysX scene will be in software.
+[2243.87] Log: Creating Primary PhysX Scene.
+[2333.93] Log: Primary PhysX scene will be in software.
+[2333.93] Log: Creating Primary PhysX Scene.
+[2431.08] Log: Wrote profile (532 bytes) to disk.
+[2758.59] Log: Primary PhysX scene will be in software.
+[2758.59] Log: Creating Primary PhysX Scene.
+[2896.59] Log: Primary PhysX scene will be in software.
+[2896.59] Log: Creating Primary PhysX Scene.
+[3228.28] Log: Wrote profile (533 bytes) to disk.
+[3398.75] Log: Wrote profile (533 bytes) to disk.
+[3575.65] Log: Primary PhysX scene will be in software.
+[3575.65] Log: Creating Primary PhysX Scene.
+[3991.50] Log: Wrote profile (532 bytes) to disk.
+[4002.88] Log: Primary PhysX scene will be in software.
+[4002.88] Log: Creating Primary PhysX Scene.
+[4078.47] Log: Wrote profile (531 bytes) to disk.
+[4080.25] Log: Primary PhysX scene will be in software.
+[4080.25] Log: Creating Primary PhysX Scene.
+[4080.27] Log: Bringing World menumap.TheWorld up for play (0) at 2013.10.12-13.21.05
+[4080.29] Log: Bringing up level for play took: 0.150665
+[4080.29] Log: Using cached profile data instead of reading
+[4080.31] Log: Using cached profile data instead of reading
+[4087.28] Log: Closing by request
+[4087.47] Log: Preparing to exit.
+[4088.62] Log: Game engine shut down
+[4089.87] Log: Windows client shut down
+[4090.19] Log: AK Audio shut down.
+[4090.83] Log: Object subsystem successfully closed.
+[4090.84] Log: Shutting down FaceFX...
+[4090.84] Log: FaceFX shutdown.
+[4091.01] Log: Exiting.
+[4091.03] Log: Log file closed, 10/12/13 13:21:16

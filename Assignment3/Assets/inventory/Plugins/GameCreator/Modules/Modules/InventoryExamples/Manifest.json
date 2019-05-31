@@ -1,0 +1,29 @@
+﻿{
+    "uuid": "inventory-examples",
+    "binaryName": "InventoryExamples",
+    "module": {
+        "name": "Inventory Examples",
+        "version": {
+            "major": 0,
+            "minor": 2,
+            "patch": 2
+        },
+        "description": "Showcase of the main features of the Inventory module for Game Creator.",
+        "category": "Examples & Demos",
+        "canUninstall": true
+    },
+    "developer": {
+        "name": "Catsoft Studios",
+        "mail": "hello@catsoft-studios.com"
+    },
+    "dependencies": [
+        {
+            "uuid": "inventory",
+            "minVersion": {
+                "major": 0,
+                "minor": 2,
+                "patch": 2
+            }
+        }
+    ]
+}

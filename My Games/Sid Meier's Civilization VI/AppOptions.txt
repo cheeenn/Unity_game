@@ -1,0 +1,132 @@
+;Altering this number will cause the app to overwrite this file with defaults
+Version 15
+
+[Language]
+;The previous language set by steam.
+SteamLanguage schinese
+
+;The language to use for all text in-game.
+DisplayLanguage zh_Hans_CN
+
+;The language to use for all audio in-game.
+AudioLanguage Chinese(Taiwan)
+
+;Set to 1 to enable subtitles.
+EnableSubtitles 0
+
+;Enable language fall-back.
+EnableFallback 1
+
+[Video]
+;Device ID of the GPU device to use (as provided by the OS).
+DeviceID 4935
+
+;Render width in pixels.
+RenderWidth 1920
+
+;Render height in pixels.
+RenderHeight 1080
+
+;0 : windowed, 1 : fullscreen, 2 : windowed with no title bar
+FullScreen 2
+
+;UI will be scaled by 1 plus this value, non-integers may cause small artifacts
+UIUpscale 0.000000
+
+;Set to 1 to allow the use of software renderers such as Microsoft's WARP
+AllowSWRenderer 0
+
+;Set to 1 play the intro video on startup.
+PlayIntroVideo 1
+
+;0 : never grab, 1 : only in full screen, 2 : always grab
+MouseGrab 0
+
+[Performance]
+;Number of engine job threads (including main thread). Use -1 to let game decide
+MaxJobThreads -1
+
+;Frame limiter. Tick app every N ms. 0 means tick continuously.
+TickIntervalInMS 0
+
+;Tick every N ms during game start. 0 means tick continuously.
+LoadGameTickIntervalInMS 16
+
+;Tick every N ms while the app is inactive.  0 means tick continuously.
+InactiveTickIntervalInMS 32
+
+;Should we throttle the game when its not the foreground app?
+ThrottleWhileInactive 0
+
+[Debug]
+;Enable FireTuner.
+EnableTuner 0
+
+;Enable Debug menu.
+EnableDebugMenu 0
+
+;Set to 0 to disable audio.
+EnableAudio 1
+
+;Enable MemoryTracker.
+EnableMemoryTracker 0
+
+;Enable Debug information in the plot info tooltips.
+EnableDebugPlotInfo 0
+
+;Enable Automatic Bug Collection.
+EnableBugCollection 1
+
+;Enable Log Collection with Bugs.
+EnableLogCollection 0
+
+;Enable Data Error Collection.
+EnableDataErrorCollection 0
+
+;Enable Local Build Bug Collection.
+EnableLocalBuildCollection 0
+
+;Enable ArtManager loading in the background.
+EnableBackgroundArtLoading 1
+
+;Enable assertions.
+EnableAsserts 1
+
+;Forces the game to load only that save file.
+PlayNowSave 
+
+;Log all game core events.
+EnableGameCoreEventLog 0
+
+;Enable WorldBuilder.
+EnableWorldBuilder 0
+
+;Enable logging for the Landmark System.
+EnableLandmarkLogging 0
+
+;Enable logging for the Terrain System.
+EnableTerrainLogging 0
+
+;Set remark levels(ex. /R0 / R1:ArtDef - means all off except ArtDef level 1) (default "/R1")
+Remarks /R1
+
+;End game state.
+EndGameState 10848472844839407660
+
+;Tutorial state.
+TutorialState 3055162199736244162
+
+[Misc]
+;User has accepted the unknown graphics device pop up.
+AcceptedUnknownDevice 0
+
+;User has accepted the outdated driver pop up.
+AcceptedOutdatedDriver 0
+
+;
+TelemetryUploadNecessary 0
+
+[UI]
+;Is the touch screen support enabled?
+IsTouchScreenEnabled 1
+

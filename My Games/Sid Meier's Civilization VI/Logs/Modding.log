@@ -1,0 +1,464 @@
+[3243994.879] Status: Initializing Modding Framework.
+[3243994.879] Status: C:/Users/32961/OneDrive/Documents/My Games/Sid Meier's Civilization VI/Mods.sqlite
+[3243994.879] Status: Connected to modding database!
+[3243994.879] Status: Ensuring Foreign Key support is enabled and set to initially deferred.
+[3243994.879] Status: Checking database version...
+[3243994.880] Status: Modding database is up-to-date!
+[3243994.880] Status: Loading Stored Procedures...
+[3243994.881] Status: Checking required procedures exist...
+[3243994.881] Status: Initializing database queries...
+[3243994.881] Status: Initializing Services...
+[3243994.881] Status: Component Discovery Service initialized.
+[3243994.881] Status: File Service initialized.
+[3243994.882] Status: Localization Service initialized.
+[3243994.882] Status: Mod Association Service initialized
+[3243994.882] Status: Mod Discovery Service initialized.
+[3243994.882] Status: Mod Loader Service initialized.
+[3243994.882] Status: Mod Selection Service missing. Skipping.
+[3243994.882] Status: Ownership Service initialized.
+[3243994.882] Status: Properties Service initialized.
+[3243994.883] Status: Subscription Service - Detected 0 subscriptions
+[3243994.883] Status: Subscription Service initialized.
+[3243994.883] Status: User Data Service missing. Skipping.
+[3243994.883] Status: Services initialized!
+[3243994.883] Status: Modding Framework is initialized.
+[3243994.883] Status: Initializing Modding Framework took - 4ms.
+[3243994.940] Status: Verifying enabled mods can coexist.
+[3243994.944] Status: Discovering new mods...
+[3243994.992] Status: Finished Discovery.
+[3243994.992] Status: Discovery Summary:
+[3243994.992] Status: Deleted 0 mods.
+[3243994.992] Status: Discovered 0 mods.
+[3243994.992] Status: Discovering Mods took - 48ms.
+[3243994.998] Status: Bootstrapping game content
+[3243994.998] Status: Loading Vanilla DLL.
+[3243995.002] Status: Building gameplay database.
+[3243995.234] Status: Updating gameplay database with embedded GameCore data.
+[3243995.246] Status: Updated gameplay database with GameCore data.
+[3243995.260] Status: Initializing Vanilla DLL.
+[3243995.349] Status: Instantiate GameCore UI Manager.
+[3243995.350] Status: Saving a debug version of the gameplay database.
+[3243996.263] Status: Successfully bootstrapped game content.
+[3243996.269] Status: Mods - Loading AncientRivalsScenario_Config.xml
+[3243996.269] Status: Mods - Loading AncientRivalsScenario_Victories.xml
+[3243996.270] Status: Mods - Loading ColdWarScenario_Config.xml
+[3243996.270] Status: Mods - Loading ColdWarScenario_Eras.xml
+[3243996.270] Status: Mods - Loading ColdWarScenario_Features.xml
+[3243996.270] Status: Mods - Loading ColdWarScenario_GlobalParameters.xml
+[3243996.270] Status: Mods - Loading ColdWarScenario_Policies.xml
+[3243996.271] Status: Mods - Loading ColdWarScenario_Projects.xml
+[3243996.271] Status: Mods - Loading ColdWarScenario_Resources.xml
+[3243996.271] Status: Mods - Loading ColdWarScenario_StartScript.lua
+[3243996.271] Status: Mods - Loading ColdWarScenario_Units.xml
+[3243996.271] Status: Mods - Loading ColdWarScenario_Victories.xml
+[3243996.271] Status: Mods - Loading ColdWarScenario_WMDs.xml
+[3243996.272] Status: Mods - Loading NapoleonScenario_Config.xml
+[3243996.272] Status: Mods - Loading NapoleonScenario_Eras.xml
+[3243996.272] Status: Mods - Loading NapoleonScenario_StartScript.lua
+[3243996.272] Status: Mods - Loading NapoleonScenario_Units.xml
+[3243996.272] Status: Mods - Loading NapoleonScenario_Victories.xml
+[3243996.273] Status: Mods - Loading ReligiousCombatScenario_Civilizations.xml
+[3243996.273] Status: Mods - Loading ReligiousCombatScenario_Config.xml
+[3243996.273] Status: Mods - Loading ReligiousCombatScenario_Eras.xml
+[3243996.273] Status: Mods - Loading ReligiousCombatScenario_Maps.xml
+[3243996.273] Status: Mods - Loading ReligiousCombatScenario_Victories.xml
+[3243996.274] Status: Mods - Loading DLC3.dep
+[3243996.274] Status: Mods - Loading Data/ARX/Civ_LEADER_JOHN_CURTIN.png
+[3243996.274] Status: Mods - Loading Data/Australia_Civilizations.xml
+[3243996.274] Status: Mods - Loading Data/Australia_Config.xml
+[3243996.274] Status: Mods - Loading Data/Australia_Features.xml
+[3243996.274] Status: Mods - Loading Data/Australia_Icons_Civilizations.xml
+[3243996.275] Status: Mods - Loading Data/Australia_Icons_Features.xml
+[3243996.275] Status: Mods - Loading Data/Australia_Icons_Leaders.xml
+[3243996.275] Status: Mods - Loading Data/Australia_Icons_UnitActions.xml
+[3243996.275] Status: Mods - Loading Data/Australia_Icons_UnitPortraits.xml
+[3243996.275] Status: Mods - Loading Data/Australia_Icons_Units.xml
+[3243996.275] Status: Mods - Loading Data/Australia_Improvements.xml
+[3243996.276] Status: Mods - Loading Data/Australia_Leaders.xml
+[3243996.276] Status: Mods - Loading Data/Australia_Units.xml
+[3243996.276] Status: Mods - Loading Platforms/Windows/Audio/DLC03Banks.ini
+[3243996.276] Status: Mods - Loading Platforms/Windows/Audio/DLC03_Leader_SFX.bnk
+[3243996.276] Status: Mods - Loading Platforms/Windows/Audio/DLC03_Leader_SFX.txt
+[3243996.276] Status: Mods - Loading Platforms/Windows/Audio/DLC03_Leader_SFX.xml
+[3243996.277] Status: Mods - Loading Platforms/Windows/Audio/DLC03_Music_Bank.bnk
+[3243996.277] Status: Mods - Loading Platforms/Windows/Audio/DLC03_Music_Bank.txt
+[3243996.277] Status: Mods - Loading Platforms/Windows/Audio/DLC03_Music_Bank.xml
+[3243996.277] Status: Mods - Loading Platforms/Windows/Audio/DLC03_Speech.bnk
+[3243996.277] Status: Mods - Loading Platforms/Windows/Audio/DLC03_Speech.txt
+[3243996.277] Status: Mods - Loading Platforms/Windows/Audio/DLC03_Speech.xml
+[3243996.277] Status: Mods - Loading Platforms/Windows/Audio/DLC03_Unit_Bank_2D.bnk
+[3243996.278] Status: Mods - Loading Platforms/Windows/Audio/DLC03_Unit_Bank_2D.txt
+[3243996.278] Status: Mods - Loading Platforms/Windows/Audio/DLC03_Unit_Bank_2D.xml
+[3243996.278] Status: Mods - Loading Text/Australia_Translations_ConfigText.xml
+[3243996.278] Status: Mods - Loading Text/Australia_Translations_Text.xml
+[3243996.278] Status: Mods - Loading Text/en_US/Australia_CivilopediaText.xml
+[3243996.278] Status: Mods - Loading Text/en_US/Australia_ConfigText.xml
+[3243996.279] Status: Mods - Loading Text/en_US/Australia_Text.xml
+[3243996.279] Status: Mods - Loading Data/Aztec_Montezuma_ConfigData.xml
+[3243996.279] Status: Mods - Loading Data/Aztec_Montezuma_GameplayData.xml
+[3243996.280] Status: Mods - Loading Data/Building_Huey_Teocalli.xml
+[3243996.280] Status: Mods - Loading DLC6.dep
+[3243996.280] Status: Mods - Loading Data/ARX/Civ_LEADER_GITARJA.png
+[3243996.280] Status: Mods - Loading Data/ARX/Civ_LEADER_JAYAVARMAN.png
+[3243996.280] Status: Mods - Loading Data/Indonesia_Khmer_ConfigData.xml
+[3243996.281] Status: Mods - Loading Data/Indonesia_Khmer_GameplayData.xml
+[3243996.281] Status: Mods - Loading Data/Indonesia_Khmer_Icons_Buildings.xml
+[3243996.281] Status: Mods - Loading Data/Indonesia_Khmer_Icons_Civilizations.xml
+[3243996.281] Status: Mods - Loading Data/Indonesia_Khmer_Icons_Features.xml
+[3243996.281] Status: Mods - Loading Data/Indonesia_Khmer_Icons_Leaders.xml
+[3243996.281] Status: Mods - Loading Data/Indonesia_Khmer_Icons_UnitActions.xml
+[3243996.282] Status: Mods - Loading Data/Indonesia_Khmer_Icons_UnitPortraits.xml
+[3243996.282] Status: Mods - Loading Data/Indonesia_Khmer_Icons_Units.xml
+[3243996.282] Status: Mods - Loading Data/Indonesia_Khmer_Icons_Wonders.xml
+[3243996.282] Status: Mods - Loading Maps/EastAsiaStandard.Civ6Map
+[3243996.282] Status: Mods - Loading Maps/TSLEastAsiaStandard.Civ6Map
+[3243996.282] Status: Mods - Loading Platforms/Windows/Audio/DLC06Banks.ini
+[3243996.283] Status: Mods - Loading Platforms/Windows/Audio/DLC06_Leader_SFX.bnk
+[3243996.283] Status: Mods - Loading Platforms/Windows/Audio/DLC06_Leader_SFX.txt
+[3243996.283] Status: Mods - Loading Platforms/Windows/Audio/DLC06_Leader_SFX.xml
+[3243996.283] Status: Mods - Loading Platforms/Windows/Audio/DLC06_Music_Bank.bnk
+[3243996.283] Status: Mods - Loading Platforms/Windows/Audio/DLC06_Music_Bank.txt
+[3243996.283] Status: Mods - Loading Platforms/Windows/Audio/DLC06_Music_Bank.xml
+[3243996.284] Status: Mods - Loading Platforms/Windows/Audio/DLC06_Speech.bnk
+[3243996.284] Status: Mods - Loading Platforms/Windows/Audio/DLC06_Speech.txt
+[3243996.284] Status: Mods - Loading Platforms/Windows/Audio/DLC06_Speech.xml
+[3243996.284] Status: Mods - Loading Platforms/Windows/Audio/DLC06_Unit_Bank_2D.bnk
+[3243996.284] Status: Mods - Loading Platforms/Windows/Audio/DLC06_Unit_Bank_2D.txt
+[3243996.284] Status: Mods - Loading Platforms/Windows/Audio/DLC06_Unit_Bank_2D.xml
+[3243996.285] Status: Mods - Loading Text/Indonesia_Khmer_Translations_ConfigText.xml
+[3243996.285] Status: Mods - Loading Text/Indonesia_Khmer_Translations_Text.xml
+[3243996.285] Status: Mods - Loading Text/en_US/Indonesia_Khmer_CivilopediaText.xml
+[3243996.285] Status: Mods - Loading Text/en_US/Indonesia_Khmer_ConfigText.xml
+[3243996.285] Status: Mods - Loading Text/en_US/Indonesia_Khmer_Text.xml
+[3243996.286] Status: Mods - Loading DLC4.dep
+[3243996.286] Status: Mods - Loading Data/ARX/Civ_LEADER_ALEXANDER.png
+[3243996.286] Status: Mods - Loading Data/ARX/Civ_LEADER_CYRUS.png
+[3243996.286] Status: Mods - Loading Data/Macedonia_Persia_Colors.xml
+[3243996.286] Status: Mods - Loading Data/Macedonia_Persia_ConfigData.xml
+[3243996.286] Status: Mods - Loading Data/Macedonia_Persia_GameplayData.xml
+[3243996.286] Status: Mods - Loading Data/Macedonia_Persia_Icons_Buildings.xml
+[3243996.287] Status: Mods - Loading Data/Macedonia_Persia_Icons_Civilizations.xml
+[3243996.287] Status: Mods - Loading Data/Macedonia_Persia_Icons_Leaders.xml
+[3243996.287] Status: Mods - Loading Data/Macedonia_Persia_Icons_UnitActions.xml
+[3243996.287] Status: Mods - Loading Data/Macedonia_Persia_Icons_UnitPortraits.xml
+[3243996.287] Status: Mods - Loading Data/Macedonia_Persia_Icons_Units.xml
+[3243996.287] Status: Mods - Loading Data/Macedonia_Persia_Icons_Wonders.xml
+[3243996.288] Status: Mods - Loading Data/Macedonia_Persia_PlayerColors.xml
+[3243996.288] Status: Mods - Loading Platforms/Windows/Audio/DLC04Banks.ini
+[3243996.288] Status: Mods - Loading Platforms/Windows/Audio/DLC04_Music_Bank.bnk
+[3243996.288] Status: Mods - Loading Platforms/Windows/Audio/DLC04_Music_Bank.txt
+[3243996.288] Status: Mods - Loading Platforms/Windows/Audio/DLC04_Music_Bank.xml
+[3243996.288] Status: Mods - Loading Text/Macedonia_Persia_Translations_ConfigText.xml
+[3243996.289] Status: Mods - Loading Text/Macedonia_Persia_Translations_Text.xml
+[3243996.289] Status: Mods - Loading Text/en_US/Macedonia_Persia_CivilopediaText.xml
+[3243996.289] Status: Mods - Loading Text/en_US/Macedonia_Persia_ConfigText.xml
+[3243996.289] Status: Mods - Loading Text/en_US/Macedonia_Persia_GameplayText.xml
+[3243996.289] Status: Mods - Loading DLC5.dep
+[3243996.290] Status: Mods - Loading Data/ARX/Civ_LEADER_AMANITORE.png
+[3243996.290] Status: Mods - Loading Data/Nubia_Colors.xml
+[3243996.290] Status: Mods - Loading Data/Nubia_ConfigData.xml
+[3243996.290] Status: Mods - Loading Data/Nubia_GameplayData.xml
+[3243996.290] Status: Mods - Loading Data/Nubia_Icons_Buildings.xml
+[3243996.290] Status: Mods - Loading Data/Nubia_Icons_Civilizations.xml
+[3243996.291] Status: Mods - Loading Data/Nubia_Icons_Leaders.xml
+[3243996.291] Status: Mods - Loading Data/Nubia_Icons_UnitActions.xml
+[3243996.291] Status: Mods - Loading Data/Nubia_Icons_UnitPortraits.xml
+[3243996.291] Status: Mods - Loading Data/Nubia_Icons_Units.xml
+[3243996.291] Status: Mods - Loading Data/Nubia_Icons_Wonders.xml
+[3243996.292] Status: Mods - Loading Data/Nubia_PlayerColors.xml
+[3243996.292] Status: Mods - Loading Platforms/Windows/Audio/DLC05Banks.ini
+[3243996.292] Status: Mods - Loading Platforms/Windows/Audio/DLC05_Leader_SFX.bnk
+[3243996.292] Status: Mods - Loading Platforms/Windows/Audio/DLC05_Leader_SFX.txt
+[3243996.292] Status: Mods - Loading Platforms/Windows/Audio/DLC05_Leader_SFX.xml
+[3243996.292] Status: Mods - Loading Platforms/Windows/Audio/DLC05_Music_Bank.bnk
+[3243996.293] Status: Mods - Loading Platforms/Windows/Audio/DLC05_Music_Bank.txt
+[3243996.293] Status: Mods - Loading Platforms/Windows/Audio/DLC05_Music_Bank.xml
+[3243996.293] Status: Mods - Loading Platforms/Windows/Audio/DLC05_Speech.bnk
+[3243996.293] Status: Mods - Loading Platforms/Windows/Audio/DLC05_Speech.txt
+[3243996.293] Status: Mods - Loading Platforms/Windows/Audio/DLC05_Speech.xml
+[3243996.294] Status: Mods - Loading Platforms/Windows/Audio/DLC05_Unit_Bank_2D.bnk
+[3243996.294] Status: Mods - Loading Platforms/Windows/Audio/DLC05_Unit_Bank_2D.txt
+[3243996.294] Status: Mods - Loading Platforms/Windows/Audio/DLC05_Unit_Bank_2D.xml
+[3243996.294] Status: Mods - Loading Text/Nubia_Amanitore_Translations_ConfigText.xml
+[3243996.294] Status: Mods - Loading Text/Nubia_Amanitore_Translations_Text.xml
+[3243996.294] Status: Mods - Loading Text/en_US/Nubia_CivilopediaText.xml
+[3243996.295] Status: Mods - Loading Text/en_US/Nubia_ConfigText.xml
+[3243996.295] Status: Mods - Loading Text/en_US/Nubia_Text.xml
+[3243996.295] Status: Mods - Loading DLC2.dep
+[3243996.295] Status: Mods - Loading Data/ARX/Civ_LEADER_JADWIGA.png
+[3243996.295] Status: Mods - Loading Data/Poland_Jadwiga_ConfigData.xml
+[3243996.296] Status: Mods - Loading Data/Poland_Jadwiga_GameplayData.xml
+[3243996.296] Status: Mods - Loading Data/Poland_Jadwiga_Icons_Buildings.xml
+[3243996.296] Status: Mods - Loading Data/Poland_Jadwiga_Icons_Civilizations.xml
+[3243996.296] Status: Mods - Loading Data/Poland_Jadwiga_Icons_Leaders.xml
+[3243996.296] Status: Mods - Loading Data/Poland_Jadwiga_Icons_UnitPortraits.xml
+[3243996.296] Status: Mods - Loading Data/Poland_Jadwiga_Icons_Units.xml
+[3243996.297] Status: Mods - Loading Platforms/Windows/Audio/DLC02Banks.ini
+[3243996.297] Status: Mods - Loading Platforms/Windows/Audio/DLC02_Leader_SFX.bnk
+[3243996.297] Status: Mods - Loading Platforms/Windows/Audio/DLC02_Leader_SFX.txt
+[3243996.297] Status: Mods - Loading Platforms/Windows/Audio/DLC02_Leader_SFX.xml
+[3243996.297] Status: Mods - Loading Platforms/Windows/Audio/DLC02_Speech.bnk
+[3243996.297] Status: Mods - Loading Platforms/Windows/Audio/DLC02_Speech.txt
+[3243996.298] Status: Mods - Loading Platforms/Windows/Audio/DLC02_Speech.xml
+[3243996.298] Status: Mods - Loading Text/Poland_Translations_ConfigText.xml
+[3243996.298] Status: Mods - Loading Text/Poland_Translations_Text.xml
+[3243996.298] Status: Mods - Loading Text/en_US/Poland_Jadwiga_ConfigText.xml
+[3243996.298] Status: Mods - Loading Text/en_US/Poland_Jadwiga_GameplayText.xml
+[3243997.120] Status: Configuring game content
+[3243997.120] Status: Enabled Mods (in no particular order):
+[3243997.120] Status: No active mods.
+[3243997.122] Status: Target Mods (in no particular order):
+[3243997.123] Status: F653805E-F7C8-44E1-8CBD-FB48D7AABCBA (Multiplayer Scenario: Ancient Rivals)
+[3243997.124] Status: 648CD2A8-057A-4EB5-9E41-E1F7D86B5443 (Multiplayer Scenario: Global Thermonuclear War)
+[3243997.124] Status: {5E991A08-08FD-4774-968B-A85377ECF60D} (Multiplayer Scenario: Cavalry and Cannonades)
+[3243997.125] Status: {455B6E2D-821D-4D49-9FCD-FC950AC6A521} (Multiplayer Scenario: Hallowed Ground)
+[3243997.126] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[3243997.133] Status: Game configuration needs to change to match target config.
+[3243997.133] Status: Performing pre-configure processing.
+[3243997.133] Status: Rebuilding configuration database.
+[3243997.133] Status: Localization database unchanged, no rollback needed.
+[3243997.133] Status: Configuration database unchanged, no rollback needed.
+[3243997.133] Status: Applying settings.
+[3243997.133] Status: Modding Framework - Apply Settings
+[3243997.134] Status: Creating database save point.
+[3243997.134] Status: ModdingUpdateConfigurationDatabase - Loading AncientRivalsScenario_Config.xml
+[3243997.135] Status: Successfully released save point.
+[3243997.135] Status: Creating database save point.
+[3243997.135] Status: ModdingUpdateConfigurationDatabase - Loading ColdWarScenario_Config.xml
+[3243997.136] Status: Successfully released save point.
+[3243997.136] Status: Creating database save point.
+[3243997.136] Status: ModdingUpdateConfigurationDatabase - Loading NapoleonScenario_Config.xml
+[3243997.137] Status: Successfully released save point.
+[3243997.137] Status: Creating database save point.
+[3243997.137] Status: ModdingUpdateConfigurationDatabase - Loading ReligiousCombatScenario_Config.xml
+[3243997.138] Status: Successfully released save point.
+[3243997.138] Status: Creating database save point.
+[3243997.139] Status: ModdingUpdateConfigurationDatabase - Loading Data/Aztec_Montezuma_ConfigData.xml
+[3243997.139] Status: Successfully released save point.
+[3243997.139] Status: Modding Framework - Finished Apply Settings
+[3243997.373] Status: Successfully reconfigured game.
+[3244020.953] Status: Configuring game content
+[3244020.953] Status: Enabled Mods (in no particular order):
+[3244020.954] Status: F653805E-F7C8-44E1-8CBD-FB48D7AABCBA (Multiplayer Scenario: Ancient Rivals)
+[3244020.954] Status: 648CD2A8-057A-4EB5-9E41-E1F7D86B5443 (Multiplayer Scenario: Global Thermonuclear War)
+[3244020.955] Status: {5E991A08-08FD-4774-968B-A85377ECF60D} (Multiplayer Scenario: Cavalry and Cannonades)
+[3244020.955] Status: {455B6E2D-821D-4D49-9FCD-FC950AC6A521} (Multiplayer Scenario: Hallowed Ground)
+[3244020.956] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[3244020.957] Status: Target Mods (in no particular order):
+[3244020.958] Status: F653805E-F7C8-44E1-8CBD-FB48D7AABCBA (Multiplayer Scenario: Ancient Rivals)
+[3244020.958] Status: 648CD2A8-057A-4EB5-9E41-E1F7D86B5443 (Multiplayer Scenario: Global Thermonuclear War)
+[3244020.959] Status: {5E991A08-08FD-4774-968B-A85377ECF60D} (Multiplayer Scenario: Cavalry and Cannonades)
+[3244020.959] Status: {455B6E2D-821D-4D49-9FCD-FC950AC6A521} (Multiplayer Scenario: Hallowed Ground)
+[3244020.960] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[3244020.965] Status: Game configuration matches target configuration.
+[3244020.965] Status: Successfully reconfigured game.
+[3244081.754] Status: Configuring game content
+[3244081.754] Status: Enabled Mods (in no particular order):
+[3244081.755] Status: F653805E-F7C8-44E1-8CBD-FB48D7AABCBA (Multiplayer Scenario: Ancient Rivals)
+[3244081.756] Status: 648CD2A8-057A-4EB5-9E41-E1F7D86B5443 (Multiplayer Scenario: Global Thermonuclear War)
+[3244081.757] Status: {5E991A08-08FD-4774-968B-A85377ECF60D} (Multiplayer Scenario: Cavalry and Cannonades)
+[3244081.757] Status: {455B6E2D-821D-4D49-9FCD-FC950AC6A521} (Multiplayer Scenario: Hallowed Ground)
+[3244081.758] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[3244081.758] Status: Target Mods (in no particular order):
+[3244081.759] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[3244081.760] Status: Game configuration needs to change to match target config.
+[3244081.760] Status: Performing pre-configure processing.
+[3244081.760] Status: Rebuilding configuration database.
+[3244081.760] Status: Localization database unchanged, no rollback needed.
+[3244081.770] Status: Reverted Configuration database to its original state.
+[3244081.770] Status: Applying settings.
+[3244081.770] Status: Modding Framework - Apply Settings
+[3244081.771] Status: Creating database save point.
+[3244081.771] Status: ModdingUpdateConfigurationDatabase - Loading Data/Aztec_Montezuma_ConfigData.xml
+[3244081.771] Status: Successfully released save point.
+[3244081.771] Status: Modding Framework - Finished Apply Settings
+[3244081.983] Status: Successfully reconfigured game.
+[3244081.983] Status: Updating game content
+[3244081.983] Status: Configuring game content
+[3244081.983] Status: Enabled Mods (in no particular order):
+[3244081.984] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[3244081.984] Status: Target Mods (in no particular order):
+[3244081.985] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[3244081.986] Status: Game configuration matches target configuration.
+[3244081.986] Status: Successfully reconfigured game.
+[3244081.986] Status: Applied in-game actions (in order of application):
+[3244081.986] Status: No active mods.
+[3244081.990] Status: Target in-game actions (in order of application):
+[3244081.991] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[3244081.991] Status:  * AztecMontezumaGameplay (UpdateDatabase)
+[3244081.992] Status: Game content needs to change to match target config.
+[3244081.992] Status: Performing pre configure processing.
+[3244081.992] Status: Unloading Gameplay DLL.
+[3244082.014] Status: Reloading Gameplay DLL.
+[3244082.018] Status: Localization database unchanged, no rollback needed.
+[3244082.018] Status: Rebuilding gameplay database.
+[3244082.282] Status: Reverted Gameplay database to its original state.
+[3244082.282] Status: Updating gameplay database with embedded GameCore data.
+[3244082.296] Status: Updated gameplay database with GameCore data.
+[3244082.296] Status: Applying mod components.
+[3244082.296] Status: Modding Framework - Applying Components
+[3244082.327] Status: Applying Component - AztecMontezumaGameplay (UpdateDatabase)
+[3244082.328] Status: Creating database save point.
+[3244082.328] Status: UpdateDatabase - Loading Data/Aztec_Montezuma_GameplayData.xml
+[3244082.330] Status: UpdateDatabase - Loading Data/Building_Huey_Teocalli.xml
+[3244082.332] Status: Successfully released save point.
+[3244082.332] Status: Applied component to game.
+[3244082.361] Status: Modding Framework - Finished Apply Components
+[3244082.362] Status: Applied all components of enabled mods.
+[3244082.452] Status: Initializing Gameplay DLL.
+[3244082.554] Status: Reloading Tuner states.
+[3244082.557] Status: Saving a debug version of the gameplay database.
+[3244083.275] Status: Performing post configure processing.
+[3244083.691] Status: Successfully reconfigured game.
+[3245228.516] Status: Configuring game content
+[3245228.516] Status: Enabled Mods (in no particular order):
+[3245228.517] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[3245228.517] Status: Target Mods (in no particular order):
+[3245228.518] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[3245228.519] Status: Game configuration needs to change to match target config.
+[3245228.519] Status: Performing pre-configure processing.
+[3245228.519] Status: Rebuilding configuration database.
+[3245228.519] Status: Localization database unchanged, no rollback needed.
+[3245228.529] Status: Reverted Configuration database to its original state.
+[3245228.529] Status: Applying settings.
+[3245228.529] Status: Modding Framework - Apply Settings
+[3245228.530] Status: Creating database save point.
+[3245228.531] Status: ModdingUpdateConfigurationDatabase - Loading Data/Aztec_Montezuma_ConfigData.xml
+[3245228.531] Status: Successfully released save point.
+[3245228.531] Status: Modding Framework - Finished Apply Settings
+[3245228.885] Status: Successfully reconfigured game.
+[3245228.885] Status: Updating game content
+[3245228.885] Status: Configuring game content
+[3245228.885] Status: Enabled Mods (in no particular order):
+[3245228.886] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[3245228.886] Status: Target Mods (in no particular order):
+[3245228.887] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[3245228.889] Status: Game configuration matches target configuration.
+[3245228.889] Status: Successfully reconfigured game.
+[3245228.889] Status: Applied in-game actions (in order of application):
+[3245228.890] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[3245228.890] Status:  * AztecMontezumaGameplay (UpdateDatabase)
+[3245228.892] Status: Target in-game actions (in order of application):
+[3245228.893] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[3245228.894] Status:  * AztecMontezumaGameplay (UpdateDatabase)
+[3245228.894] Status: Game content needs to change to match target config.
+[3245228.894] Status: Performing pre configure processing.
+[3245228.908] Status: Unloading Gameplay DLL.
+[3245228.941] Status: Reloading Gameplay DLL.
+[3245228.976] Status: Localization database unchanged, no rollback needed.
+[3245228.976] Status: Rebuilding gameplay database.
+[3245229.268] Status: Reverted Gameplay database to its original state.
+[3245229.268] Status: Updating gameplay database with embedded GameCore data.
+[3245229.280] Status: Updated gameplay database with GameCore data.
+[3245229.280] Status: Applying mod components.
+[3245229.281] Status: Modding Framework - Applying Components
+[3245229.678] Status: Applying Component - AztecMontezumaGameplay (UpdateDatabase)
+[3245229.678] Status: Creating database save point.
+[3245229.679] Status: UpdateDatabase - Loading Data/Aztec_Montezuma_GameplayData.xml
+[3245229.681] Status: UpdateDatabase - Loading Data/Building_Huey_Teocalli.xml
+[3245229.685] Status: Successfully released save point.
+[3245229.686] Status: Applied component to game.
+[3245229.716] Status: Modding Framework - Finished Apply Components
+[3245229.716] Status: Applied all components of enabled mods.
+[3245229.811] Status: Initializing Gameplay DLL.
+[3245229.915] Status: Reloading Tuner states.
+[3245229.918] Status: Saving a debug version of the gameplay database.
+[3245230.712] Status: Performing post configure processing.
+[3245230.993] Status: Successfully reconfigured game.
+[3256862.200] Status: Configuring game content
+[3256862.200] Status: Enabled Mods (in no particular order):
+[3256862.201] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[3256862.202] Status: Target Mods (in no particular order):
+[3256862.203] Status: F653805E-F7C8-44E1-8CBD-FB48D7AABCBA (Multiplayer Scenario: Ancient Rivals)
+[3256862.204] Status: 648CD2A8-057A-4EB5-9E41-E1F7D86B5443 (Multiplayer Scenario: Global Thermonuclear War)
+[3256862.204] Status: {5E991A08-08FD-4774-968B-A85377ECF60D} (Multiplayer Scenario: Cavalry and Cannonades)
+[3256862.205] Status: {455B6E2D-821D-4D49-9FCD-FC950AC6A521} (Multiplayer Scenario: Hallowed Ground)
+[3256862.206] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[3256862.211] Status: Game configuration needs to change to match target config.
+[3256862.211] Status: Performing pre-configure processing.
+[3256862.211] Status: Rebuilding configuration database.
+[3256862.211] Status: Localization database unchanged, no rollback needed.
+[3256862.222] Status: Reverted Configuration database to its original state.
+[3256862.222] Status: Applying settings.
+[3256862.222] Status: Modding Framework - Apply Settings
+[3256862.223] Status: Creating database save point.
+[3256862.224] Status: ModdingUpdateConfigurationDatabase - Loading AncientRivalsScenario_Config.xml
+[3256862.239] Status: Successfully released save point.
+[3256862.239] Status: Creating database save point.
+[3256862.240] Status: ModdingUpdateConfigurationDatabase - Loading ColdWarScenario_Config.xml
+[3256862.251] Status: Successfully released save point.
+[3256862.252] Status: Creating database save point.
+[3256862.252] Status: ModdingUpdateConfigurationDatabase - Loading NapoleonScenario_Config.xml
+[3256862.259] Status: Successfully released save point.
+[3256862.259] Status: Creating database save point.
+[3256862.260] Status: ModdingUpdateConfigurationDatabase - Loading ReligiousCombatScenario_Config.xml
+[3256862.262] Status: Successfully released save point.
+[3256862.263] Status: Creating database save point.
+[3256862.263] Status: ModdingUpdateConfigurationDatabase - Loading Data/Aztec_Montezuma_ConfigData.xml
+[3256862.263] Status: Successfully released save point.
+[3256862.263] Status: Modding Framework - Finished Apply Settings
+[3256862.452] Status: Successfully reconfigured game.
+[3256959.340] Status: Configuring game content
+[3256959.340] Status: Enabled Mods (in no particular order):
+[3256959.340] Status: F653805E-F7C8-44E1-8CBD-FB48D7AABCBA (Multiplayer Scenario: Ancient Rivals)
+[3256959.341] Status: 648CD2A8-057A-4EB5-9E41-E1F7D86B5443 (Multiplayer Scenario: Global Thermonuclear War)
+[3256959.342] Status: {5E991A08-08FD-4774-968B-A85377ECF60D} (Multiplayer Scenario: Cavalry and Cannonades)
+[3256959.342] Status: {455B6E2D-821D-4D49-9FCD-FC950AC6A521} (Multiplayer Scenario: Hallowed Ground)
+[3256959.343] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[3256959.343] Status: Target Mods (in no particular order):
+[3256959.343] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[3256959.345] Status: Game configuration needs to change to match target config.
+[3256959.345] Status: Performing pre-configure processing.
+[3256959.345] Status: Rebuilding configuration database.
+[3256959.345] Status: Localization database unchanged, no rollback needed.
+[3256959.355] Status: Reverted Configuration database to its original state.
+[3256959.355] Status: Applying settings.
+[3256959.355] Status: Modding Framework - Apply Settings
+[3256959.356] Status: Creating database save point.
+[3256959.356] Status: ModdingUpdateConfigurationDatabase - Loading Data/Aztec_Montezuma_ConfigData.xml
+[3256959.357] Status: Successfully released save point.
+[3256959.357] Status: Modding Framework - Finished Apply Settings
+[3256959.588] Status: Successfully reconfigured game.
+[3256959.588] Status: Updating game content
+[3256959.588] Status: Configuring game content
+[3256959.588] Status: Enabled Mods (in no particular order):
+[3256959.589] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[3256959.589] Status: Target Mods (in no particular order):
+[3256959.590] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[3256959.591] Status: Game configuration matches target configuration.
+[3256959.592] Status: Successfully reconfigured game.
+[3256959.592] Status: Applied in-game actions (in order of application):
+[3256959.593] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[3256959.594] Status:  * AztecMontezumaGameplay (UpdateDatabase)
+[3256959.596] Status: Target in-game actions (in order of application):
+[3256959.597] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[3256959.597] Status:  * AztecMontezumaGameplay (UpdateDatabase)
+[3256959.598] Status: Game content needs to change to match target config.
+[3256959.598] Status: Performing pre configure processing.
+[3256959.611] Status: Unloading Gameplay DLL.
+[3256959.663] Status: Reloading Gameplay DLL.
+[3256959.701] Status: Localization database unchanged, no rollback needed.
+[3256959.701] Status: Rebuilding gameplay database.
+[3256960.036] Status: Reverted Gameplay database to its original state.
+[3256960.036] Status: Updating gameplay database with embedded GameCore data.
+[3256960.050] Status: Updated gameplay database with GameCore data.
+[3256960.050] Status: Applying mod components.
+[3256960.050] Status: Modding Framework - Applying Components
+[3256960.164] Status: Applying Component - AztecMontezumaGameplay (UpdateDatabase)
+[3256960.164] Status: Creating database save point.
+[3256960.164] Status: UpdateDatabase - Loading Data/Aztec_Montezuma_GameplayData.xml
+[3256960.168] Status: UpdateDatabase - Loading Data/Building_Huey_Teocalli.xml
+[3256960.170] Status: Successfully released save point.
+[3256960.170] Status: Applied component to game.
+[3256960.203] Status: Modding Framework - Finished Apply Components
+[3256960.203] Status: Applied all components of enabled mods.
+[3256960.306] Status: Initializing Gameplay DLL.
+[3256960.428] Status: Reloading Tuner states.
+[3256960.429] Status: Saving a debug version of the gameplay database.
+[3256961.070] Status: Performing post configure processing.
+[3256961.359] Status: Successfully reconfigured game.
+[3258695.533] Status: Modding Framework - Shutting down framework.
+[3258695.533] Status: Releasing Modding Framework Services...
+[3258695.533] Status: Services released!
+[3258695.533] Status: Releasing Modding Framework database queries...
+[3258695.533] Status: Queries released!

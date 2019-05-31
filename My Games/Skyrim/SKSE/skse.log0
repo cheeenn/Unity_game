@@ -1,0 +1,16 @@
+SKSE runtime: initialize (version = 1.7.3 09200000 01D2D0BDD4910185, os = 6.2 (9200))
+imagebase = 00400000
+runtime root = C:\Users\32961\Desktop\SkyrimAnniversaryHD\TSEV Skyrim LE\
+config path = C:\Users\32961\Desktop\SkyrimAnniversaryHD\TSEV Skyrim LE\Data\SKSE\skse.ini
+plugin directory = C:\Users\32961\Desktop\SkyrimAnniversaryHD\TSEV Skyrim LE\Data\SKSE\Plugins\
+checking plugin C:\Users\32961\Desktop\SkyrimAnniversaryHD\TSEV Skyrim LE\Data\SKSE\Plugins\\CharacterMakingExtender_plugin.dll
+plugin C:\Users\32961\Desktop\SkyrimAnniversaryHD\TSEV Skyrim LE\Data\SKSE\Plugins\\CharacterMakingExtender_plugin.dll (00000001 ExCharGen plugin 0000002D) loaded correctly
+checking plugin C:\Users\32961\Desktop\SkyrimAnniversaryHD\TSEV Skyrim LE\Data\SKSE\Plugins\\hdtHighHeelNative.dll
+plugin C:\Users\32961\Desktop\SkyrimAnniversaryHD\TSEV Skyrim LE\Data\SKSE\Plugins\\hdtHighHeelNative.dll (00000001 hdtHighHeelNative 00000001) loaded correctly
+checking plugin C:\Users\32961\Desktop\SkyrimAnniversaryHD\TSEV Skyrim LE\Data\SKSE\Plugins\\showRaceMenu_preCacheKiller.dll
+plugin C:\Users\32961\Desktop\SkyrimAnniversaryHD\TSEV Skyrim LE\Data\SKSE\Plugins\\showRaceMenu_preCacheKiller.dll (00000001 ShowRaceMenu preCacheKiller plugin 00000001) loaded correctly
+dispatch message (0) to plugin listeners
+no listeners registered
+dispatch message (1) to plugin listeners
+no listeners registered
+init complete

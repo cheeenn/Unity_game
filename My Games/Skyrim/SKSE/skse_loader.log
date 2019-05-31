@@ -1,0 +1,28 @@
+skse loader 01070030 01D443FAD1D6236C 6.2 (9200)
+runtime root = C:\Users\32961\Downloads\Skyrim\
+config path = C:\Users\32961\Downloads\Skyrim\Data\SKSE\skse.ini
+procPath = C:\Users\32961\Downloads\Skyrim\\TESV.exe
+launching: TESV.exe (C:\Users\32961\Downloads\Skyrim\\TESV.exe)
+dwSignature = FEEF04BD
+dwStrucVersion = 00010000
+dwFileVersionMS = 00010009
+dwFileVersionLS = 00200000
+dwProductVersionMS = 00010009
+dwProductVersionLS = 00200000
+dwFileFlagsMask = 00000017
+dwFileFlags = 00000000
+dwFileOS = 00000004
+dwFileType = 00000001
+dwFileSubtype = 00000000
+dwFileDateMS = 00000000
+dwFileDateLS = 00000000
+version = 0001000900200000
+product name = TESV: Skyrim
+normal exe
+hook call addr = 00F56831
+load lib addr = 0106B0B4
+dll = C:\Users\32961\Downloads\Skyrim\\skse_1_9_32.dll
+main thread id = 9868
+remote memory = 001D0000
+old winmain = 0069D1D0
+launching

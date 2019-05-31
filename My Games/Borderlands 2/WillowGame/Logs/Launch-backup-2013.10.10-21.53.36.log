@@ -1,0 +1,81 @@
+Log: Log file open, 10/10/13 21:36:49
+Log: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+Log: Version: 8629
+Log: Compiled (32-bit): Jun 26 2013 17:28:31
+Log: Changelist: 744907
+Log: Command line: 
+Log: Base directory: C:\f`\à;K0\Borderlands2\Binaries\Win32\
+[0000.60] Log: CPU Page size=4096, Processors=2
+[0000.60] Log: High frequency timer resolution =2.631875 MHz
+[0000.60] Log: Memory total: Physical=3.4GB Pagefile=6.8GB Virtual=4.0GB
+[0000.61] Log: STEAMWORKS initialized 1
+[0000.61] Log: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[0000.61] Log: Presizing GObjAvailable to 262144 slots (~1048576 bytes)
+[0000.61] Log: Object subsystem initialized
+[0000.61] Log:   Steamworks-provided language string: english
+[0000.79] Log: OS stats:
+[0000.79] Log: 	Windows 7 Service Pack 1
+[0000.79] Log: 	RemoteDesktop=0
+[0000.79] Log: Memory stats:
+[0000.79] Log: 	Physical: 3506MB
+[0000.79] Log: 	Virtual: 4095MB
+[0000.79] Log: 	PageFile: 7012MB
+[0000.79] Log: CPU stats:
+[0000.79] Log: 	MeasuredPerformanceTime: 407.098 (stored result)
+[0000.79] Log: 	Hyperthreaded: 1
+[0000.79] Log: 	NumProcessorsPerCPU: 1
+[0000.79] Log: 	NumLogicalProcessors: 2
+[0000.79] Log: 	NumPhysicalProcessors: 16386
+[0000.79] Log: 	MaxSpeed: 2700
+[0000.79] Log: 	CurrentSpeed: 2700
+[0000.79] Log: 	CoresPerProcessor: 16386
+[0000.79] Log: 	IsOnBattery: 0
+[0000.79] Log: 	BatteryLevel: 100
+[0000.79] Log: 	Manufacturer: AMD
+[0000.79] Log: 	CPUName: Unknown AMD CPU
+[0000.79] Log: 	L1CacheSize: 16
+[0000.79] Log: 	L2CacheSize: 1024
+[0000.79] Log: 	Architecture: x86
+[0000.79] Log: GPU stats:
+[0000.79] Log: 	VendorID: 00001002
+[0000.79] Log: 	DeviceID: 00009990
+[0000.79] Log: 	DriverVersion: 8.17.10.1116
+[0000.79] Log: 	DeviceName: AMD Radeon HD 7520G + 7470M Dual Graphics
+[0000.79] Log: 	DriverName: aticfx32.dll
+[0000.79] Log: 	PixelShaderVersion: 3
+[0000.79] Log: 	VertexShaderVersion: 3
+[0000.79] Log: 	VRAMQuantity: 1536
+[0000.79] Log: 	DedicatedVRAM: 1502
+[0000.79] Log: 	AdapterCount: 1
+[0000.79] Log: 	SupportsHardwareTnL: 1
+[0000.79] Log: 	IsLowMemoryXPMachine: 0
+[0000.80] Log: Machine  detected compatibility level: Composite: 4. CPU: 5. GPU: 4.
+[0000.80] Log: Previous detected compatibility level: Composite: 4. CPU: 5. GPU: 4.
+[0000.84] Log: Shader platform (RHI): PC-D3D-SM3
+[0002.69] Log: PhysX GPU Support: DISABLED
+[0002.70] Log: Initializing FaceFX...
+[0002.70] Log: FaceFX 1.7.4 initialized.
+[0011.28] Log: Finished loading startup packages in 8.31 seconds
+[0011.31] Log: 154121 objects as part of root set at end of initial load.
+[0011.31] Log: Initializing Engine...
+[0011.37] Log: UEngine initialized
+[0011.54] Log: AK Audio Device initialized.
+[0011.60] Log: Client initialized
+[0014.63] Log: Initializing Steamworks
+[0015.51] Log: Primary PhysX scene will be in software.
+[0015.51] Log: Creating Primary PhysX Scene.
+[0015.52] Log: Bringing World menumap.TheWorld up for play (0) at 2013.10.10-21.37.03
+[0015.55] Log: Bringing up level for play took: 0.318546
+[0015.55] Log: Game engine initialized
+[0015.57] Log: Initializing Engine Completed
+[0027.88] Log: >>>>>>>>>>>>>> Initial startup: 27.88s <<<<<<<<<<<<<<<
+[0318.97] Log: Closing by request
+[0319.10] Log: Preparing to exit.
+[0320.17] Log: Game engine shut down
+[0320.64] Log: Windows client shut down
+[0320.70] Log: AK Audio shut down.
+[0321.38] Log: Object subsystem successfully closed.
+[0321.39] Log: Shutting down FaceFX...
+[0321.39] Log: FaceFX shutdown.
+[0321.56] Log: Exiting.
+[0321.58] Log: Log file closed, 10/10/13 21:42:10

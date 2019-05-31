@@ -1,0 +1,450 @@
+[2018-01-04 07:28:34]	 Attempt to Load a file. ServerType: 0, Location Type: 1, Device: 1, Options 00000000
+[2018-01-04 07:28:34]	 Serialization Request. Type: 2, Location Type: 1, Device: 1, Options 00000000
+[2018-01-04 07:29:29]	 Serialization OpenFromSource. Location Type: 1, Device: 1, Options 00000000
+[2018-01-04 07:29:31]	 Serialization UnserializeGameState. pkStream valid=true
+[2018-01-04 07:29:31]	 	,LoadHeader - Complete
+[2018-01-04 07:29:31]	 	,Configuration::OnLoadGame - Complete
+[2018-01-04 07:29:31]	 Attempting to host game.  ServerType: 0
+[2018-01-04 07:29:31]	 Network Session Hosted.
+[2018-01-04 07:29:31]	 	,AttachToSession - Complete
+[2018-01-04 07:29:35]	 	,LoadGameCoreState - Complete
+[2018-01-04 07:29:35]	 	,LoadAudioState - Complete
+[2018-01-04 07:29:35]	 	,LoadUIState - Complete
+[2018-01-04 07:29:35]	 	,LoadRecorderState - Complete
+[2018-01-04 07:29:35]	 Serialization UnserializeGameState, result=0
+[2018-01-04 07:31:46]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 07:31:46]	 Serialization, writing Game State
+[2018-01-04 07:31:46]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 07:31:47]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 07:34:57]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 07:34:57]	 Serialization, writing Game State
+[2018-01-04 07:34:57]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 07:34:58]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 07:36:55]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 07:36:55]	 Serialization, writing Game State
+[2018-01-04 07:36:55]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 07:36:56]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 07:38:02]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000000
+[2018-01-04 07:38:02]	 Serialization, writing Game State
+[2018-01-04 07:38:45]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 07:38:45]	 Serialization, writing Game State
+[2018-01-04 07:38:45]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 07:38:46]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 07:41:53]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 07:41:53]	 Serialization, writing Game State
+[2018-01-04 07:41:53]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 07:41:54]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 07:45:06]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 07:45:06]	 Serialization, writing Game State
+[2018-01-04 07:45:06]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 07:45:07]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 07:46:36]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 07:46:36]	 Serialization, writing Game State
+[2018-01-04 07:46:36]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 07:46:37]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 07:47:12]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000000
+[2018-01-04 07:47:12]	 Serialization, writing Game State
+[2018-01-04 07:48:34]	 Attempt to Load a file. ServerType: 0, Location Type: 1, Device: 1, Options 00000000
+[2018-01-04 07:48:34]	 Serialization Request. Type: 2, Location Type: 1, Device: 1, Options 00000000
+[2018-01-04 07:48:36]	 Serialization OpenFromSource. Location Type: 1, Device: 1, Options 00000000
+[2018-01-04 07:48:39]	 Serialization UnserializeGameState. pkStream valid=true
+[2018-01-04 07:48:39]	 	,LoadHeader - Complete
+[2018-01-04 07:48:39]	 	,Configuration::OnLoadGame - Complete
+[2018-01-04 07:48:39]	 Attempting to host game.  ServerType: 0
+[2018-01-04 07:48:39]	 Network Session Hosted.
+[2018-01-04 07:48:39]	 	,AttachToSession - Complete
+[2018-01-04 07:48:43]	 	,LoadGameCoreState - Complete
+[2018-01-04 07:48:43]	 	,LoadAudioState - Complete
+[2018-01-04 07:48:43]	 	,LoadUIState - Complete
+[2018-01-04 07:48:43]	 	,LoadRecorderState - Complete
+[2018-01-04 07:48:43]	 Serialization UnserializeGameState, result=0
+[2018-01-04 07:50:28]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 07:50:28]	 Serialization, writing Game State
+[2018-01-04 07:50:28]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 07:50:29]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 07:52:26]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 07:52:26]	 Serialization, writing Game State
+[2018-01-04 07:52:26]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 07:52:27]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 07:57:05]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 07:57:05]	 Serialization, writing Game State
+[2018-01-04 07:57:05]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 07:57:06]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 08:01:24]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 08:01:24]	 Serialization, writing Game State
+[2018-01-04 08:01:24]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 08:01:25]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 08:02:29]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 08:02:29]	 Serialization, writing Game State
+[2018-01-04 08:02:29]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 08:02:30]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 08:05:20]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 08:05:20]	 Serialization, writing Game State
+[2018-01-04 08:05:20]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 08:05:21]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 08:07:57]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 08:07:57]	 Serialization, writing Game State
+[2018-01-04 08:07:57]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 08:07:59]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 08:09:54]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 08:09:54]	 Serialization, writing Game State
+[2018-01-04 08:09:54]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 08:09:55]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 08:12:10]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 08:12:10]	 Serialization, writing Game State
+[2018-01-04 08:12:10]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 08:12:11]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 08:15:34]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 08:15:34]	 Serialization, writing Game State
+[2018-01-04 08:15:34]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 08:15:35]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 08:18:56]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 08:18:56]	 Serialization, writing Game State
+[2018-01-04 08:18:56]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 08:18:57]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 08:22:24]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 08:22:24]	 Serialization, writing Game State
+[2018-01-04 08:22:24]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 08:22:25]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 08:23:25]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000000
+[2018-01-04 08:23:25]	 Serialization, writing Game State
+[2018-01-04 08:24:56]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000000
+[2018-01-04 08:24:57]	 Serialization, writing Game State
+[2018-01-04 08:25:41]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 08:25:41]	 Serialization, writing Game State
+[2018-01-04 08:25:41]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 08:25:42]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 08:28:40]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 08:28:40]	 Serialization, writing Game State
+[2018-01-04 08:28:40]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 08:28:41]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 08:31:46]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 08:31:46]	 Serialization, writing Game State
+[2018-01-04 08:31:46]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 08:31:47]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 08:32:44]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000000
+[2018-01-04 08:32:44]	 Serialization, writing Game State
+[2018-01-04 08:33:24]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 08:33:24]	 Serialization, writing Game State
+[2018-01-04 08:33:24]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 08:33:26]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 08:37:28]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 08:37:28]	 Serialization, writing Game State
+[2018-01-04 08:37:28]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 08:37:29]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 08:40:29]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 08:40:29]	 Serialization, writing Game State
+[2018-01-04 08:40:29]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 08:40:30]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 08:42:39]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 08:42:39]	 Serialization, writing Game State
+[2018-01-04 08:42:39]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 08:42:41]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 08:45:32]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000000
+[2018-01-04 08:45:32]	 Serialization, writing Game State
+[2018-01-04 08:46:49]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 08:46:49]	 Serialization, writing Game State
+[2018-01-04 08:46:49]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 08:46:50]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 08:48:53]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 08:48:53]	 Serialization, writing Game State
+[2018-01-04 08:48:53]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 08:48:54]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 08:51:37]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 08:51:37]	 Serialization, writing Game State
+[2018-01-04 08:51:37]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 08:51:38]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 08:54:05]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 08:54:05]	 Serialization, writing Game State
+[2018-01-04 08:54:05]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 08:54:06]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 08:57:04]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 08:57:04]	 Serialization, writing Game State
+[2018-01-04 08:57:04]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 08:57:05]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 08:59:14]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 08:59:14]	 Serialization, writing Game State
+[2018-01-04 08:59:14]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 08:59:15]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:02:13]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:02:13]	 Serialization, writing Game State
+[2018-01-04 09:02:13]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:02:14]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:04:23]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:04:23]	 Serialization, writing Game State
+[2018-01-04 09:04:23]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:04:24]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:07:40]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:07:40]	 Serialization, writing Game State
+[2018-01-04 09:07:40]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:07:42]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:09:49]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:09:49]	 Serialization, writing Game State
+[2018-01-04 09:09:49]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:09:50]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:12:24]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:12:24]	 Serialization, writing Game State
+[2018-01-04 09:12:24]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:12:25]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:15:01]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:15:01]	 Serialization, writing Game State
+[2018-01-04 09:15:01]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:15:02]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:15:57]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:15:57]	 Serialization, writing Game State
+[2018-01-04 09:15:57]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:15:58]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:17:44]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:17:44]	 Serialization, writing Game State
+[2018-01-04 09:17:44]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:17:45]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:18:54]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:18:54]	 Serialization, writing Game State
+[2018-01-04 09:18:54]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:18:55]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:20:50]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:20:50]	 Serialization, writing Game State
+[2018-01-04 09:20:50]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:20:51]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:23:32]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:23:32]	 Serialization, writing Game State
+[2018-01-04 09:23:32]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:23:33]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:24:31]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:24:31]	 Serialization, writing Game State
+[2018-01-04 09:24:31]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:24:32]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:25:37]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:25:37]	 Serialization, writing Game State
+[2018-01-04 09:25:37]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:25:38]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:26:30]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:26:30]	 Serialization, writing Game State
+[2018-01-04 09:26:30]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:26:31]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:28:00]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:28:00]	 Serialization, writing Game State
+[2018-01-04 09:28:00]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:28:01]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:31:53]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:31:53]	 Serialization, writing Game State
+[2018-01-04 09:31:53]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:31:55]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:34:48]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:34:48]	 Serialization, writing Game State
+[2018-01-04 09:34:48]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:34:50]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:36:34]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:36:34]	 Serialization, writing Game State
+[2018-01-04 09:36:34]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:36:35]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:38:19]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:38:19]	 Serialization, writing Game State
+[2018-01-04 09:38:19]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:38:20]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:40:44]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:40:44]	 Serialization, writing Game State
+[2018-01-04 09:40:44]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:40:45]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:41:54]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:41:54]	 Serialization, writing Game State
+[2018-01-04 09:41:54]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:41:56]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:44:02]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:44:02]	 Serialization, writing Game State
+[2018-01-04 09:44:02]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:44:03]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:45:38]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:45:38]	 Serialization, writing Game State
+[2018-01-04 09:45:38]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:45:40]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:47:53]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:47:53]	 Serialization, writing Game State
+[2018-01-04 09:47:53]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:47:54]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:49:32]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000000
+[2018-01-04 09:49:32]	 Serialization, writing Game State
+[2018-01-04 09:50:16]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:50:16]	 Serialization, writing Game State
+[2018-01-04 09:50:16]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:50:17]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:52:59]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:52:59]	 Serialization, writing Game State
+[2018-01-04 09:52:59]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:53:01]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:54:59]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:54:59]	 Serialization, writing Game State
+[2018-01-04 09:54:59]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:55:01]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 09:58:14]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 09:58:14]	 Serialization, writing Game State
+[2018-01-04 09:58:14]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 09:58:15]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 10:00:23]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 10:00:23]	 Serialization, writing Game State
+[2018-01-04 10:00:23]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 10:00:24]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 10:02:16]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 10:02:16]	 Serialization, writing Game State
+[2018-01-04 10:02:16]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 10:02:18]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 10:05:07]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 10:05:07]	 Serialization, writing Game State
+[2018-01-04 10:05:07]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 10:05:09]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 10:06:16]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 10:06:16]	 Serialization, writing Game State
+[2018-01-04 10:06:16]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 10:06:18]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 10:09:44]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 10:09:44]	 Serialization, writing Game State
+[2018-01-04 10:09:44]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 10:09:45]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 10:12:53]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 10:12:53]	 Serialization, writing Game State
+[2018-01-04 10:12:53]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 10:12:54]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 10:15:28]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 10:15:28]	 Serialization, writing Game State
+[2018-01-04 10:15:28]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 10:15:30]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 10:17:16]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 10:17:16]	 Serialization, writing Game State
+[2018-01-04 10:17:16]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 10:17:17]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 10:18:53]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 10:18:53]	 Serialization, writing Game State
+[2018-01-04 10:18:53]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 10:18:54]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 10:20:25]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 10:20:25]	 Serialization, writing Game State
+[2018-01-04 10:20:25]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 10:20:27]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 10:21:35]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 10:21:35]	 Serialization, writing Game State
+[2018-01-04 10:21:35]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 10:21:36]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 10:23:32]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 10:23:32]	 Serialization, writing Game State
+[2018-01-04 10:23:32]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 10:23:34]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 10:25:43]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 10:25:43]	 Serialization, writing Game State
+[2018-01-04 10:25:43]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 10:25:45]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 10:28:11]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000000
+[2018-01-04 10:28:11]	 Serialization, writing Game State
+[2018-01-04 10:29:38]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 10:29:38]	 Serialization, writing Game State
+[2018-01-04 10:29:38]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 10:29:39]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 10:32:22]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 10:32:22]	 Serialization, writing Game State
+[2018-01-04 10:32:22]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 10:32:23]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 10:34:08]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 10:34:08]	 Serialization, writing Game State
+[2018-01-04 10:34:08]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 10:34:09]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 10:35:21]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 10:35:21]	 Serialization, writing Game State
+[2018-01-04 10:35:21]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 10:35:23]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 10:36:51]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 10:36:51]	 Serialization, writing Game State
+[2018-01-04 10:36:51]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 10:36:53]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 10:38:52]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 10:38:52]	 Serialization, writing Game State
+[2018-01-04 10:38:52]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 10:38:53]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 10:40:00]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 10:40:00]	 Serialization, writing Game State
+[2018-01-04 10:40:00]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 10:40:01]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 10:41:56]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 10:41:56]	 Serialization, writing Game State
+[2018-01-04 10:41:56]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 10:41:58]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 10:45:11]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 10:45:11]	 Serialization, writing Game State
+[2018-01-04 10:45:11]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 10:45:12]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 10:47:02]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000000
+[2018-01-04 10:47:02]	 Serialization, writing Game State
+[2018-01-04 10:51:58]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 10:51:58]	 Serialization, writing Game State
+[2018-01-04 10:51:58]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 10:52:00]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 10:54:36]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 10:54:36]	 Serialization, writing Game State
+[2018-01-04 10:54:36]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 10:54:38]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 10:57:17]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 10:57:17]	 Serialization, writing Game State
+[2018-01-04 10:57:17]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 10:57:19]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 10:59:42]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 10:59:42]	 Serialization, writing Game State
+[2018-01-04 10:59:42]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 10:59:43]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 11:04:07]	 Attempt to Load a file. ServerType: 0, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 11:04:07]	 Serialization Request. Type: 2, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 11:04:07]	 Serialization OpenFromSource. Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 11:04:09]	 Serialization UnserializeGameState. pkStream valid=true
+[2018-01-04 11:04:09]	 	,LoadHeader - Complete
+[2018-01-04 11:04:09]	 	,Configuration::OnLoadGame - Complete
+[2018-01-04 11:04:09]	 Attempting to host game.  ServerType: 0
+[2018-01-04 11:04:09]	 Network Session Hosted.
+[2018-01-04 11:04:09]	 	,AttachToSession - Complete
+[2018-01-04 11:04:14]	 	,LoadGameCoreState - Complete
+[2018-01-04 11:04:14]	 	,LoadAudioState - Complete
+[2018-01-04 11:04:14]	 	,LoadUIState - Complete
+[2018-01-04 11:04:14]	 	,LoadRecorderState - Complete
+[2018-01-04 11:04:14]	 Serialization UnserializeGameState, result=0
+[2018-01-04 11:05:11]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 11:05:11]	 Serialization, writing Game State
+[2018-01-04 11:05:11]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 11:05:12]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 11:07:57]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 11:07:57]	 Serialization, writing Game State
+[2018-01-04 11:07:57]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 11:07:58]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 11:10:22]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 11:10:22]	 Serialization, writing Game State
+[2018-01-04 11:10:22]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 11:10:23]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 11:13:12]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 11:13:12]	 Serialization, writing Game State
+[2018-01-04 11:13:12]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 11:13:13]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 11:15:39]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 11:15:39]	 Serialization, writing Game State
+[2018-01-04 11:15:39]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 11:15:40]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 11:17:37]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 11:17:37]	 Serialization, writing Game State
+[2018-01-04 11:17:37]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 11:17:39]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 11:20:15]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 11:20:15]	 Serialization, writing Game State
+[2018-01-04 11:20:15]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 11:20:17]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 11:22:40]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 11:22:40]	 Serialization, writing Game State
+[2018-01-04 11:22:40]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 11:22:42]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 11:24:19]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 11:24:19]	 Serialization, writing Game State
+[2018-01-04 11:24:19]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 11:24:21]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 11:27:50]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 11:27:50]	 Serialization, writing Game State
+[2018-01-04 11:27:50]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 11:27:51]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 11:32:01]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2018-01-04 11:32:01]	 Serialization, writing Game State
+[2018-01-04 11:32:01]	 Serialization, waiting for request of type SAVE, reason = 1
+[2018-01-04 11:32:02]	 Serialization, waiting for request of type LOAD, reason = 0
+[2018-01-04 11:32:53]	 Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000000
+[2018-01-04 11:32:53]	 Serialization, writing Game State

@@ -1,0 +1,1300 @@
+ForgeUI started up!
+START ContextBase::Initialize() id: ''		parent: 'NULL'		Context: 'NULL'
+END   ContextBase::Initialize() id: 'TutorialOverlay'
+START ContextBase::Initialize() id: ''		parent: 'NULL'		Context: 'NULL'
+END   ContextBase::Initialize() id: 'ToolTips'
+START ContextBase::Initialize() id: ''		parent: 'NULL'		Context: 'NULL'
+END   ContextBase::Initialize() id: 'DebugPanel'
+START  LuaContext::Initialize() id: ''		parent: 'NULL'		Context: 'NULL'
+START ContextBase::Initialize() id: ''		parent: 'NULL'		Context: 'NULL'
+END   ContextBase::Initialize() id: 'IntroScreen'
+START ContextBase::Initialize() id: ''		parent: 'NULL'		Context: 'NULL'
+START  LuaContext::Initialize() id: 'DebugHotloadCache'		parent: 'DebugContext'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'DebugHotloadCache'
+END   ContextBase::Initialize() id: 'DebugContext'
+START ContextBase::Initialize() id: ''		parent: 'NULL'		Context: 'NULL'
+END   ContextBase::Initialize() id: 'SubtitleContext'
+START ContextBase::Initialize() id: ''		parent: 'NULL'		Context: 'NULL'
+START  LuaContext::Initialize() id: 'Intro'		parent: 'StartupScreen'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'Intro'
+END   ContextBase::Initialize() id: 'StartupScreen'
+START  LuaContext::Initialize() id: ''		parent: 'NULL'		Context: 'NULL'
+START  LuaContext::Initialize() id: 'MainMenu'		parent: 'FrontEndContainer'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'Options'		parent: 'MainMenu'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'ModsContext'		parent: 'MainMenu'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'AdvancedSetup'		parent: 'MainMenu'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'ScenarioSetup'		parent: 'MainMenu'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'CreditsScreen'		parent: 'MainMenu'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'CreditsScreen'
+START  LuaContext::Initialize() id: 'My2K'		parent: 'MainMenu'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'My2K'
+START  LuaContext::Initialize() id: 'WorldBuilder'		parent: 'MainMenu'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'TutorialSetup'		parent: 'MainMenu'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'Lobby'		parent: 'MainMenu'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'LoadGameMenu'		parent: 'Lobby'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'LoadGameMenu'
+END    LuaContext::Initialize() id: 'Lobby'
+START  LuaContext::Initialize() id: 'HostGame'		parent: 'MainMenu'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'ModsMenu'		parent: 'HostGame'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'ModsMenu'
+START  LuaContext::Initialize() id: 'LoadGameMenu'		parent: 'HostGame'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'LoadGameMenu'
+END    LuaContext::Initialize() id: 'HostGame'
+START  LuaContext::Initialize() id: 'StagingRoom'		parent: 'MainMenu'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'ConfirmKick'		parent: 'StagingRoom'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'ConfirmKick'
+START  LuaContext::Initialize() id: 'EditHotseatPlayer'		parent: 'StagingRoom'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'EditHotseatPlayer'
+END    LuaContext::Initialize() id: 'StagingRoom'
+START  LuaContext::Initialize() id: 'LoadGameMenu'		parent: 'MainMenu'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'LoadGameMenu'
+START  LuaContext::Initialize() id: 'SaveGameMenu'		parent: 'MainMenu'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'SaveGameMenu'
+START  LuaContext::Initialize() id: 'FrontEndPopup'		parent: 'MainMenu'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'FrontEndPopup'
+END    LuaContext::Initialize() id: 'MainMenu'
+START  LuaContext::Initialize() id: 'JoiningRoom'		parent: 'FrontEndContainer'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'JoiningRoom'
+START  LuaContext::Initialize() id: 'UserSetupWarning'		parent: 'FrontEndContainer'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'UserSetupWarning'
+START  LuaContext::Initialize() id: 'Test'		parent: ''		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'Test'
+END    LuaContext::Initialize() id: 'FrontEnd'
+START  LuaContext::Initialize() id: ''		parent: 'NULL'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'LoadScreen'
+START  LuaContext::Initialize() id: ''		parent: 'NULL'		Context: 'NULL'
+START  LuaContext::Initialize() id: 'WorldInput'		parent: 'Core'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'WorldInput'
+START  LuaContext::Initialize() id: 'StrategicView'		parent: 'Core'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'StrategicView'
+START  LuaContext::Initialize() id: 'AI_Diplomacy'		parent: 'Core'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'AI_Diplomacy'
+START  LuaContext::Initialize() id: 'ARXManager'		parent: 'Core'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'ARXManager'
+START  LuaContext::Initialize() id: 'WorldViewIconsManager'		parent: 'WorldViewControls'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'WorldViewIconsManager'
+START  LuaContext::Initialize() id: 'DistrictPlotIconManager'		parent: 'WorldViewControls'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'DistrictPlotIconManager'
+START  LuaContext::Initialize() id: 'PlotInfo'		parent: 'WorldViewControls'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'PlotInfo'
+START  LuaContext::Initialize() id: 'CityBannerManager'		parent: 'WorldViewControls'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'CityBannerManager'
+START  LuaContext::Initialize() id: 'UnitFlagManager'		parent: 'WorldViewControls'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'UnitFlagManager'
+START  LuaContext::Initialize() id: 'TourismBannerManager'		parent: 'WorldViewControls'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'TourismBannerManager'
+START  LuaContext::Initialize() id: 'MapPinManager'		parent: 'WorldViewControls'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'MapPinManager'
+START  LuaContext::Initialize() id: 'SelectedUnit'		parent: 'WorldViewControls'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'SelectedUnit'
+START  LuaContext::Initialize() id: 'WorldViewPlotMessages'		parent: 'WorldViewControls'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'WorldViewPlotMessages'
+START  LuaContext::Initialize() id: 'CameraManager'		parent: 'HUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'CameraManager'
+START  LuaContext::Initialize() id: 'NotificationPanel'		parent: 'HUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'NotificationPanel'
+START  LuaContext::Initialize() id: 'WorldTracker'		parent: 'HUD'		Context: 'InGame'
+START  LuaContext::Initialize() id: ''		parent: 'ChatPanel'		Context: 'WorldTracker'
+START  LuaContext::Initialize() id: 'ConfirmKick'		parent: ''		Context: 'WorldTracker'
+END    LuaContext::Initialize() id: 'ConfirmKick'
+END    LuaContext::Initialize() id: ''
+START  LuaContext::Initialize() id: ''		parent: 'TutorialGoals'		Context: 'WorldTracker'
+END    LuaContext::Initialize() id: 'TutorialGoals'
+END    LuaContext::Initialize() id: 'WorldTracker'
+START  LuaContext::Initialize() id: 'MinimapPanel'		parent: 'HUD'		Context: 'InGame'
+START  LuaContext::Initialize() id: ''		parent: 'MapPinListPanel'		Context: 'MinimapPanel'
+END    LuaContext::Initialize() id: ''
+END    LuaContext::Initialize() id: 'MinimapPanel'
+START  LuaContext::Initialize() id: 'CityPanel'		parent: 'HUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'CityPanel'
+START  LuaContext::Initialize() id: 'UnitPanel'		parent: 'HUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'UnitPanel'
+START  LuaContext::Initialize() id: 'ActionPanel'		parent: 'HUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'ActionPanel'
+START  LuaContext::Initialize() id: 'MultiplayerTurnManager'		parent: 'HUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'MultiplayerTurnManager'
+START  LuaContext::Initialize() id: 'PlotToolTip'		parent: 'HUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'PlotToolTip'
+START  LuaContext::Initialize() id: 'TopPanel'		parent: 'PartialScreens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'TopPanel'
+START  LuaContext::Initialize() id: 'DiplomacyRibbon'		parent: 'PartialScreens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'DiplomacyRibbon'
+START  LuaContext::Initialize() id: 'CityStates'		parent: 'PartialScreens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'CityStates'
+START  LuaContext::Initialize() id: 'EspionageOverview'		parent: 'PartialScreens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'EspionageOverview'
+START  LuaContext::Initialize() id: 'WorldRankings'		parent: 'PartialScreens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'WorldRankings'
+START  LuaContext::Initialize() id: 'TradeOverview'		parent: 'PartialScreens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'TradeOverview'
+START  LuaContext::Initialize() id: 'PartialScreenHooks'		parent: 'PartialScreens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'PartialScreenHooks'
+START  LuaContext::Initialize() id: 'ProductionPanel'		parent: 'PartialScreens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'ProductionPanel'
+START  LuaContext::Initialize() id: 'TechTree'		parent: 'Screens'		Context: 'InGame'
+DEPRECATED: 'full' size should be parent-sized to a root context
+END    LuaContext::Initialize() id: 'TechTree'
+START  LuaContext::Initialize() id: 'CivicsTree'		parent: 'Screens'		Context: 'InGame'
+DEPRECATED: 'full' size should be parent-sized to a root context
+END    LuaContext::Initialize() id: 'CivicsTree'
+START  LuaContext::Initialize() id: 'GovernmentScreen'		parent: 'Screens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'GovernmentScreen'
+START  LuaContext::Initialize() id: 'ReligionScreen'		parent: 'Screens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'ReligionScreen'
+START  LuaContext::Initialize() id: 'GreatWorksOverview'		parent: 'Screens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'GreatWorksOverview'
+START  LuaContext::Initialize() id: 'GreatWorkShowcase'		parent: 'Screens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'GreatWorkShowcase'
+START  LuaContext::Initialize() id: 'GreatPeoplePopup'		parent: 'Screens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'GreatPeoplePopup'
+START  LuaContext::Initialize() id: 'ReportScreen'		parent: 'Screens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'ReportScreen'
+START  LuaContext::Initialize() id: 'LaunchBar'		parent: 'TopLevelHUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'LaunchBar'
+START  LuaContext::Initialize() id: 'TradeRouteChooser'		parent: 'TopLevelHUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'TradeRouteChooser'
+START  LuaContext::Initialize() id: 'TradeOriginChooser'		parent: 'TopLevelHUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'TradeOriginChooser'
+START  LuaContext::Initialize() id: 'CivicsChooser'		parent: 'TopLevelHUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'CivicsChooser'
+START  LuaContext::Initialize() id: 'ResearchChooser'		parent: 'TopLevelHUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'ResearchChooser'
+START  LuaContext::Initialize() id: 'EspionageChooser'		parent: 'TopLevelHUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'EspionageChooser'
+START  LuaContext::Initialize() id: 'CityPanelOverview'		parent: 'TopLevelHUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'CityPanelOverview'
+START  LuaContext::Initialize() id: 'ModalLensPanel'		parent: 'TopLevelHUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'ModalLensPanel'
+START  LuaContext::Initialize() id: 'StatusMessagePanel'		parent: 'TopLevelHUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'StatusMessagePanel'
+START  LuaContext::Initialize() id: 'EraCompletePopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'EraCompletePopup'
+START  LuaContext::Initialize() id: 'NaturalWonderPopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'NaturalWonderPopup'
+START  LuaContext::Initialize() id: 'UnitCaptured'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'UnitCaptured'
+START  LuaContext::Initialize() id: 'WonderBuiltPopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'WonderBuiltPopup'
+START  LuaContext::Initialize() id: 'ProjectBuiltPopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'ProjectBuiltPopup'
+START  LuaContext::Initialize() id: 'MapPinPopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'MapPinPopup'
+START  LuaContext::Initialize() id: 'RazeCity'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'RazeCity'
+START  LuaContext::Initialize() id: 'ChooseArtifact'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'ChooseArtifact'
+START  LuaContext::Initialize() id: 'BoostUnlockedPopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'BoostUnlockedPopup'
+START  LuaContext::Initialize() id: 'TechCivicCompletedPopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'TechCivicCompletedPopup'
+START  LuaContext::Initialize() id: 'UnitPromotionPopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'UnitPromotionPopup'
+START  LuaContext::Initialize() id: 'EspionagePopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'EspionagePopup'
+START  LuaContext::Initialize() id: 'EspionageEscape'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'EspionageEscape'
+START  LuaContext::Initialize() id: 'EventPopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'EventPopup'
+START  LuaContext::Initialize() id: 'InGamePopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'InGamePopup'
+START  LuaContext::Initialize() id: 'Automation_NarrationPopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'Automation_NarrationPopup'
+START  LuaContext::Initialize() id: 'EndGameMenu'		parent: 'EndGame'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'EndGameMenu'
+START  LuaContext::Initialize() id: 'LeaderScene'		parent: 'Diplomacy'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'LeaderScene'
+START  LuaContext::Initialize() id: 'DiplomacyActionView'		parent: 'Diplomacy'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'DiplomacyActionView'
+START  LuaContext::Initialize() id: 'DiplomacyDealView'		parent: 'Diplomacy'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'DiplomacyDealView'
+START  LuaContext::Initialize() id: 'DeclareWarPopup'		parent: 'Diplomacy'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'DeclareWarPopup'
+START  LuaContext::Initialize() id: 'PlayerChange'		parent: 'Network'		Context: 'InGame'
+START  LuaContext::Initialize() id: 'SaveGameMenu'		parent: 'PlayerChange'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'SaveGameMenu'
+END    LuaContext::Initialize() id: 'PlayerChange'
+START  LuaContext::Initialize() id: 'NewTurnPanel'		parent: 'Network'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'NewTurnPanel'
+START  LuaContext::Initialize() id: 'Civilopedia'		parent: 'InGame'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'Civilopedia'
+START  LuaContext::Initialize() id: 'PausePanel'		parent: 'InGame'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'PausePanel'
+START  LuaContext::Initialize() id: 'TopOptionsBackground'		parent: 'InGame'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'TopOptionsBackground'
+START  LuaContext::Initialize() id: 'TopOptionsMenu'		parent: 'InGame'		Context: 'NULL'
+START  LuaContext::Initialize() id: 'LoadGameMenu'		parent: 'TopOptionsMenu'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'LoadGameMenu'
+START  LuaContext::Initialize() id: 'SaveGameMenu'		parent: 'TopOptionsMenu'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'SaveGameMenu'
+START  LuaContext::Initialize() id: 'Options'		parent: 'TopOptionsMenu'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'Options'
+END    LuaContext::Initialize() id: 'TopOptionsMenu'
+END    LuaContext::Initialize() id: 'InGame'
+START  LuaContext::Initialize() id: ''		parent: 'NULL'		Context: 'NULL'
+START  LuaContext::Initialize() id: 'AdvisorPopup'		parent: 'TutorialUIRoot'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'AdvisorPopup'
+START  LuaContext::Initialize() id: 'TutorialWorldAnchor'		parent: 'TutorialUIRoot'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'TutorialWorldAnchor'
+END    LuaContext::Initialize() id: 'TutorialUIRoot'
+
+NumBlocks:   7 
+Allocated: 28.00 mb, Used: 28.00 mb, Free: 0.00 mb 
+
+NumControls: 90498 
+
+ControlBase Size: 184 
+
+Active, 		Total, 		Object Size,		 Total Size		 Name
+
+Num Child Nodes: 42454
+
+Child Node distribution
+24015 nodes have     0 children
+ 9688 nodes have     1 children
+ 5137 nodes have     2 children
+ 1246 nodes have     3 children
+  205 nodes have     4 children
+  323 nodes have     5 children
+  556 nodes have     6 children
+  550 nodes have     7 children
+   51 nodes have     8 children
+   67 nodes have     9 children
+   13 nodes have    10 children
+    4 nodes have    11 children
+  447 nodes have    12 children
+    6 nodes have    13 children
+    4 nodes have    14 children
+  123 nodes have    15 children
+    3 nodes have    16 children
+    3 nodes have    18 children
+    1 nodes have    23 children
+    1 nodes have    24 children
+    1 nodes have    26 children
+    1 nodes have    27 children
+    1 nodes have    28 children
+    1 nodes have    32 children
+    1 nodes have    48 children
+    1 nodes have   139 children
+    1 nodes have   211 children
+    1 nodes have   218 children
+    1 nodes have   299 children
+    1 nodes have   355 children
+    1 nodes have   542 children
+
+Controls ID distribution
+ 9578 nodes have control IDs with     0 characters
+   30 nodes have control IDs with     2 characters
+  275 nodes have control IDs with     3 characters
+  782 nodes have control IDs with     4 characters
+  163 nodes have control IDs with     5 characters
+ 1248 nodes have control IDs with     6 characters
+  348 nodes have control IDs with     7 characters
+ 2217 nodes have control IDs with     8 characters
+ 2933 nodes have control IDs with     9 characters
+ 2824 nodes have control IDs with    10 characters
+ 2602 nodes have control IDs with    11 characters
+ 2800 nodes have control IDs with    12 characters
+ 1209 nodes have control IDs with    13 characters
+ 1613 nodes have control IDs with    14 characters
+ 2851 nodes have control IDs with    15 characters
+ 2288 nodes have control IDs with    16 characters
+ 2274 nodes have control IDs with    17 characters
+ 1137 nodes have control IDs with    18 characters
+ 1474 nodes have control IDs with    19 characters
+  383 nodes have control IDs with    20 characters
+  392 nodes have control IDs with    21 characters
+  873 nodes have control IDs with    22 characters
+  158 nodes have control IDs with    23 characters
+   37 nodes have control IDs with    24 characters
+  630 nodes have control IDs with    25 characters
+   22 nodes have control IDs with    26 characters
+  137 nodes have control IDs with    27 characters
+   46 nodes have control IDs with    28 characters
+  562 nodes have control IDs with    29 characters
+    3 nodes have control IDs with    30 characters
+   10 nodes have control IDs with    31 characters
+    7 nodes have control IDs with    32 characters
+    1 nodes have control IDs with    33 characters
+    1 nodes have control IDs with    34 characters
+  544 nodes have control IDs with    35 characters
+    1 nodes have control IDs with    37 characters
+    1 nodes have control IDs with    38 characters
+
+Contexts containing controls:
+18018 controls in context "UnitFlagManager"
+ 5882 controls in context "CityBannerManager"
+ 5420 controls in context "WorldViewIconsManager"
+ 2149 controls in context "TechTree"
+ 1911 controls in context "CivicsTree"
+ 1398 controls in context "InGame"
+  935 controls in context "GreatPeoplePopup"
+  741 controls in context "Options"
+  591 controls in context "[NO CONTEXT]"
+  434 controls in context "DebugContext"
+  267 controls in context "WorldRankings"
+  259 controls in context "GovernmentScreen"
+  257 controls in context "CityPanelOverview"
+  244 controls in context "SaveGameMenu"
+  239 controls in context "ReligionScreen"
+  220 controls in context "DiplomacyDealView"
+  203 controls in context "ResearchChooser"
+  135 controls in context "ReportScreen"
+  130 controls in context "EndGameMenu"
+  128 controls in context "CityStates"
+  119 controls in context "ActionPanel"
+  118 controls in context "Civilopedia"
+  116 controls in context "CityPanel"
+  110 controls in context "LoadGameMenu"
+  103 controls in context "MapPinPopup"
+   97 controls in context "TopOptionsMenu"
+   96 controls in context "DiplomacyRibbon"
+   91 controls in context "WorldTracker"
+   82 controls in context "NotificationPanel"
+   71 controls in context "TradeOverview"
+   69 controls in context "EspionageOverview"
+   66 controls in context "EspionagePopup"
+   62 controls in context "TradeRouteChooser"
+   60 controls in context "DiplomacyActionView"
+   59 controls in context "DeclareWarPopup"
+   58 controls in context "LaunchBar"
+   57 controls in context "EspionageEscape"
+   54 controls in context "MinimapPanel"
+   52 controls in context ""
+   48 controls in context "EspionageChooser"
+   44 controls in context "RazeCity"
+   41 controls in context "AdvisorPopup"
+   38 controls in context "GreatWorksOverview"
+   33 controls in context "Automation_NarrationPopup"
+   32 controls in context "WorldViewPlotMessages"
+   31 controls in context "NaturalWonderPopup"
+   29 controls in context "TechCivicCompletedPopup"
+   25 controls in context "BoostUnlockedPopup"
+   24 controls in context "EventPopup"
+   23 controls in context "WonderBuiltPopup"
+   22 controls in context "ChooseArtifact"
+   18 controls in context "ProjectBuiltPopup"
+   15 controls in context "TutorialWorldAnchor"
+   14 controls in context "DebugPanel"
+   13 controls in context "WorldInput"
+   12 controls in context "ConfirmKick"
+   11 controls in context "ModalLensPanel"
+   10 controls in context "TopOptionsBackground"
+    9 controls in context "TradeOriginChooser"
+    7 controls in context "InGamePopup"
+    6 controls in context "EraCompletePopup"
+    5 controls in context "NewTurnPanel"
+    2 controls in context "MultiplayerTurnManager"
+    1 controls in context "StatusMessagePanel"
+
+NumBlocks:   10 
+Allocated: 40.00 mb, Used: 40.00 mb, Free: 0.00 mb 
+
+NumControls: 133057 
+
+ControlBase Size: 184 
+
+Active, 		Total, 		Object Size,		 Total Size		 Name
+
+Num Child Nodes: 490
+
+Child Node distribution
+  284 nodes have     0 children
+  148 nodes have     1 children
+   15 nodes have     2 children
+   32 nodes have     3 children
+    4 nodes have     4 children
+    1 nodes have     5 children
+    2 nodes have     8 children
+    1 nodes have    16 children
+    1 nodes have    23 children
+    1 nodes have    24 children
+    1 nodes have    27 children
+
+Controls ID distribution
+  244 nodes have control IDs with     0 characters
+    2 nodes have control IDs with     2 characters
+   16 nodes have control IDs with     4 characters
+    1 nodes have control IDs with     5 characters
+   27 nodes have control IDs with     6 characters
+    5 nodes have control IDs with     7 characters
+   12 nodes have control IDs with     8 characters
+    9 nodes have control IDs with     9 characters
+   40 nodes have control IDs with    10 characters
+   20 nodes have control IDs with    11 characters
+    9 nodes have control IDs with    12 characters
+    3 nodes have control IDs with    13 characters
+    9 nodes have control IDs with    14 characters
+    8 nodes have control IDs with    15 characters
+    4 nodes have control IDs with    16 characters
+   33 nodes have control IDs with    17 characters
+    3 nodes have control IDs with    18 characters
+    3 nodes have control IDs with    19 characters
+    4 nodes have control IDs with    20 characters
+    2 nodes have control IDs with    21 characters
+    3 nodes have control IDs with    22 characters
+   27 nodes have control IDs with    23 characters
+    2 nodes have control IDs with    24 characters
+    1 nodes have control IDs with    28 characters
+    1 nodes have control IDs with    31 characters
+    1 nodes have control IDs with    32 characters
+    1 nodes have control IDs with    33 characters
+
+Contexts containing controls:
+  434 controls in context "DebugContext"
+   31 controls in context "[NO CONTEXT]"
+   14 controls in context "DebugPanel"
+    6 controls in context "ToolTips"
+    5 controls in context "[UNNAMED]"
+START  LuaContext::Initialize() id: ''		parent: 'NULL'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'LoadScreen'
+START  LuaContext::Initialize() id: ''		parent: 'NULL'		Context: 'NULL'
+START  LuaContext::Initialize() id: 'WorldInput'		parent: 'Core'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'WorldInput'
+START  LuaContext::Initialize() id: 'StrategicView'		parent: 'Core'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'StrategicView'
+START  LuaContext::Initialize() id: 'AI_Diplomacy'		parent: 'Core'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'AI_Diplomacy'
+START  LuaContext::Initialize() id: 'ARXManager'		parent: 'Core'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'ARXManager'
+START  LuaContext::Initialize() id: 'WorldViewIconsManager'		parent: 'WorldViewControls'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'WorldViewIconsManager'
+START  LuaContext::Initialize() id: 'DistrictPlotIconManager'		parent: 'WorldViewControls'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'DistrictPlotIconManager'
+START  LuaContext::Initialize() id: 'PlotInfo'		parent: 'WorldViewControls'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'PlotInfo'
+START  LuaContext::Initialize() id: 'CityBannerManager'		parent: 'WorldViewControls'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'CityBannerManager'
+START  LuaContext::Initialize() id: 'UnitFlagManager'		parent: 'WorldViewControls'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'UnitFlagManager'
+START  LuaContext::Initialize() id: 'TourismBannerManager'		parent: 'WorldViewControls'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'TourismBannerManager'
+START  LuaContext::Initialize() id: 'MapPinManager'		parent: 'WorldViewControls'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'MapPinManager'
+START  LuaContext::Initialize() id: 'SelectedUnit'		parent: 'WorldViewControls'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'SelectedUnit'
+START  LuaContext::Initialize() id: 'WorldViewPlotMessages'		parent: 'WorldViewControls'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'WorldViewPlotMessages'
+START  LuaContext::Initialize() id: 'CameraManager'		parent: 'HUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'CameraManager'
+START  LuaContext::Initialize() id: 'NotificationPanel'		parent: 'HUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'NotificationPanel'
+START  LuaContext::Initialize() id: 'WorldTracker'		parent: 'HUD'		Context: 'InGame'
+START  LuaContext::Initialize() id: ''		parent: 'ChatPanel'		Context: 'WorldTracker'
+START  LuaContext::Initialize() id: 'ConfirmKick'		parent: ''		Context: 'WorldTracker'
+END    LuaContext::Initialize() id: 'ConfirmKick'
+END    LuaContext::Initialize() id: ''
+START  LuaContext::Initialize() id: ''		parent: 'TutorialGoals'		Context: 'WorldTracker'
+END    LuaContext::Initialize() id: 'TutorialGoals'
+END    LuaContext::Initialize() id: 'WorldTracker'
+START  LuaContext::Initialize() id: 'MinimapPanel'		parent: 'HUD'		Context: 'InGame'
+START  LuaContext::Initialize() id: ''		parent: 'MapPinListPanel'		Context: 'MinimapPanel'
+END    LuaContext::Initialize() id: ''
+END    LuaContext::Initialize() id: 'MinimapPanel'
+START  LuaContext::Initialize() id: 'CityPanel'		parent: 'HUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'CityPanel'
+START  LuaContext::Initialize() id: 'UnitPanel'		parent: 'HUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'UnitPanel'
+START  LuaContext::Initialize() id: 'ActionPanel'		parent: 'HUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'ActionPanel'
+START  LuaContext::Initialize() id: 'MultiplayerTurnManager'		parent: 'HUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'MultiplayerTurnManager'
+START  LuaContext::Initialize() id: 'PlotToolTip'		parent: 'HUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'PlotToolTip'
+START  LuaContext::Initialize() id: 'TopPanel'		parent: 'PartialScreens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'TopPanel'
+START  LuaContext::Initialize() id: 'DiplomacyRibbon'		parent: 'PartialScreens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'DiplomacyRibbon'
+START  LuaContext::Initialize() id: 'CityStates'		parent: 'PartialScreens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'CityStates'
+START  LuaContext::Initialize() id: 'EspionageOverview'		parent: 'PartialScreens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'EspionageOverview'
+START  LuaContext::Initialize() id: 'WorldRankings'		parent: 'PartialScreens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'WorldRankings'
+START  LuaContext::Initialize() id: 'TradeOverview'		parent: 'PartialScreens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'TradeOverview'
+START  LuaContext::Initialize() id: 'PartialScreenHooks'		parent: 'PartialScreens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'PartialScreenHooks'
+START  LuaContext::Initialize() id: 'ProductionPanel'		parent: 'PartialScreens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'ProductionPanel'
+START  LuaContext::Initialize() id: 'TechTree'		parent: 'Screens'		Context: 'InGame'
+DEPRECATED: 'full' size should be parent-sized to a root context
+END    LuaContext::Initialize() id: 'TechTree'
+START  LuaContext::Initialize() id: 'CivicsTree'		parent: 'Screens'		Context: 'InGame'
+DEPRECATED: 'full' size should be parent-sized to a root context
+END    LuaContext::Initialize() id: 'CivicsTree'
+START  LuaContext::Initialize() id: 'GovernmentScreen'		parent: 'Screens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'GovernmentScreen'
+START  LuaContext::Initialize() id: 'ReligionScreen'		parent: 'Screens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'ReligionScreen'
+START  LuaContext::Initialize() id: 'GreatWorksOverview'		parent: 'Screens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'GreatWorksOverview'
+START  LuaContext::Initialize() id: 'GreatWorkShowcase'		parent: 'Screens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'GreatWorkShowcase'
+START  LuaContext::Initialize() id: 'GreatPeoplePopup'		parent: 'Screens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'GreatPeoplePopup'
+START  LuaContext::Initialize() id: 'ReportScreen'		parent: 'Screens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'ReportScreen'
+START  LuaContext::Initialize() id: 'LaunchBar'		parent: 'TopLevelHUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'LaunchBar'
+START  LuaContext::Initialize() id: 'TradeRouteChooser'		parent: 'TopLevelHUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'TradeRouteChooser'
+START  LuaContext::Initialize() id: 'TradeOriginChooser'		parent: 'TopLevelHUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'TradeOriginChooser'
+START  LuaContext::Initialize() id: 'CivicsChooser'		parent: 'TopLevelHUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'CivicsChooser'
+START  LuaContext::Initialize() id: 'ResearchChooser'		parent: 'TopLevelHUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'ResearchChooser'
+START  LuaContext::Initialize() id: 'EspionageChooser'		parent: 'TopLevelHUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'EspionageChooser'
+START  LuaContext::Initialize() id: 'CityPanelOverview'		parent: 'TopLevelHUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'CityPanelOverview'
+START  LuaContext::Initialize() id: 'ModalLensPanel'		parent: 'TopLevelHUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'ModalLensPanel'
+START  LuaContext::Initialize() id: 'StatusMessagePanel'		parent: 'TopLevelHUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'StatusMessagePanel'
+START  LuaContext::Initialize() id: 'EraCompletePopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'EraCompletePopup'
+START  LuaContext::Initialize() id: 'NaturalWonderPopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'NaturalWonderPopup'
+START  LuaContext::Initialize() id: 'UnitCaptured'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'UnitCaptured'
+START  LuaContext::Initialize() id: 'WonderBuiltPopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'WonderBuiltPopup'
+START  LuaContext::Initialize() id: 'ProjectBuiltPopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'ProjectBuiltPopup'
+START  LuaContext::Initialize() id: 'MapPinPopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'MapPinPopup'
+START  LuaContext::Initialize() id: 'RazeCity'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'RazeCity'
+START  LuaContext::Initialize() id: 'ChooseArtifact'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'ChooseArtifact'
+START  LuaContext::Initialize() id: 'BoostUnlockedPopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'BoostUnlockedPopup'
+START  LuaContext::Initialize() id: 'TechCivicCompletedPopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'TechCivicCompletedPopup'
+START  LuaContext::Initialize() id: 'UnitPromotionPopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'UnitPromotionPopup'
+START  LuaContext::Initialize() id: 'EspionagePopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'EspionagePopup'
+START  LuaContext::Initialize() id: 'EspionageEscape'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'EspionageEscape'
+START  LuaContext::Initialize() id: 'EventPopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'EventPopup'
+START  LuaContext::Initialize() id: 'InGamePopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'InGamePopup'
+START  LuaContext::Initialize() id: 'Automation_NarrationPopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'Automation_NarrationPopup'
+START  LuaContext::Initialize() id: 'EndGameMenu'		parent: 'EndGame'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'EndGameMenu'
+START  LuaContext::Initialize() id: 'LeaderScene'		parent: 'Diplomacy'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'LeaderScene'
+START  LuaContext::Initialize() id: 'DiplomacyActionView'		parent: 'Diplomacy'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'DiplomacyActionView'
+START  LuaContext::Initialize() id: 'DiplomacyDealView'		parent: 'Diplomacy'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'DiplomacyDealView'
+START  LuaContext::Initialize() id: 'DeclareWarPopup'		parent: 'Diplomacy'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'DeclareWarPopup'
+START  LuaContext::Initialize() id: 'PlayerChange'		parent: 'Network'		Context: 'InGame'
+START  LuaContext::Initialize() id: 'SaveGameMenu'		parent: 'PlayerChange'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'SaveGameMenu'
+END    LuaContext::Initialize() id: 'PlayerChange'
+START  LuaContext::Initialize() id: 'NewTurnPanel'		parent: 'Network'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'NewTurnPanel'
+START  LuaContext::Initialize() id: 'Civilopedia'		parent: 'InGame'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'Civilopedia'
+START  LuaContext::Initialize() id: 'PausePanel'		parent: 'InGame'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'PausePanel'
+START  LuaContext::Initialize() id: 'TopOptionsBackground'		parent: 'InGame'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'TopOptionsBackground'
+START  LuaContext::Initialize() id: 'TopOptionsMenu'		parent: 'InGame'		Context: 'NULL'
+START  LuaContext::Initialize() id: 'LoadGameMenu'		parent: 'TopOptionsMenu'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'LoadGameMenu'
+START  LuaContext::Initialize() id: 'SaveGameMenu'		parent: 'TopOptionsMenu'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'SaveGameMenu'
+START  LuaContext::Initialize() id: 'Options'		parent: 'TopOptionsMenu'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'Options'
+END    LuaContext::Initialize() id: 'TopOptionsMenu'
+END    LuaContext::Initialize() id: 'InGame'
+START  LuaContext::Initialize() id: ''		parent: 'NULL'		Context: 'NULL'
+START  LuaContext::Initialize() id: 'AdvisorPopup'		parent: 'TutorialUIRoot'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'AdvisorPopup'
+START  LuaContext::Initialize() id: 'TutorialWorldAnchor'		parent: 'TutorialUIRoot'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'TutorialWorldAnchor'
+END    LuaContext::Initialize() id: 'TutorialUIRoot'
+
+NumBlocks:   10 
+Allocated: 40.00 mb, Used: 40.00 mb, Free: 0.00 mb 
+
+NumControls: 133059 
+
+ControlBase Size: 184 
+
+Active, 		Total, 		Object Size,		 Total Size		 Name
+
+Num Child Nodes: 42631
+
+Child Node distribution
+24103 nodes have     0 children
+ 9737 nodes have     1 children
+ 5158 nodes have     2 children
+ 1258 nodes have     3 children
+  189 nodes have     4 children
+  332 nodes have     5 children
+  563 nodes have     6 children
+  553 nodes have     7 children
+   50 nodes have     8 children
+   71 nodes have     9 children
+   13 nodes have    10 children
+    4 nodes have    11 children
+  448 nodes have    12 children
+    6 nodes have    13 children
+    4 nodes have    14 children
+  123 nodes have    15 children
+    3 nodes have    16 children
+    3 nodes have    18 children
+    1 nodes have    23 children
+    1 nodes have    24 children
+    1 nodes have    26 children
+    1 nodes have    27 children
+    1 nodes have    28 children
+    1 nodes have    32 children
+    1 nodes have    48 children
+    1 nodes have   146 children
+    1 nodes have   200 children
+    1 nodes have   232 children
+    1 nodes have   299 children
+    1 nodes have   370 children
+    1 nodes have   540 children
+
+Controls ID distribution
+ 9631 nodes have control IDs with     0 characters
+   30 nodes have control IDs with     2 characters
+  272 nodes have control IDs with     3 characters
+  769 nodes have control IDs with     4 characters
+  163 nodes have control IDs with     5 characters
+ 1238 nodes have control IDs with     6 characters
+  322 nodes have control IDs with     7 characters
+ 2228 nodes have control IDs with     8 characters
+ 2929 nodes have control IDs with     9 characters
+ 2810 nodes have control IDs with    10 characters
+ 2601 nodes have control IDs with    11 characters
+ 2810 nodes have control IDs with    12 characters
+ 1229 nodes have control IDs with    13 characters
+ 1637 nodes have control IDs with    14 characters
+ 2875 nodes have control IDs with    15 characters
+ 2300 nodes have control IDs with    16 characters
+ 2296 nodes have control IDs with    17 characters
+ 1146 nodes have control IDs with    18 characters
+ 1499 nodes have control IDs with    19 characters
+  392 nodes have control IDs with    20 characters
+  405 nodes have control IDs with    21 characters
+  880 nodes have control IDs with    22 characters
+  161 nodes have control IDs with    23 characters
+   37 nodes have control IDs with    24 characters
+  632 nodes have control IDs with    25 characters
+   22 nodes have control IDs with    26 characters
+  141 nodes have control IDs with    27 characters
+   49 nodes have control IDs with    28 characters
+  561 nodes have control IDs with    29 characters
+    3 nodes have control IDs with    30 characters
+   10 nodes have control IDs with    31 characters
+    7 nodes have control IDs with    32 characters
+    1 nodes have control IDs with    33 characters
+    1 nodes have control IDs with    34 characters
+  542 nodes have control IDs with    35 characters
+    1 nodes have control IDs with    37 characters
+    1 nodes have control IDs with    38 characters
+
+Contexts containing controls:
+18144 controls in context "UnitFlagManager"
+ 6126 controls in context "CityBannerManager"
+ 5400 controls in context "WorldViewIconsManager"
+ 2194 controls in context "TechTree"
+ 1911 controls in context "CivicsTree"
+ 1402 controls in context "InGame"
+  813 controls in context "GreatPeoplePopup"
+  741 controls in context "Options"
+  559 controls in context "[NO CONTEXT]"
+  434 controls in context "DebugContext"
+  267 controls in context "WorldRankings"
+  259 controls in context "GovernmentScreen"
+  257 controls in context "CityPanelOverview"
+  244 controls in context "SaveGameMenu"
+  239 controls in context "ReligionScreen"
+  220 controls in context "DiplomacyDealView"
+  206 controls in context "CivicsChooser"
+  205 controls in context "ResearchChooser"
+  135 controls in context "ReportScreen"
+  130 controls in context "EndGameMenu"
+  128 controls in context "CityStates"
+  119 controls in context "ActionPanel"
+  118 controls in context "Civilopedia"
+  116 controls in context "CityPanel"
+  110 controls in context "LoadGameMenu"
+  103 controls in context "MapPinPopup"
+   97 controls in context "TopOptionsMenu"
+   96 controls in context "DiplomacyRibbon"
+   86 controls in context "WorldTracker"
+   84 controls in context "NotificationPanel"
+   82 controls in context "TopPanel"
+   71 controls in context "TradeOverview"
+   69 controls in context "EspionageOverview"
+   66 controls in context "EspionagePopup"
+   62 controls in context "TradeRouteChooser"
+   60 controls in context "DiplomacyActionView"
+   59 controls in context "DeclareWarPopup"
+   58 controls in context "LaunchBar"
+   57 controls in context "EspionageEscape"
+   54 controls in context "MinimapPanel"
+   52 controls in context ""
+   48 controls in context "EspionageChooser"
+   44 controls in context "RazeCity"
+   41 controls in context "AdvisorPopup"
+   38 controls in context "GreatWorksOverview"
+   33 controls in context "Automation_NarrationPopup"
+   31 controls in context "NaturalWonderPopup"
+   29 controls in context "TechCivicCompletedPopup"
+   25 controls in context "BoostUnlockedPopup"
+   24 controls in context "EventPopup"
+   23 controls in context "WonderBuiltPopup"
+   22 controls in context "ChooseArtifact"
+   18 controls in context "ProjectBuiltPopup"
+   16 controls in context "WorldViewPlotMessages"
+   15 controls in context "TutorialWorldAnchor"
+   14 controls in context "DebugPanel"
+   13 controls in context "WorldInput"
+   12 controls in context "ConfirmKick"
+   11 controls in context "ModalLensPanel"
+   10 controls in context "TopOptionsBackground"
+    9 controls in context "TradeOriginChooser"
+    7 controls in context "InGamePopup"
+    6 controls in context "EraCompletePopup"
+    5 controls in context "NewTurnPanel"
+    2 controls in context "MultiplayerTurnManager"
+    1 controls in context "StatusMessagePanel"
+
+NumBlocks:   18 
+Allocated: 72.00 mb, Used: 72.00 mb, Free: 0.00 mb 
+
+NumControls: 229077 
+
+ControlBase Size: 184 
+
+Active, 		Total, 		Object Size,		 Total Size		 Name
+
+Num Child Nodes: 490
+
+Child Node distribution
+  284 nodes have     0 children
+  148 nodes have     1 children
+   15 nodes have     2 children
+   32 nodes have     3 children
+    4 nodes have     4 children
+    1 nodes have     5 children
+    2 nodes have     8 children
+    1 nodes have    16 children
+    1 nodes have    23 children
+    1 nodes have    24 children
+    1 nodes have    27 children
+
+Controls ID distribution
+  244 nodes have control IDs with     0 characters
+    2 nodes have control IDs with     2 characters
+   16 nodes have control IDs with     4 characters
+    1 nodes have control IDs with     5 characters
+   27 nodes have control IDs with     6 characters
+    5 nodes have control IDs with     7 characters
+   12 nodes have control IDs with     8 characters
+    9 nodes have control IDs with     9 characters
+   40 nodes have control IDs with    10 characters
+   20 nodes have control IDs with    11 characters
+    9 nodes have control IDs with    12 characters
+    3 nodes have control IDs with    13 characters
+    9 nodes have control IDs with    14 characters
+    8 nodes have control IDs with    15 characters
+    4 nodes have control IDs with    16 characters
+   33 nodes have control IDs with    17 characters
+    3 nodes have control IDs with    18 characters
+    3 nodes have control IDs with    19 characters
+    4 nodes have control IDs with    20 characters
+    2 nodes have control IDs with    21 characters
+    3 nodes have control IDs with    22 characters
+   27 nodes have control IDs with    23 characters
+    2 nodes have control IDs with    24 characters
+    1 nodes have control IDs with    28 characters
+    1 nodes have control IDs with    31 characters
+    1 nodes have control IDs with    32 characters
+    1 nodes have control IDs with    33 characters
+
+Contexts containing controls:
+  434 controls in context "DebugContext"
+   31 controls in context "[NO CONTEXT]"
+   14 controls in context "DebugPanel"
+    6 controls in context "ToolTips"
+    5 controls in context "[UNNAMED]"
+START  LuaContext::Initialize() id: ''		parent: 'NULL'		Context: 'NULL'
+START  LuaContext::Initialize() id: 'MainMenu'		parent: 'FrontEndContainer'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'Options'		parent: 'MainMenu'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'ModsContext'		parent: 'MainMenu'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'AdvancedSetup'		parent: 'MainMenu'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'ScenarioSetup'		parent: 'MainMenu'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'CreditsScreen'		parent: 'MainMenu'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'CreditsScreen'
+START  LuaContext::Initialize() id: 'My2K'		parent: 'MainMenu'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'My2K'
+START  LuaContext::Initialize() id: 'WorldBuilder'		parent: 'MainMenu'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'TutorialSetup'		parent: 'MainMenu'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'Lobby'		parent: 'MainMenu'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'LoadGameMenu'		parent: 'Lobby'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'LoadGameMenu'
+END    LuaContext::Initialize() id: 'Lobby'
+START  LuaContext::Initialize() id: 'HostGame'		parent: 'MainMenu'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'ModsMenu'		parent: 'HostGame'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'ModsMenu'
+START  LuaContext::Initialize() id: 'LoadGameMenu'		parent: 'HostGame'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'LoadGameMenu'
+END    LuaContext::Initialize() id: 'HostGame'
+START  LuaContext::Initialize() id: 'StagingRoom'		parent: 'MainMenu'		Context: 'FrontEnd'
+START  LuaContext::Initialize() id: 'ConfirmKick'		parent: 'StagingRoom'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'ConfirmKick'
+START  LuaContext::Initialize() id: 'EditHotseatPlayer'		parent: 'StagingRoom'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'EditHotseatPlayer'
+END    LuaContext::Initialize() id: 'StagingRoom'
+START  LuaContext::Initialize() id: 'LoadGameMenu'		parent: 'MainMenu'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'LoadGameMenu'
+START  LuaContext::Initialize() id: 'SaveGameMenu'		parent: 'MainMenu'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'SaveGameMenu'
+START  LuaContext::Initialize() id: 'FrontEndPopup'		parent: 'MainMenu'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'FrontEndPopup'
+END    LuaContext::Initialize() id: 'MainMenu'
+START  LuaContext::Initialize() id: 'JoiningRoom'		parent: 'FrontEndContainer'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'JoiningRoom'
+START  LuaContext::Initialize() id: 'UserSetupWarning'		parent: 'FrontEndContainer'		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'UserSetupWarning'
+START  LuaContext::Initialize() id: 'Test'		parent: ''		Context: 'FrontEnd'
+END    LuaContext::Initialize() id: 'Test'
+END    LuaContext::Initialize() id: 'FrontEnd'
+START  LuaContext::Initialize() id: ''		parent: 'NULL'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'LoadScreen'
+START  LuaContext::Initialize() id: ''		parent: 'NULL'		Context: 'NULL'
+START  LuaContext::Initialize() id: 'WorldInput'		parent: 'Core'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'WorldInput'
+START  LuaContext::Initialize() id: 'StrategicView'		parent: 'Core'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'StrategicView'
+START  LuaContext::Initialize() id: 'AI_Diplomacy'		parent: 'Core'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'AI_Diplomacy'
+START  LuaContext::Initialize() id: 'ARXManager'		parent: 'Core'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'ARXManager'
+START  LuaContext::Initialize() id: 'WorldViewIconsManager'		parent: 'WorldViewControls'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'WorldViewIconsManager'
+START  LuaContext::Initialize() id: 'DistrictPlotIconManager'		parent: 'WorldViewControls'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'DistrictPlotIconManager'
+START  LuaContext::Initialize() id: 'PlotInfo'		parent: 'WorldViewControls'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'PlotInfo'
+START  LuaContext::Initialize() id: 'CityBannerManager'		parent: 'WorldViewControls'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'CityBannerManager'
+START  LuaContext::Initialize() id: 'UnitFlagManager'		parent: 'WorldViewControls'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'UnitFlagManager'
+START  LuaContext::Initialize() id: 'TourismBannerManager'		parent: 'WorldViewControls'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'TourismBannerManager'
+START  LuaContext::Initialize() id: 'MapPinManager'		parent: 'WorldViewControls'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'MapPinManager'
+START  LuaContext::Initialize() id: 'SelectedUnit'		parent: 'WorldViewControls'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'SelectedUnit'
+START  LuaContext::Initialize() id: 'WorldViewPlotMessages'		parent: 'WorldViewControls'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'WorldViewPlotMessages'
+START  LuaContext::Initialize() id: 'CameraManager'		parent: 'HUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'CameraManager'
+START  LuaContext::Initialize() id: 'NotificationPanel'		parent: 'HUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'NotificationPanel'
+START  LuaContext::Initialize() id: 'WorldTracker'		parent: 'HUD'		Context: 'InGame'
+START  LuaContext::Initialize() id: ''		parent: 'ChatPanel'		Context: 'WorldTracker'
+START  LuaContext::Initialize() id: 'ConfirmKick'		parent: ''		Context: 'WorldTracker'
+END    LuaContext::Initialize() id: 'ConfirmKick'
+END    LuaContext::Initialize() id: ''
+START  LuaContext::Initialize() id: ''		parent: 'TutorialGoals'		Context: 'WorldTracker'
+END    LuaContext::Initialize() id: 'TutorialGoals'
+END    LuaContext::Initialize() id: 'WorldTracker'
+START  LuaContext::Initialize() id: 'MinimapPanel'		parent: 'HUD'		Context: 'InGame'
+START  LuaContext::Initialize() id: ''		parent: 'MapPinListPanel'		Context: 'MinimapPanel'
+END    LuaContext::Initialize() id: ''
+END    LuaContext::Initialize() id: 'MinimapPanel'
+START  LuaContext::Initialize() id: 'CityPanel'		parent: 'HUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'CityPanel'
+START  LuaContext::Initialize() id: 'UnitPanel'		parent: 'HUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'UnitPanel'
+START  LuaContext::Initialize() id: 'ActionPanel'		parent: 'HUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'ActionPanel'
+START  LuaContext::Initialize() id: 'MultiplayerTurnManager'		parent: 'HUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'MultiplayerTurnManager'
+START  LuaContext::Initialize() id: 'PlotToolTip'		parent: 'HUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'PlotToolTip'
+START  LuaContext::Initialize() id: 'TopPanel'		parent: 'PartialScreens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'TopPanel'
+START  LuaContext::Initialize() id: 'DiplomacyRibbon'		parent: 'PartialScreens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'DiplomacyRibbon'
+START  LuaContext::Initialize() id: 'CityStates'		parent: 'PartialScreens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'CityStates'
+START  LuaContext::Initialize() id: 'EspionageOverview'		parent: 'PartialScreens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'EspionageOverview'
+START  LuaContext::Initialize() id: 'WorldRankings'		parent: 'PartialScreens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'WorldRankings'
+START  LuaContext::Initialize() id: 'TradeOverview'		parent: 'PartialScreens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'TradeOverview'
+START  LuaContext::Initialize() id: 'PartialScreenHooks'		parent: 'PartialScreens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'PartialScreenHooks'
+START  LuaContext::Initialize() id: 'ProductionPanel'		parent: 'PartialScreens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'ProductionPanel'
+START  LuaContext::Initialize() id: 'TechTree'		parent: 'Screens'		Context: 'InGame'
+DEPRECATED: 'full' size should be parent-sized to a root context
+END    LuaContext::Initialize() id: 'TechTree'
+START  LuaContext::Initialize() id: 'CivicsTree'		parent: 'Screens'		Context: 'InGame'
+DEPRECATED: 'full' size should be parent-sized to a root context
+END    LuaContext::Initialize() id: 'CivicsTree'
+START  LuaContext::Initialize() id: 'GovernmentScreen'		parent: 'Screens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'GovernmentScreen'
+START  LuaContext::Initialize() id: 'ReligionScreen'		parent: 'Screens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'ReligionScreen'
+START  LuaContext::Initialize() id: 'GreatWorksOverview'		parent: 'Screens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'GreatWorksOverview'
+START  LuaContext::Initialize() id: 'GreatWorkShowcase'		parent: 'Screens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'GreatWorkShowcase'
+START  LuaContext::Initialize() id: 'GreatPeoplePopup'		parent: 'Screens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'GreatPeoplePopup'
+START  LuaContext::Initialize() id: 'ReportScreen'		parent: 'Screens'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'ReportScreen'
+START  LuaContext::Initialize() id: 'LaunchBar'		parent: 'TopLevelHUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'LaunchBar'
+START  LuaContext::Initialize() id: 'TradeRouteChooser'		parent: 'TopLevelHUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'TradeRouteChooser'
+START  LuaContext::Initialize() id: 'TradeOriginChooser'		parent: 'TopLevelHUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'TradeOriginChooser'
+START  LuaContext::Initialize() id: 'CivicsChooser'		parent: 'TopLevelHUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'CivicsChooser'
+START  LuaContext::Initialize() id: 'ResearchChooser'		parent: 'TopLevelHUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'ResearchChooser'
+START  LuaContext::Initialize() id: 'EspionageChooser'		parent: 'TopLevelHUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'EspionageChooser'
+START  LuaContext::Initialize() id: 'CityPanelOverview'		parent: 'TopLevelHUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'CityPanelOverview'
+START  LuaContext::Initialize() id: 'ModalLensPanel'		parent: 'TopLevelHUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'ModalLensPanel'
+START  LuaContext::Initialize() id: 'StatusMessagePanel'		parent: 'TopLevelHUD'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'StatusMessagePanel'
+START  LuaContext::Initialize() id: 'EraCompletePopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'EraCompletePopup'
+START  LuaContext::Initialize() id: 'NaturalWonderPopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'NaturalWonderPopup'
+START  LuaContext::Initialize() id: 'UnitCaptured'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'UnitCaptured'
+START  LuaContext::Initialize() id: 'WonderBuiltPopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'WonderBuiltPopup'
+START  LuaContext::Initialize() id: 'ProjectBuiltPopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'ProjectBuiltPopup'
+START  LuaContext::Initialize() id: 'MapPinPopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'MapPinPopup'
+START  LuaContext::Initialize() id: 'RazeCity'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'RazeCity'
+START  LuaContext::Initialize() id: 'ChooseArtifact'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'ChooseArtifact'
+START  LuaContext::Initialize() id: 'BoostUnlockedPopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'BoostUnlockedPopup'
+START  LuaContext::Initialize() id: 'TechCivicCompletedPopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'TechCivicCompletedPopup'
+START  LuaContext::Initialize() id: 'UnitPromotionPopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'UnitPromotionPopup'
+START  LuaContext::Initialize() id: 'EspionagePopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'EspionagePopup'
+START  LuaContext::Initialize() id: 'EspionageEscape'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'EspionageEscape'
+START  LuaContext::Initialize() id: 'EventPopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'EventPopup'
+START  LuaContext::Initialize() id: 'InGamePopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'InGamePopup'
+START  LuaContext::Initialize() id: 'Automation_NarrationPopup'		parent: 'WorldPopups'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'Automation_NarrationPopup'
+START  LuaContext::Initialize() id: 'EndGameMenu'		parent: 'EndGame'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'EndGameMenu'
+START  LuaContext::Initialize() id: 'LeaderScene'		parent: 'Diplomacy'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'LeaderScene'
+START  LuaContext::Initialize() id: 'DiplomacyActionView'		parent: 'Diplomacy'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'DiplomacyActionView'
+START  LuaContext::Initialize() id: 'DiplomacyDealView'		parent: 'Diplomacy'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'DiplomacyDealView'
+START  LuaContext::Initialize() id: 'DeclareWarPopup'		parent: 'Diplomacy'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'DeclareWarPopup'
+START  LuaContext::Initialize() id: 'PlayerChange'		parent: 'Network'		Context: 'InGame'
+START  LuaContext::Initialize() id: 'SaveGameMenu'		parent: 'PlayerChange'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'SaveGameMenu'
+END    LuaContext::Initialize() id: 'PlayerChange'
+START  LuaContext::Initialize() id: 'NewTurnPanel'		parent: 'Network'		Context: 'InGame'
+END    LuaContext::Initialize() id: 'NewTurnPanel'
+START  LuaContext::Initialize() id: 'Civilopedia'		parent: 'InGame'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'Civilopedia'
+START  LuaContext::Initialize() id: 'PausePanel'		parent: 'InGame'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'PausePanel'
+START  LuaContext::Initialize() id: 'TopOptionsBackground'		parent: 'InGame'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'TopOptionsBackground'
+START  LuaContext::Initialize() id: 'TopOptionsMenu'		parent: 'InGame'		Context: 'NULL'
+START  LuaContext::Initialize() id: 'LoadGameMenu'		parent: 'TopOptionsMenu'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'LoadGameMenu'
+START  LuaContext::Initialize() id: 'SaveGameMenu'		parent: 'TopOptionsMenu'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'SaveGameMenu'
+START  LuaContext::Initialize() id: 'Options'		parent: 'TopOptionsMenu'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'Options'
+END    LuaContext::Initialize() id: 'TopOptionsMenu'
+END    LuaContext::Initialize() id: 'InGame'
+START  LuaContext::Initialize() id: ''		parent: 'NULL'		Context: 'NULL'
+START  LuaContext::Initialize() id: 'AdvisorPopup'		parent: 'TutorialUIRoot'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'AdvisorPopup'
+START  LuaContext::Initialize() id: 'TutorialWorldAnchor'		parent: 'TutorialUIRoot'		Context: 'NULL'
+END    LuaContext::Initialize() id: 'TutorialWorldAnchor'
+END    LuaContext::Initialize() id: 'TutorialUIRoot'
+
+NumBlocks:   18 
+Allocated: 72.00 mb, Used: 72.00 mb, Free: 0.00 mb 
+
+NumControls: 229079 
+
+ControlBase Size: 184 
+
+Active, 		Total, 		Object Size,		 Total Size		 Name
+
+Num Child Nodes: 52662
+
+Child Node distribution
+29596 nodes have     0 children
+12498 nodes have     1 children
+ 5746 nodes have     2 children
+ 1740 nodes have     3 children
+  153 nodes have     4 children
+  347 nodes have     5 children
+  801 nodes have     6 children
+  796 nodes have     7 children
+   56 nodes have     8 children
+   88 nodes have     9 children
+   14 nodes have    10 children
+    4 nodes have    11 children
+  670 nodes have    12 children
+    6 nodes have    13 children
+    4 nodes have    14 children
+  123 nodes have    15 children
+    3 nodes have    16 children
+    3 nodes have    18 children
+    1 nodes have    23 children
+    1 nodes have    24 children
+    1 nodes have    26 children
+    1 nodes have    27 children
+    1 nodes have    28 children
+    1 nodes have    32 children
+    1 nodes have    42 children
+    1 nodes have    48 children
+    1 nodes have   188 children
+    1 nodes have   299 children
+    1 nodes have   329 children
+    1 nodes have   332 children
+    1 nodes have   355 children
+    1 nodes have   506 children
+
+Controls ID distribution
+11558 nodes have control IDs with     0 characters
+   30 nodes have control IDs with     2 characters
+  209 nodes have control IDs with     3 characters
+  766 nodes have control IDs with     4 characters
+  167 nodes have control IDs with     5 characters
+ 1480 nodes have control IDs with     6 characters
+  256 nodes have control IDs with     7 characters
+ 3142 nodes have control IDs with     8 characters
+ 3354 nodes have control IDs with     9 characters
+ 3589 nodes have control IDs with    10 characters
+ 3335 nodes have control IDs with    11 characters
+ 3745 nodes have control IDs with    12 characters
+ 1535 nodes have control IDs with    13 characters
+ 2159 nodes have control IDs with    14 characters
+ 4054 nodes have control IDs with    15 characters
+ 2963 nodes have control IDs with    16 characters
+ 3240 nodes have control IDs with    17 characters
+ 1143 nodes have control IDs with    18 characters
+ 2041 nodes have control IDs with    19 characters
+  416 nodes have control IDs with    20 characters
+  463 nodes have control IDs with    21 characters
+  870 nodes have control IDs with    22 characters
+  169 nodes have control IDs with    23 characters
+   37 nodes have control IDs with    24 characters
+  632 nodes have control IDs with    25 characters
+   22 nodes have control IDs with    26 characters
+  155 nodes have control IDs with    27 characters
+   67 nodes have control IDs with    28 characters
+  533 nodes have control IDs with    29 characters
+    3 nodes have control IDs with    30 characters
+   10 nodes have control IDs with    31 characters
+    7 nodes have control IDs with    32 characters
+    1 nodes have control IDs with    33 characters
+    1 nodes have control IDs with    34 characters
+  508 nodes have control IDs with    35 characters
+    1 nodes have control IDs with    37 characters
+    1 nodes have control IDs with    38 characters
+
+Contexts containing controls:
+27762 controls in context "UnitFlagManager"
+ 7060 controls in context "CityBannerManager"
+ 5060 controls in context "WorldViewIconsManager"
+ 2149 controls in context "TechTree"
+ 1911 controls in context "CivicsTree"
+ 1677 controls in context "InGame"
+  741 controls in context "Options"
+  503 controls in context "GreatPeoplePopup"
+  479 controls in context "[NO CONTEXT]"
+  434 controls in context "DebugContext"
+  267 controls in context "WorldRankings"
+  259 controls in context "GovernmentScreen"
+  257 controls in context "CityPanelOverview"
+  244 controls in context "SaveGameMenu"
+  239 controls in context "ReligionScreen"
+  220 controls in context "DiplomacyDealView"
+  168 controls in context "WorldViewPlotMessages"
+  151 controls in context "ResearchChooser"
+  135 controls in context "ReportScreen"
+  130 controls in context "EndGameMenu"
+  128 controls in context "CityStates"
+  125 controls in context "NotificationPanel"
+  119 controls in context "ActionPanel"
+  118 controls in context "Civilopedia"
+  116 controls in context "CityPanel"
+  110 controls in context "LoadGameMenu"
+  103 controls in context "MapPinPopup"
+   97 controls in context "TopOptionsMenu"
+   96 controls in context "DiplomacyRibbon"
+   84 controls in context "TopPanel"
+   82 controls in context "WorldTracker"
+   71 controls in context "TradeOverview"
+   69 controls in context "EspionageOverview"
+   66 controls in context "EspionagePopup"
+   62 controls in context "TradeRouteChooser"
+   60 controls in context "DiplomacyActionView"
+   59 controls in context "DeclareWarPopup"
+   58 controls in context "CivicsChooser"
+   57 controls in context "EspionageEscape"
+   54 controls in context "MinimapPanel"
+   52 controls in context ""
+   48 controls in context "EspionageChooser"
+   44 controls in context "RazeCity"
+   38 controls in context "GreatWorksOverview"
+   33 controls in context "Automation_NarrationPopup"
+   31 controls in context "AdvisorPopup"
+   29 controls in context "TechCivicCompletedPopup"
+   25 controls in context "BoostUnlockedPopup"
+   24 controls in context "EventPopup"
+   23 controls in context "WonderBuiltPopup"
+   22 controls in context "ChooseArtifact"
+   18 controls in context "ProjectBuiltPopup"
+   15 controls in context "TutorialWorldAnchor"
+   14 controls in context "DebugPanel"
+   13 controls in context "WorldInput"
+   12 controls in context "ConfirmKick"
+   11 controls in context "ModalLensPanel"
+   10 controls in context "TopOptionsBackground"
+    9 controls in context "TradeOriginChooser"
+    7 controls in context "InGamePopup"
+    6 controls in context "EraCompletePopup"
+    5 controls in context "NewTurnPanel"
+    2 controls in context "MultiplayerTurnManager"
+    1 controls in context "StatusMessagePanel"
+
+NumBlocks:   18 
+Allocated: 72.00 mb, Used: 72.00 mb, Free: 0.00 mb 
+
+NumControls: 229112 
+
+ControlBase Size: 184 
+
+Active, 		Total, 		Object Size,		 Total Size		 Name
+
+Num Child Nodes: 490
+
+Child Node distribution
+  284 nodes have     0 children
+  148 nodes have     1 children
+   15 nodes have     2 children
+   32 nodes have     3 children
+    4 nodes have     4 children
+    1 nodes have     5 children
+    2 nodes have     8 children
+    1 nodes have    16 children
+    1 nodes have    23 children
+    1 nodes have    24 children
+    1 nodes have    27 children
+
+Controls ID distribution
+  244 nodes have control IDs with     0 characters
+    2 nodes have control IDs with     2 characters
+   16 nodes have control IDs with     4 characters
+    1 nodes have control IDs with     5 characters
+   27 nodes have control IDs with     6 characters
+    5 nodes have control IDs with     7 characters
+   12 nodes have control IDs with     8 characters
+    9 nodes have control IDs with     9 characters
+   40 nodes have control IDs with    10 characters
+   20 nodes have control IDs with    11 characters
+    9 nodes have control IDs with    12 characters
+    3 nodes have control IDs with    13 characters
+    9 nodes have control IDs with    14 characters
+    8 nodes have control IDs with    15 characters
+    4 nodes have control IDs with    16 characters
+   33 nodes have control IDs with    17 characters
+    3 nodes have control IDs with    18 characters
+    3 nodes have control IDs with    19 characters
+    4 nodes have control IDs with    20 characters
+    2 nodes have control IDs with    21 characters
+    3 nodes have control IDs with    22 characters
+   27 nodes have control IDs with    23 characters
+    2 nodes have control IDs with    24 characters
+    1 nodes have control IDs with    28 characters
+    1 nodes have control IDs with    31 characters
+    1 nodes have control IDs with    32 characters
+    1 nodes have control IDs with    33 characters
+
+Contexts containing controls:
+  434 controls in context "DebugContext"
+   31 controls in context "[NO CONTEXT]"
+   14 controls in context "DebugPanel"
+    6 controls in context "ToolTips"
+    5 controls in context "[UNNAMED]"
+[1515087182153] (SHUTDOWN) ===============================
+
+NumBlocks:   18 
+Allocated: 72.00 mb, Used: 72.00 mb, Free: 0.00 mb 
+
+NumControls: 229112 
+
+ControlBase Size: 184 
+
+Active, 		Total, 		Object Size,		 Total Size		 Name
+
+Num Child Nodes: 36
+
+Child Node distribution
+   21 nodes have     0 children
+    9 nodes have     1 children
+    2 nodes have     2 children
+    3 nodes have     3 children
+    1 nodes have     4 children
+
+Controls ID distribution
+   11 nodes have control IDs with     0 characters
+    2 nodes have control IDs with     2 characters
+    1 nodes have control IDs with     7 characters
+    5 nodes have control IDs with     8 characters
+    3 nodes have control IDs with     9 characters
+    4 nodes have control IDs with    10 characters
+    5 nodes have control IDs with    11 characters
+    3 nodes have control IDs with    12 characters
+    1 nodes have control IDs with    13 characters
+    1 nodes have control IDs with    17 characters
+
+Contexts containing controls:
+   14 controls in context "DebugPanel"
+   11 controls in context "[NO CONTEXT]"
+    6 controls in context "ToolTips"
+    5 controls in context "[UNNAMED]"
+ForgeUI shutting down.

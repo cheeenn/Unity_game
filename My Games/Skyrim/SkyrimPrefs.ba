@@ -1,0 +1,51 @@
+﻿[Display]
+iTexMipMapSkip=0
+bFXAAEnabled=0
+fMeshLODLevel2FadeDist=1e+007
+fMeshLODLevel1FadeDist=1e+007
+fSpecularLODStartFade=1000
+fLightLODStartFade=2500
+fTreesMidLODSwitchDist=5000
+iShadowMapResolution=2048
+fShadowBiasScale=0.25
+iShadowMaskQuarter=4
+iBlurDeferredShadowMask=3
+fShadowDistance=4000
+iMaxDecalsPerFrame=30
+iMaxSkinDecalsPerFrame=10
+iAdapter=0
+iSize W=1536
+iSize H=864
+iMultiSample=8
+iMaxAnisotropy=8
+iPresentInterval=1
+bFull Screen=1
+sD3DDevice="NVIDIA GeForce 940M"
+[Imagespace]
+iRadialBlurLevel=1
+[LOD]
+fLODFadeOutMultActors=6
+fLODFadeOutMultItems=4.5
+fLODFadeOutMultObjects=7.5
+[Grass]
+fGrassStartFadeDistance=5000
+b30GrassVS=1
+[Decals]
+bDecals=1
+bSkinnedDecals=1
+uMaxDecals=250
+uMaxSkinDecals=50
+uMaxSkinDecalsPerActor=40
+[TerrainManager]
+fTreeLoadDistance=40000
+fBlockMaximumDistance=150000
+fBlockLevel1Distance=40000
+fBlockLevel0Distance=25000
+fSplitDistanceMult=1.1
+[BlurShaderHDR]
+bDoHighDynamicRange=1
+[BlurShader]
+bUseBlurShader=0
+[Launcher]
+bShowAllResolutions=1
+uLastAspectRatio=3

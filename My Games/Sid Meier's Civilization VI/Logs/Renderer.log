@@ -1,0 +1,144 @@
+[2018-01-04 07:27:44]	Renderer::EnumDisplayAdapters(): Available device: Intel(R) HD Graphics 520 (DeviceID = 1916 SubsysID = 1d2d1043 Revision= 7 Caps = 10)
+[2018-01-04 07:27:44]	Renderer::EnumDisplayAdapters(): Available device: NVIDIA GeForce 940M (DeviceID = 1347 SubsysID = 1d2d1043 Revision= a2 Caps = 10)
+[2018-01-04 07:27:44]	Renderer::EnumDisplayAdapters(): Available device: Microsoft Basic Render Driver (DeviceID = 8c SubsysID = 0 Revision= 0 Caps = 10)
+[2018-01-04 07:27:44]	Malformed version string received from DxDiag for Intel driver.  Forcing off CB rebase, just in case...
+[2018-01-04 07:27:55]	AppHost::UpdateMonitorInfo(): Monitor information:
+	MONITORINFO.rcMonitor = (left: 0, top: 0, right: 1920, bottom: 1080)
+	MONITORINFO.rcWork = (left: 0, top: 0, right: 1920, bottom: 1030)
+	MONITORINFO.dwFlags = MONITORINFOF_PRIMARY
+[2018-01-04 07:27:55]	Renderer::CreateAdapter(): Selected DXGI adapter corresponding to device index 1.
+[2018-01-04 07:27:55]	Renderer::CreateD3DDevice(): Creating D3D device.
+[2018-01-04 07:27:56]	Renderer::Startup(): Called with
+	Device Index = 1
+	Backbuffer Format = 28
+	Resolution = (1920 x 1080)
+	RefreshRateInHz = 60
+	MSAA Sample Count = 1
+	MSAA Quality Level = 0
+	Windowed = 1
+	VSync = 1
+	Threading Mode = 0.
+[2018-01-04 07:27:56]	*** Renderer::SetScreenMode(): Called with
+	Resolution = (1920 x 1080)
+	RefreshRate = (60 / 1)
+	MSAA Sample Count = 1
+	MSAA Quality Level = 0
+	Fullscreen = 0.
+[2018-01-04 07:27:56]	Renderer::CreateDefaultSwapChain(): Creating a new swap chain with Resolution = (1920 x 1080) RefreshRate = (60 / 1).
+[2018-01-04 07:27:56]	*** Renderer::SetScreenMode(): Returning success.
+[2018-01-04 07:27:56]	Selected GPU device:
+    Device: NVIDIA GeForce 940M
+    DeviceID: 1347
+    SubsystemId: 1d2d1043
+    RevisionId: a2
+    Threadmode: 1
+    CB rebase: 1
+    Driver Version: DriverVersionNotQueriedDueToGeForceExperienceBug
+    DedicatedVidMem: 2117992448
+    DedicatedSysMem: 0
+[2018-01-04 07:27:56]	Physical system memory size: 12.00GB
+[2018-01-04 07:27:56]	Logical processor count: 4
+[2018-01-04 07:27:56]	IsLaptopOrTablet: 1
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:30:41]	Allocated new CB rebase buffer
+[2018-01-04 07:31:15]	Allocated new Stream instance buffer
+[2018-01-04 07:31:15]	Allocated new Stream instance buffer
+[2018-01-04 07:31:15]	Allocated new Stream instance buffer
+[2018-01-04 07:31:15]	Allocated new Stream instance buffer
+[2018-01-04 07:31:15]	Allocated new Stream instance buffer
+[2018-01-04 07:31:15]	Allocated new Stream instance buffer
+[2018-01-04 07:31:19]	Allocated new CB rebase buffer
+[2018-01-04 07:31:19]	Allocated new CB rebase buffer
+[2018-01-04 07:31:19]	Allocated new CB rebase buffer
+[2018-01-04 07:31:19]	Allocated new CB rebase buffer
+[2018-01-04 07:31:19]	Allocated new CB rebase buffer
+[2018-01-04 07:31:50]	Allocated new CB rebase buffer
+[2018-01-04 07:33:27]	Allocated new Stream instance buffer
+[2018-01-04 07:33:36]	Allocated new CB rebase buffer
+[2018-01-04 07:33:36]	Allocated new CB rebase buffer
+[2018-01-04 07:33:51]	Allocated new Stream instance buffer
+[2018-01-04 07:33:52]	Allocated new Instance TBuffer buffer
+[2018-01-04 07:33:57]	Allocated new Stream instance buffer
+[2018-01-04 07:33:57]	Allocated new Stream instance buffer
+[2018-01-04 07:33:57]	Allocated new Stream instance buffer
+[2018-01-04 07:33:57]	Allocated new Stream instance buffer
+[2018-01-04 07:33:58]	Allocated new Stream instance buffer
+[2018-01-04 07:33:58]	Allocated new Instance TBuffer buffer
+[2018-01-04 07:33:58]	Allocated new Instance TBuffer buffer
+[2018-01-04 07:36:26]	Allocated new CB rebase buffer
+[2018-01-04 07:36:26]	Allocated new Stream instance buffer
+[2018-01-04 07:36:34]	Allocated new CB rebase buffer
+[2018-01-04 07:38:20]	Allocated new CB rebase buffer
+[2018-01-04 07:43:20]	Allocated new CB rebase buffer
+[2018-01-04 07:44:49]	Allocated new CB rebase buffer
+[2018-01-04 07:44:58]	Allocated new CB rebase buffer
+[2018-01-04 07:45:45]	Allocated new CB rebase buffer
+[2018-01-04 08:01:11]	Allocated new CB rebase buffer
+[2018-01-04 08:01:17]	Allocated new CB rebase buffer
+[2018-01-04 08:15:16]	Allocated new CB rebase buffer
+[2018-01-04 08:18:54]	Allocated new CB rebase buffer
+[2018-01-04 08:22:17]	Allocated new CB rebase buffer
+[2018-01-04 08:22:17]	Allocated new CB rebase buffer
+[2018-01-04 08:28:23]	Allocated new CB rebase buffer
+[2018-01-04 08:28:23]	Allocated new CB rebase buffer
+[2018-01-04 08:28:23]	Allocated new CB rebase buffer
+[2018-01-04 09:08:56]	Allocated new CB rebase buffer
+[2018-01-04 09:20:22]	Allocated new CB rebase buffer
+[2018-01-04 09:25:58]	Allocated new CB rebase buffer
+[2018-01-04 09:34:32]	Allocated new CB rebase buffer
+[2018-01-04 09:41:20]	Allocated new CB rebase buffer
+[2018-01-04 09:59:27]	Allocated new CB rebase buffer
+[2018-01-04 10:05:57]	Allocated new CB rebase buffer
+[2018-01-04 10:05:57]	Allocated new CB rebase buffer
+[2018-01-04 10:21:03]	Allocated new CB rebase buffer
+[2018-01-04 10:25:12]	Allocated new CB rebase buffer
+[2018-01-04 10:31:46]	Allocated new CB rebase buffer
+[2018-01-04 10:31:46]	Allocated new CB rebase buffer
+[2018-01-04 10:32:13]	Allocated new CB rebase buffer
+[2018-01-04 10:32:13]	Allocated new CB rebase buffer
+[2018-01-04 10:32:13]	Allocated new CB rebase buffer
+[2018-01-04 10:32:13]	Allocated new CB rebase buffer
+[2018-01-04 10:32:13]	Allocated new CB rebase buffer
+[2018-01-04 10:32:14]	Allocated new CB rebase buffer
+[2018-01-04 11:02:32]	Received Renderer::AppDeactivated
+[2018-01-04 11:04:04]	Received Renderer::AppActivated
+[2018-01-04 11:17:57]	Renderer::GetCurrentDXGIOutput(): Unable to get the swap chain's DXGI output! Error: 0x887a0004
+[2018-01-04 11:17:57]	Renderer::Enum32BitDisplayModes(): Unable to get DXGI output.  Searching for primary display...
+[2018-01-04 11:17:57]	Renderer::GetCurrentDXGIOutput(): Unable to get the swap chain's DXGI output! Error: 0x887a0004
+[2018-01-04 11:17:57]	Renderer::Enum32BitDisplayModes(): Unable to get DXGI output.  Searching for primary display...
+[2018-01-04 11:33:02]	Renderer::ReleaseDefaultSwapChain() : Releasing the implicit swap chain
+[2018-01-04 11:33:03]	Renderer::ReleaseAdapterAndDevice(): Released D3D device with RefCount = 0.
+[2018-01-04 11:33:03]	Renderer::ReleaseAdapterAndDevice(): Released DXGI adapter with RefCount = 0.

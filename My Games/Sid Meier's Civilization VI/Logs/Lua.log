@@ -1,0 +1,1437 @@
+DebugHotloadCache: GameDebug initialized!
+Test: Test.LUA loaded!
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+LoadScreen: true
+LoadScreen: false
+LoadScreen: true
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_CLANCY_FERNANDO', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_MASARU_IBUKA', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_KAREL_CAPEK', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_AMRITA_SHER_GIL', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_MYKOLA_LEONTOVYCH', using default instead.
+TutorialUIRoot: Loading bank of items for tutorial scenario: 'BASE'
+LoadScreen: OnLoadGameViewStateDone
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=1004427747
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: ignoring queue for item which is already active item: GREAT_PERSON_POINT
+TutorialUIRoot: ignoring queue for item which is already active item: GREAT_PERSON_POINT
+TutorialUIRoot: ignoring queue for item which is already active item: GREAT_PERSON_POINT
+TutorialUIRoot: ignoring queue for item which is already active item: GREAT_PERSON_POINT
+TutorialUIRoot: ignoring queue for item which is already active item: GREAT_PERSON_POINT
+TutorialUIRoot: ignoring queue for item which is already active item: GREAT_PERSON_POINT
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+TutorialUIRoot: adding item 'INFLUENCE_TOKEN' to queue because another item is already active: GREAT_PERSON_POINT_B
+TutorialUIRoot: adding item 'POLICY_UNLOCKED' to queue because another item is already active: GREAT_PERSON_POINT_B
+TutorialUIRoot: ignoring item already in queue: INFLUENCE_TOKEN
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_CLANCY_FERNANDO', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_MASARU_IBUKA', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_KAREL_CAPEK', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_AMRITA_SHER_GIL', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_MYKOLA_LEONTOVYCH', using default instead.
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	66	27	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	72	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	70	32	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	66	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	71	23	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	72	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	66	46	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	458758	69	39	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	458758	0	0	0	false	false
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+GreatWorksOverview: moving great work [0] from 首尔 to 首尔
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	61	47	0	true	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=542715267
+TutorialUIRoot: diplo stmt type=542715267
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	61	17	0	true	false
+EspionageEscape: 23
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+LoadScreen: true
+LoadScreen: false
+LoadScreen: true
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_CLANCY_FERNANDO', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_AMRITA_SHER_GIL', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_MYKOLA_LEONTOVYCH', using default instead.
+TutorialUIRoot: Loading bank of items for tutorial scenario: 'BASE'
+LoadScreen: OnLoadGameViewStateDone
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+TutorialUIRoot: ignoring queue for item which is already active item: GREAT_PERSON_POINT
+TutorialUIRoot: ignoring queue for item which is already active item: GREAT_PERSON_POINT
+TutorialUIRoot: ignoring queue for item which is already active item: GREAT_PERSON_POINT
+TutorialUIRoot: ignoring queue for item which is already active item: GREAT_PERSON_POINT
+TutorialUIRoot: ignoring queue for item which is already active item: GREAT_PERSON_POINT
+TutorialUIRoot: ignoring queue for item which is already active item: GREAT_PERSON_POINT
+TutorialUIRoot: ignoring queue for item which is already active item: GREAT_PERSON_POINT
+TutorialUIRoot: adding item 'INFLUENCE_TOKEN' to queue because another item is already active: GREAT_PERSON_POINT_B
+TutorialUIRoot: ignoring item already in queue: INFLUENCE_TOKEN
+TutorialUIRoot: ignoring item already in queue: INFLUENCE_TOKEN
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_CLANCY_FERNANDO', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_AMRITA_SHER_GIL', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_MYKOLA_LEONTOVYCH', using default instead.
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	61	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	0	0	0	false	false
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_CLANCY_FERNANDO', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_CLANCY_FERNANDO', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_CLANCY_FERNANDO', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-1061902145
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-1061902145
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-1061902145
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=985077324
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	58	40	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	61	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	66	46	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	720906	69	50	0	true	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-1061902145
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: true
+DiplomacyActionView: false
+DiplomacyActionView: true
+DiplomacyActionView: true
+DiplomacyActionView: false
+DiplomacyActionView: true
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+GreatWorksOverview: moving great work [2] from 穆比 to 姆班赞姆潘古
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	720906	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=1004427747
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	66	27	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	0	0	0	false	false
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	66	46	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	72	47	0	true	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: true
+DiplomacyActionView: false
+DiplomacyActionView: true
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	0	0	0	false	false
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	720906	69	50	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	720906	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	66	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	70	32	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	0	0	0	false	false
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	66	46	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	61	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	720906	69	50	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	720906	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	458758	69	39	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	458758	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	74	41	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	66	46	0	true	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	71	23	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	458758	69	39	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	458758	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	76	22	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	66	46	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	720906	69	50	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	720906	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	72	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=985077324
+TutorialUIRoot: diplo stmt type=985077324
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	61	17	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	458758	69	39	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	458758	0	0	0	false	false
+GreatWorksOverview: moving great work [4] from 姆班赞刚果 to 姆班赞刚果
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatWorksOverview: moving great work [0] from 姆班赞刚果 to 姆班赞刚果
+GreatWorksOverview: moving great work [0] from 姆班赞刚果 to 奎拉
+GreatWorksOverview: moving great work [1] from 姆班赞刚果 to 奎拉
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	720906	69	50	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	720906	0	0	0	false	false
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	458758	69	39	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	458758	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	66	46	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	0	0	0	false	false
+GreatWorksOverview: moving great work [0] from 姆班赞刚果 to 金沙萨
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	66	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	66	27	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	72	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	0	0	0	false	false
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+GreatWorksOverview: moving great work [0] from 姆班赞刚果 to 姆班赞伮苏迪
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: true
+DiplomacyActionView: false
+DiplomacyActionView: true
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatWorksOverview: moving great work [0] from 姆班赞刚果 to 姆班赞刚果
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	61	17	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	71	23	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	74	41	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	72	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	720906	69	50	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	720906	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	66	46	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	61	47	0	true	false
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatWorksOverview: moving great work [0] from 姆班赞刚果 to 姆班赞姆潘古
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	0	0	0	false	false
+UnitPanel: OnUnitActionClicked() but it's currently not okay to process. (Which is fine; unless it's the player's turn.)
+UnitPanel: OnUnitActionClicked() but it's currently not okay to process. (Which is fine; unless it's the player's turn.)
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+GreatWorksOverview: moving great work [1] from 穆比 to 金沙萨
+GreatWorksOverview: moving great work [0] from 穆比 to 穆比
+GreatWorksOverview: moving great work [0] from 姆班赞刚果 to 首尔
+GreatWorksOverview: moving great work [0] from 姆班赞刚果 to 马布维拉
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=1004427747
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	61	17	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	71	23	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	74	41	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+TutorialUIRoot: ignoring queue for item which is already active item: CITYSTATE_QUEST_GIVEN
+TutorialUIRoot: ignoring queue for item which is already active item: CITYSTATE_QUEST_GIVEN
+EraCompletePopup: START EraPopupAnimation
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	72	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	0	0	0	false	false
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=985077324
+TutorialUIRoot: diplo stmt type=985077324
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-1061902145
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	66	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	58	40	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	58	40	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	0	0	0	false	false
+GreatWorksOverview: moving great work [0] from 姆班赞刚果 to 姆班赞刚果
+GreatWorksOverview: moving great work [0] from 姆班赞刚果 to 穆比
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: true
+DiplomacyActionView: false
+DiplomacyActionView: true
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	458758	69	39	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	458758	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	72	47	0	true	false
+EspionageEscape: 23
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	66	27	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	0	0	0	false	false
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	66	27	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	70	32	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	66	27	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	70	32	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	0	0	0	false	false
+GreatWorksOverview: moving great work [0] from 姆班赞刚果 to 马布维拉
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	70	32	0	true	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=985077324
+TutorialUIRoot: diplo stmt type=985077324
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=542715267
+TutorialUIRoot: diplo stmt type=542715267
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	66	27	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	70	32	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	66	21	0	true	false
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	61	17	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	66	46	0	true	false
+EspionageEscape: 23
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	0	0	0	false	false
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	72	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	66	27	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	71	23	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	66	46	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	0	0	0	false	false
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-1778523048
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=542715267
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-1061902145
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+EspionageEscape: 23
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=2115881116
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	61	17	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	61	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	0	0	0	false	false
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	61	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	0	0	0	false	false
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM', using default instead.
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	66	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+GreatWorksOverview: moving great work [2] from 穆比 to 姆班赞刚果
+GreatWorksOverview: moving great work [2] from 姆巴巴 to 马布维拉
+GreatWorksOverview: moving great work [0] from 姆巴巴 to 姆巴巴
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	66	27	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	61	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	71	23	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	66	46	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	0	0	0	false	false
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	71	23	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	458758	69	39	0	true	false
+EspionageEscape: 23
+TutorialUIRoot: diplo stmt type=-2065048438
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	458758	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	74	41	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	0	0	0	false	false
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-1061902145
+TutorialUIRoot: diplo stmt type=-1061902145
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-1061902145
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-1061902145
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	74	41	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	72	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	76	22	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	58	40	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	66	46	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	66	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	61	17	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	61	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	66	46	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	70	32	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	66	27	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	58	40	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=1004427747
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	66	27	0	true	false
+EspionageEscape: 23
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	74	41	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	458758	69	39	0	true	false
+ActionPanel: ERROR: ActionPanel received mismatched blocking types.  Event vs engine call: 	-148733181	-513644209
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	458758	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	74	41	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	72	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	71	23	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	72	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	76	22	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	74	41	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	76	22	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	66	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+GreatWorksOverview: moving great work [1] from 姆巴巴 to 马布维拉
+GreatWorksOverview: moving great work [0] from 桑加 to 桑加
+GreatWorksOverview: moving great work [1] from 桑加 to 姆巴巴乐瓦塔
+GreatWorksOverview: moving great work [2] from 桑加 to 姆巴巴乐瓦塔
+GreatWorksOverview: moving great work [2] from 姆巴巴乐瓦塔 to 桑加
+GreatWorksOverview: moving great work [2] from 姆巴巴乐瓦塔 to 姆巴巴
+GreatWorksOverview: moving great work [2] from 桑加 to 马布维拉
+GreatWorksOverview: moving great work [2] from 姆巴巴 to 桑加
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	61	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	0	0	0	false	false
+GreatWorksOverview: moving great work [0] from 穆比 to 姆巴巴
+GreatWorksOverview: moving great work [0] from 首尔 to 姆巴巴
+GreatWorksOverview: moving great work [0] from 首尔 to 穆比
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	720906	69	50	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	720906	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	61	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	58	40	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	72	47	0	true	false
+EspionageEscape: 23
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	58	40	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	0	0	0	false	false
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: true
+DiplomacyActionView: false
+DiplomacyActionView: true
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	66	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	66	46	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	66	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	61	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	76	22	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	72	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	66	46	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	58	40	0	true	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	61	17	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	58	40	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	66	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	70	32	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	720906	69	50	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	720906	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	58	40	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-1061902145
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	58	40	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	0	0	0	false	false
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	917517	48	37	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	917517	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	983054	54	50	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	983054	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	71	23	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	66	27	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	66	46	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	58	40	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	917517	48	37	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	917517	0	0	0	false	false
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+GreatWorksOverview: moving great work [2] from 奎拉 to 姆巴巴
+GreatWorksOverview: moving great work [0] from 马布维拉 to 姆巴巴
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	74	41	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	72	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	66	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	72	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	66	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-1778523048
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	66	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	66	46	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	58	40	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	917517	48	37	0	true	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	917517	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	61	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-1061902145
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=542715267
+TutorialUIRoot: diplo stmt type=542715267
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	66	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	917517	48	37	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	917517	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	66	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	458758	69	39	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	458758	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	66	46	0	true	false
+EspionageEscape: 23
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1048591	45	30	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1048591	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	917517	48	37	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	917517	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=932889739
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	66	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	66	27	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	58	40	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1114128	45	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1114128	0	0	0	false	false
+ActionPanel: ERROR: ActionPanel received mismatched blocking types.  Event vs engine call: 	-148733181	-513644209
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=542715267
+TutorialUIRoot: diplo stmt type=542715267
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	66	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	61	17	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	76	22	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	58	40	0	true	false
+EspionageEscape: 23
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	58	40	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	76	22	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	720906	69	50	0	true	false
+EspionageEscape: 23
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	720906	0	0	0	false	false
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	58	40	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	61	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	71	23	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	72	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	917517	48	37	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	917517	0	0	0	false	false
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	72	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	66	46	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	0	0	0	false	false
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1114128	45	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1114128	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1179665	50	18	0	true	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-1061902145
+TutorialUIRoot: diplo stmt type=-1061902145
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-1111294549
+TutorialUIRoot: diplo stmt type=-1111294549
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=1004427747
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1179665	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	61	17	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	66	46	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	58	40	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	0	0	0	false	false
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-1061902145
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-1061902145
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-1061902145
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-1061902145
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-1061902145
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=1004427747
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	66	21	0	true	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-1061902145
+TutorialUIRoot: diplo stmt type=-1061902145
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-1061902145
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	61	47	0	true	false
+EspionageEscape: 23
+EspionageEscape: 23
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1245202	40	28	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1245202	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1245202	40	28	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1245202	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1048591	45	30	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1048591	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	917517	48	37	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	917517	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	72	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	72	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	74	41	0	true	false
+EspionageEscape: 23
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	61	17	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	70	32	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	70	32	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	72	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	66	46	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1245202	40	28	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1245202	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	66	27	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	72	47	0	true	false
+EspionageEscape: 23
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1245202	40	28	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1245202	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	66	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	71	23	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	917517	48	37	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	917517	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	917517	48	37	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	917517	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1048591	45	30	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1048591	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-1778523048
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+GreatWorksOverview: moving great work [2] from 姆班赞温博 to 奎拉
+GreatWorksOverview: moving great work [1] from 姆班赞温博 to 姆巴巴
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1048591	45	30	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1048591	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1048591	45	30	0	true	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+GreatWorksOverview: moving great work [0] from 姆莱比 to 姆莱比
+GreatWorksOverview: moving great work [2] from 姆莱比 to 姆班赞温博
+GreatWorksOverview: moving great work [1] from 姆莱比 to 姆莱比
+GreatWorksOverview: moving great work [1] from 姆班赞温博 to 姆班赞温博
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1048591	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	71	23	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	70	32	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	58	40	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	58	40	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	61	17	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	720906	69	50	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	720906	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	61	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+ActionPanel: ERROR: ActionPanel received mismatched blocking types.  Event vs engine call: 	-148733181	-513644209
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	66	27	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	72	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	58	40	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	786443	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	66	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1245202	40	28	0	true	false
+InGame: Request to BulkHide( true, EndGame ), Show on 0 = 1
+EndGameMenu: Showing EndGame Menu
+EndGameMenu: Hiding EndGame Menu
+InGame: Request to BulkHide( false, EndGame ), Show on 0 = 0
+Mods: Failed to create mods browser search context!
+Test: Test.LUA loaded!
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+LoadScreen: true
+LoadScreen: false
+LoadScreen: true
+TutorialUIRoot: Loading bank of items for tutorial scenario: 'BASE'
+LoadScreen: OnLoadGameViewStateDone
+TutorialUIRoot: ignoring queue for item which is already active item: GREAT_PERSON_POINT
+TutorialUIRoot: ignoring queue for item which is already active item: GREAT_PERSON_POINT
+TutorialUIRoot: ignoring queue for item which is already active item: GREAT_PERSON_POINT
+TutorialUIRoot: ignoring queue for item which is already active item: GREAT_PERSON_POINT
+TutorialUIRoot: ignoring queue for item which is already active item: GREAT_PERSON_POINT
+TutorialUIRoot: ignoring queue for item which is already active item: GREAT_PERSON_POINT
+TutorialUIRoot: ignoring queue for item which is already active item: GREAT_PERSON_POINT
+TutorialUIRoot: adding item 'POLICY_UNLOCKED' to queue because another item is already active: GREAT_PERSON_POINT_B
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-1061902145
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	66	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+InGame: Request to BulkHide( true, EndGame ), Show on 0 = 1
+EndGameMenu: Showing EndGame Menu
+EndGameMenu: Hiding EndGame Menu
+InGame: Request to BulkHide( false, EndGame ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	72	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	589832	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	66	46	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	655369	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	61	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	851980	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	66	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	71	23	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	66	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1179665	50	18	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1179665	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1048591	45	30	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1048591	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	76	22	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	70	32	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	74	41	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	74	41	0	true	false
+GreatWorksOverview: moving great work [0] from 姆班赞刚果 to 宽果
+GreatWorksOverview: moving great work [1] from 姆班赞刚果 to 宽果
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	66	27	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	74	41	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1048591	45	30	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1048591	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1179665	50	18	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1179665	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1048591	45	30	0	true	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-1778523048
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1048591	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-1111294549
+TutorialUIRoot: diplo stmt type=-1111294549
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	66	21	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	66	27	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	917517	48	37	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	917517	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1114128	45	47	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	1114128	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+GreatWorksOverview: moving great work [1] from 姆布吉马伊 to 姆莱比
+GreatWorksOverview: moving great work [2] from 姆布吉马伊 to 姆班赞温博
+GreatWorksOverview: moving great work [1] from 姆布吉马伊 to 姆班赞温博
+GreatWorksOverview: moving great work [1] from 姆莱比 to 姆莱比
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	71	23	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	458758	69	39	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	458758	0	0	0	false	false
+UnitPanel: Unit panel forcing interface mode back to selection before performing operation/action
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-1061902145
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+GreatWorksOverview: moving great work [3] from 姆班赞刚果 to 姆班赞刚果
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	74	41	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	524295	0	0	0	false	false

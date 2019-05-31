@@ -1,0 +1,201 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3e40ba9355f343dc9daa80cc6e5ef1f, type: 3}
+  m_Name: DatabaseInventory
+  m_EditorClassIdentifier: 
+  inventoryCatalogue:
+    items:
+    - {fileID: 114162643406233734}
+    - {fileID: 114041390762758530}
+    - {fileID: 114743005747326202}
+    - {fileID: 114339326249631042}
+    recipes:
+    - {fileID: 114393511174853626}
+  inventorySettings:
+    inventoryUIPrefab: {fileID: 1776935227048216, guid: f4cbc33eaa8d44d37a991dfef3ac3592,
+      type: 2}
+    itemUIPrefab: {fileID: 1705642912170962, guid: 235304a3ba75e444cb7cf81c100f5a47,
+      type: 2}
+    onDragGrabItem: 1
+    cursorDrag: {fileID: 2800000, guid: 21b611b5099004ff38798dfed2a007ad, type: 3}
+    cursorDragHotspot: {x: 8, y: 8}
+    dragItemsToCombine: 1
+    inventoryStopTime: 0
+    canDropItems: 1
+    dropItemMaxDistance: 2
+--- !u!114 &114041390762758530
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.1984550956
+  m_EditorClassIdentifier: 
+  uuid: 1984550956
+  itemName:
+    content: Potion
+    postProcess: 1
+    translationID: 0
+  itemDescription:
+    content: Restores your health and size
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 21300000, guid: 5041bfbe300f5457496f9696f43df0b4, type: 3}
+  prefab: {fileID: 1695198407935802, guid: 924bd157896e94f72a329d5f92706ee9, type: 2}
+  price: 5
+  maxStack: 99
+  consumable: 1
+  actionsList: {fileID: 114807886018045398, guid: 4ea3cc801b4e4438bac4887be0824c61,
+    type: 2}
+--- !u!114 &114162643406233734
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.1101357747
+  m_EditorClassIdentifier: 
+  uuid: 1101357747
+  itemName:
+    content: Key
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Key for the Door
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 21300000, guid: b5e622ceeadae4b9a9d83633cf7797d0, type: 3}
+  prefab: {fileID: 0}
+  price: 85
+  maxStack: 99
+  consumable: 0
+  actionsList: {fileID: 114918703772636316, guid: e9fccc76eeea14d74ba57c9cfdc76f6c,
+    type: 2}
+--- !u!114 &114339326249631042
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.428583883
+  m_EditorClassIdentifier: 
+  uuid: 428583883
+  itemName:
+    content: Reducer
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Magical dust that reduces the size
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 21300000, guid: 13dc1c2acc1b44d1c98cc682d0503e45, type: 3}
+  prefab: {fileID: 0}
+  price: 99
+  maxStack: 99
+  consumable: 1
+  actionsList: {fileID: 114162512994678360, guid: 9c014f524fba44b78a85937646cd8b6d,
+    type: 2}
+--- !u!114 &114393511174853626
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 351cef4e6d83140e4aab850ea2a2ea6d, type: 3}
+  m_Name: recipe.1818813265
+  m_EditorClassIdentifier: 
+  itemToCombineA:
+    item: {fileID: 114041390762758530}
+  amountA: 1
+  itemToCombineB:
+    item: {fileID: 114743005747326202}
+  amountB: 1
+  removeItemsOnCraft: 1
+  actionsList: {fileID: 114979923567979496, guid: e501e7236c8104956957926efd8e7ddd,
+    type: 2}
+--- !u!114 &114695577710453350
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 351cef4e6d83140e4aab850ea2a2ea6d, type: 3}
+  m_Name: recipe.460857050
+  m_EditorClassIdentifier: 
+  itemToCombineA:
+    item: {fileID: 114041390762758530}
+  amountA: 1
+  itemToCombineB:
+    item: {fileID: 114162643406233734}
+  amountB: 1
+  removeItemsOnCraft: 0
+  actionsList: {fileID: 114957754088992270, guid: e56f5ee7718124b1c87a8204b516cda3,
+    type: 2}
+--- !u!114 &114724343628066398
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 351cef4e6d83140e4aab850ea2a2ea6d, type: 3}
+  m_Name: recipe.976613634
+  m_EditorClassIdentifier: 
+  itemToCombineA:
+    item: {fileID: 114041390762758530}
+  amountA: 1
+  itemToCombineB:
+    item: {fileID: 114743005747326202}
+  amountB: 1
+  removeItemsOnCraft: 1
+  actionsList: {fileID: 114165708151861550, guid: 9f722ef97e0b640e6bcf6dd2359fa8b3,
+    type: 2}
+--- !u!114 &114743005747326202
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c3b42562c09470ea31efe19c9d3dd9, type: 3}
+  m_Name: item.1471543552
+  m_EditorClassIdentifier: 
+  uuid: 1471543552
+  itemName:
+    content: Flower
+    postProcess: 0
+    translationID: 0
+  itemDescription:
+    content: Some magic flowers
+    postProcess: 0
+    translationID: 0
+  sprite: {fileID: 21300000, guid: e2de5a0d5cc174e148402f1dcacb7b16, type: 3}
+  prefab: {fileID: 0}
+  price: 5
+  maxStack: 99
+  consumable: 0
+  actionsList: {fileID: 114370203481453444, guid: 96291e3fbebee4e9097f068eca6f845f,
+    type: 2}

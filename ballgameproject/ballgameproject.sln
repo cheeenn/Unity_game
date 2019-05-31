@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ballgameproject", "ballgameproject.csproj", "{78530624-5B48-160D-7A1B-6F8DCC400764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ballgameproject.Editor", "ballgameproject.Editor.csproj", "{135975DB-2DE0-EF4C-F2D7-E74589FAFE73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78530624-5B48-160D-7A1B-6F8DCC400764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78530624-5B48-160D-7A1B-6F8DCC400764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78530624-5B48-160D-7A1B-6F8DCC400764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78530624-5B48-160D-7A1B-6F8DCC400764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{135975DB-2DE0-EF4C-F2D7-E74589FAFE73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135975DB-2DE0-EF4C-F2D7-E74589FAFE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135975DB-2DE0-EF4C-F2D7-E74589FAFE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135975DB-2DE0-EF4C-F2D7-E74589FAFE73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

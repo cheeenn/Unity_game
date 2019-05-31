@@ -1,0 +1,6 @@
+[3243987.210] Status: Create StringDictionary
+[3243987.210] Status: SetCurrentLanguage(zh_Hans_CN)
+[3243987.518] Status: Done with InitializeDictionary
+[3244087.735] Warning: ICU: A resource bundle lookup returned a fallback result (not an error)
+[3244727.317] Warning: ICU: A resource bundle lookup returned a fallback result (not an error)
+[3248937.962] Warning: ICU: A resource bundle lookup returned a fallback result (not an error)

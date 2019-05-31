@@ -1,0 +1,20 @@
+﻿{
+    "uuid": "inventory",
+    "binaryName": "Inventory",
+    "module": {
+        "name": "Inventory",
+        "version": {
+            "major": 0,
+            "minor": 2,
+            "patch": 2
+        },
+        "description": "Empower you games with consumable items. Manage, buy, sell, drop, use and craft new items with a simple click of your mouse. You can even completely customize the UI without touching a line of code.",
+        "category": "Modules",
+        "canUninstall": true
+    },
+    "developer": {
+        "name": "Catsoft Studios",
+        "mail": "hello@catsoft-studios.com"
+    },
+    "dependencies": []
+}
